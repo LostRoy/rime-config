@@ -1,0 +1,8 @@
+# 文字+tab+拼音+tab+权重,权重可选,越大越前
+
+iOS	ios
+macOS   macos
+Mac	mac
+T恤	txu
+U盘	upan
+up主    upzhu
