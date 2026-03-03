@@ -64,9 +64,10 @@ jobs:
       - name: Run Python program
         run: |
           mkdir -p dicts
+          python replace_tone.py dicts/test.dict.yaml dicts/test.dict.yaml
           python replace_tone.py downloads/zi.dict.yaml dicts/zi.dict.yaml
-          python replace_tone.py downloads/zi.dict.yaml dicts/jichu.dict.yaml
-          python replace_tone.py downloads/zi.dict.yaml dicts/lianxiang.dict.yaml
+          python replace_tone.py downloads/jichu.dict.yaml dicts/jichu.dict.yaml
+          python replace_tone.py downloads/lianxiang.dict.yaml dicts/lianxiang.dict.yaml
       
       # 5. 配置 Git 用户信息
       - name: Configure Git

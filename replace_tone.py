@@ -27,8 +27,6 @@ def replace_tone(input_file, output_file):
         content = re.sub(r'[ūúǔù]', 'u', content)
         content = re.sub(r'[üǖǘǚǜ]', 'v', content)
         
-        print(f"测试输出nüe: '{re.sub(r'[üǖǘǚǜ]', 'v', r'nüe')}' 应为 nve")
-        
         # 写入输出文件
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
