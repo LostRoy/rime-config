@@ -6,9 +6,9 @@ on:
   # 定时运行(每周五晚18点)
   schedule:
     - cron: '0 18 * * 5'
-  # 或者推送到特定分支时触发
-  push:
-    branches: [ main ]
+  # 推送到特定分支时触发
+  # push:
+  #   branches: [ main ]
 
 jobs:
   process-and-commit:
@@ -78,7 +78,7 @@ jobs:
       - name: Add generated files
         run: |
           # 检查是否有新文件或修改
-          git add dicts/
+          # git add dicts/
           
           # 检查是否有变更
           if git diff --staged --quiet; then
