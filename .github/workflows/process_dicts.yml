@@ -47,15 +47,15 @@ jobs:
           
           # 从指定 URL 下载文件
           # 请替换为你的实际下载 URL
-          if ! curl -f -s -L -o downloads/zi.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/zi.dict.yaml"; then
+          if ! curl -f -silent -L -o downloads/zi.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/zi.dict.yaml"; then
             echo "::error::CURL DOWNLOAD FAILED at $(date)"
           fi
           echo "Download zi dict completed"
-          if ! curl -f -s curl -L -o downloads/jichu.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/jichu.dict.yaml"; then
+          if ! curl -f -silent curl -L -o downloads/jichu.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/jichu.dict.yaml"; then
             echo "::error::CURL DOWNLOAD FAILED at $(date)"
           fi
           echo "Download jichu dict completed"
-          if ! curl -f -s -L -o downloads/lianxiang.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/lianxiang.dict.yaml"; then
+          if ! curl -f -silent -L -o downloads/lianxiang.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/lianxiang.dict.yaml"; then
             echo "::error::CURL DOWNLOAD FAILED at $(date)"
           fi
           echo "Download lianxiang dict completed"
