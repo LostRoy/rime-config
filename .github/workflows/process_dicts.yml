@@ -47,11 +47,11 @@ jobs:
             echo "::error::CURL DOWNLOAD FAILED at $(date)"
           fi
           echo "Download zi dict completed"
-          if ! curl -f curl -L -o downloads/zi.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/jichu.dict.yaml"; then
+          if ! curl -f curl -L -o downloads/jichu.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/jichu.dict.yaml"; then
             echo "::error::CURL DOWNLOAD FAILED at $(date)"
           fi
           echo "Download jichu dict completed"
-          if ! curl -f -L -o downloads/zi.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/lianxiang.dict.yaml"; then
+          if ! curl -f -L -o downloads/lianxiang.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/lianxiang.dict.yaml"; then
             echo "::error::CURL DOWNLOAD FAILED at $(date)"
           fi
           echo "Download lianxiang dict completed"
