@@ -1,4 +1,4 @@
-### Hello Runoob!# Rime 鼠须管（Squirrel）拼音配置
+# Rime 鼠须管（Squirrel）拼音配置
 
 ![Rime](https://img.shields.io/badge/Rime-鼠须管-9cf)
 ![Squirrel](https://img.shields.io/badge/Squirrel-拼音输入法-blue)
