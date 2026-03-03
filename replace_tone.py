@@ -25,7 +25,7 @@ def replace_tone(input_file, output_file):
         content = re.sub(r'[ēéěè]', 'e', content)
         content = re.sub(r'[īíǐì]', 'i', content)
         content = re.sub(r'[ūúǔù]', 'u', content)
-        content = re.sub(r'[ǖǘǚǜ]', 'v', content)
+        content = re.sub(r'[üǖǘǚǜ]', 'v', content)
         
         # 写入输出文件
         with open(output_file, 'w', encoding='utf-8') as f:
