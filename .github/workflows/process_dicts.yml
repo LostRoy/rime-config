@@ -81,7 +81,7 @@ jobs:
           rm -rf downloads
 
           # 检查是否有新文件或修改
-          # git add dicts/
+          git add dicts/
           
           # 检查是否有变更
           if git diff --staged --quiet; then
