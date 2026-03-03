@@ -74,8 +74,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
       
-      # 6. 将生成的输出文件添加到仓库
-      - name: Add generated files
+      # 6. 将生成的输出文件提交到仓库
+      - name: Commit & Push
         run: |
           # 删除临时文件夹
           rm -rf downloads
@@ -88,13 +88,9 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-      
-      # 7. 提交变更
-      - name: Commit changes
-        run: |
+          # 提交变更
           git commit -m "Update processed dicts from workflow run $(date +'%Y-%m-%d %H:%M:%S')"
-      
-      # 8. 推送到仓库
-      - name: Push changes
-        run: |
+          # 推送到仓库
           git push origin HEAD:${GITHUB_REF#refs/heads/}
+
+          
