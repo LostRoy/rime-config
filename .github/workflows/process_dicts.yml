@@ -38,6 +38,10 @@ jobs:
       # 3. 从指定位置下载文件
       - name: Download file
         run: |
+          # 设置pip, 加载依赖
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
           # 创建下载目录
           mkdir -p downloads
           
