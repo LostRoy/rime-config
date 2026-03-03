@@ -1,3 +1,28 @@
+HTTP/2 200 
+cache-control: max-age=300
+content-security-policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+content-type: text/plain; charset=utf-8
+etag: "698469fb70009038db62792ccdaac56b444291d92a980972db0573a8a945bea0"
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-frame-options: deny
+x-xss-protection: 1; mode=block
+x-github-request-id: 8276:1A2BA6:15973B:1B9CF0:69A6E7B1
+accept-ranges: bytes
+date: Tue, 03 Mar 2026 13:52:50 GMT
+via: 1.1 varnish
+x-served-by: cache-bur-kbur8200036-BUR
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1772545970.244342,VS0,VE193
+vary: Authorization,Accept-Encoding
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+x-fastly-request-id: 243489317e3ddab21a147733fcb059711f22d249
+expires: Tue, 03 Mar 2026 13:57:50 GMT
+source-age: 0
+content-length: 618178
+
 # Rime dictionary
 # encoding: utf-8
 #https://github.com/amzxyz/RIME-LMDG
@@ -23599,35 +23624,35 @@ sort: by_weight
 𩴐	lv	1
 𪈜	lv	1
 𪫰	lv	1
-略	lüe	742
-掠	lüe	542
-畧	lüe	255
-锊	lüe	215
-圙	lüe	211
-稤	lüe	92
-鋢	lüe	87
-鋝	lüe	23
-䂮	lüe	1
-寽	lüe	1
-藥	lüe	1
-㑼	lüe	1
-㔀	lüe	1
-㗉	lüe	1
-㨼	lüe	1
-䌎	lüe	1
-䛚	lüe	1
-䤣	lüe	1
-䤚	lüe	1
-𠢌	lüe	1
-𠼟	lüe	1
-𢱊	lüe	1
-𦊹	lüe	1
-𧎾	lüe	1
-𧐋	lüe	1
-𧐯	lüe	1
-𧑀	lüe	1
-𧕌	lüe	1
-𪅅	lüe	1
+略	lve	742
+掠	lve	542
+畧	lve	255
+锊	lve	215
+圙	lve	211
+稤	lve	92
+鋢	lve	87
+鋝	lve	23
+䂮	lve	1
+寽	lve	1
+藥	lve	1
+㑼	lve	1
+㔀	lve	1
+㗉	lve	1
+㨼	lve	1
+䌎	lve	1
+䛚	lve	1
+䤣	lve	1
+䤚	lve	1
+𠢌	lve	1
+𠼟	lve	1
+𢱊	lve	1
+𦊹	lve	1
+𧎾	lve	1
+𧐋	lve	1
+𧐯	lve	1
+𧑀	lve	1
+𧕌	lve	1
+𪅅	lve	1
 呣	m̀	1
 呒	ḿ	1
 呣	ḿ	1
@@ -26954,18 +26979,18 @@ sort: by_weight
 𦓕	nv	1
 𧖷	nv	1
 𩈢	nv	1
-虐	nüe	592
-疟	nüe	455
-瘧	nüe	105
-硸	nüe	60
-婩	nüe	1
-䖈	nüe	1
-䖋	nüe	1
-䨋	nüe	1
-𤷡	nüe	1
-𨵫	nüe	1
-𩁿	nüe	1
-𫊝	nüe	1
+虐	nve	592
+疟	nve	455
+瘧	nve	105
+硸	nve	60
+婩	nve	1
+䖈	nve	1
+䖋	nve	1
+䨋	nve	1
+𤷡	nve	1
+𨵫	nve	1
+𩁿	nve	1
+𫊝	nve	1
 哦	o	745
 噢	o	733
 喔	o	547
