@@ -1,4 +1,4 @@
-name: release dicts
+name: Release dicts
 
 on:
   push:
@@ -30,9 +30,8 @@ jobs:
           # 设置时区为亚洲/上海（北京时间）
           sudo timedatectl set-timezone Asia/Shanghai
           
-          # 创建带时间戳的压缩包
-          TIMESTAMP=$(date +'%Y%m%d-%H%M%S')
-          FILENAME="dicts-${TIMESTAMP}.zip"
+          # 创建压缩包
+          FILENAME="dicts.zip"
           
           zip -r "${FILENAME}" dicts/
           
@@ -43,13 +42,12 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: dicts-${{ github.sha }}
-          name: "📦 Dicts Package ${{ github.sha }}"
+          name: "📦 Dicts Package $(date +'%Y%m%d%H%M%S')"
           body: |
-            ## Dicts Folder Package
+            ## 词库下载
             
-            - 📁 Automatically Packaged on: $(date)
+            - 📁 Automatically Packaged on: $(date +'%Y-%m-%d %H:%M:%S')
             - 🔍 Commit: ${{ github.sha }}
-            - 📊 Size: $(du -sh dicts | cut -f1)
           files: ${{ env.filename }}
           draft: false
           prerelease: false
