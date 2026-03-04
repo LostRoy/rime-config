@@ -45,19 +45,12 @@ jobs:
           # 创建下载目录
           mkdir -p downloads
           
-          # 从指定 URL 下载文件
-          # 请替换为你的实际下载 URL
-          if ! curl -f -L -o downloads/zi.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/zi.dict.yaml"; then
-            echo "::error::CURL DOWNLOAD FAILED at $(date)"
-          fi
+          # 下载文件
+          curl -L -o downloads/zi.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/zi.dict.yaml"
           echo "Download zi dict completed"
-          if ! curl -f -L -o downloads/jichu.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/jichu.dict.yaml"; then
-            echo "::error::CURL DOWNLOAD FAILED at $(date)"
-          fi
+          curl -L -o downloads/jichu.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/jichu.dict.yaml"
           echo "Download jichu dict completed"
-          if ! curl -f -L -o downloads/lianxiang.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/lianxiang.dict.yaml"; then
-            echo "::error::CURL DOWNLOAD FAILED at $(date)"
-          fi
+          curl -L -o downloads/lianxiang.dict.yaml "https://raw.githubusercontent.com/amzxyz/RIME-LMDG/refs/heads/wanxiang/dicts/lianxiang.dict.yaml"
           echo "Download lianxiang dict completed"
       
       # 4. 运行 Python 程序处理文件
@@ -89,7 +82,7 @@ jobs:
             exit 0
           fi
           # 提交变更
-          git commit -m "Update processed dicts from workflow run $(date +'%Y-%m-%d %H:%M:%S')"
+          git commit -m "update from workflow"
           # 推送到仓库
           git push origin HEAD:${GITHUB_REF#refs/heads/}
 
