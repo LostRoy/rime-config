@@ -29,7 +29,11 @@ jobs:
 
           # 设置时区为亚洲/上海（北京时间）
           sudo timedatectl set-timezone Asia/Shanghai
-          
+          TIMESTAMP=$(date +'%Y%m%d%H%M%S')
+          echo "timestamp=${TIMESTAMP}" >> $GITHUB_ENV
+          CURRENT_TIME=$(date +'%Y-%m-%d %H:%M:%S')
+          echo "current_time=${CURRENT_TIME}" >> $GITHUB_ENV
+
           # 创建压缩包
           FILENAME="dicts.zip"
           
@@ -42,11 +46,11 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: dicts-${{ github.sha }}
-          name: "📦 Dicts Package $(date +'%Y%m%d%H%M%S')"
+          name: "📦 Dicts Package ${{ env.timestamp }}"
           body: |
             ## 词库下载
             
-            - 📁 Automatically Packaged on: $(date +'%Y-%m-%d %H:%M:%S')
+            - 📁 Automatically Packaged on: ${{ env.current_time }}
             - 🔍 Commit: ${{ github.sha }}
           files: ${{ env.filename }}
           draft: false
