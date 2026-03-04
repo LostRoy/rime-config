@@ -1,0 +1,57 @@
+name: release dicts
+
+on:
+  push:
+    paths:
+      - 'dicts/**'  # 当dicts文件夹变化时触发
+    branches:
+      - main
+      - master
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Create archive
+        run: |
+          # 检查dicts文件夹
+          if [ ! -d "dicts" ]; then
+            echo "❌ dicts folder not found!"
+            exit 1
+          fi
+
+          # 设置时区为亚洲/上海（北京时间）
+          sudo timedatectl set-timezone Asia/Shanghai
+          
+          # 创建带时间戳的压缩包
+          TIMESTAMP=$(date +'%Y%m%d-%H%M%S')
+          FILENAME="dicts-${TIMESTAMP}.zip"
+          
+          zip -r "${FILENAME}" dicts/
+          
+          echo "✅ Created: ${FILENAME}"
+          echo "filename=${FILENAME}" >> $GITHUB_ENV
+      
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: dicts-${{ github.sha }}
+          name: "📦 Dicts Package ${{ github.sha }}"
+          body: |
+            ## Dicts Folder Package
+            
+            - 📁 Automatically Packaged on: $(date)
+            - 🔍 Commit: ${{ github.sha }}
+            - 📊 Size: $(du -sh dicts | cut -f1)
+          files: ${{ env.filename }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
