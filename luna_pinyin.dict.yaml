@@ -11,4 +11,3 @@ import_tables:
   - dicts/zi            # 汉字表
   - dicts/jichu         # 基础词库，2-3字词汇
   - dicts/lianxiang     # 联想词库，5字以上词汇
-  - dicts/en            # 英文单词
