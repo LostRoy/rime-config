@@ -1,7 +1,7 @@
 patch:
   switches:
     - name: ascii_mode # 0 中文，1 英文
-      reset: 1
+      reset: 0
       states: [ "中文", "西文" ]
     - name: full_shape # 全角/半角符号开关
       states: [ "半角", "全角" ]
@@ -72,6 +72,7 @@ patch:
       ">": ">"
       "{": [ "{", "｛" ]
       "}": [ "}", "｝" ]
+      "_": [ "_", "——" ]
 
   recognizer/patterns/punct: "^/([a-z]+|[0-9]0?)$"
 
