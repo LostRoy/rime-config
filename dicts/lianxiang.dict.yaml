@@ -5185,6 +5185,7 @@ sort: by_weight
 丙氨酰辅酶	bing an xian fu mei	1
 丙氨酰萘胺	bing an xian nai an	3
 丙氨酰组酸	bing an xian zu suan	1
+兵败如山倒	bing bai ru shan dao	1
 柄斑奇非鲫	bing ban qi fei ji	1
 冰冰的绿茶	bing bing de lv cha	1
 兵部笔帖式	bing bu bi tie shi	1
@@ -8070,7 +8071,7 @@ sort: by_weight
 昌江核电厂	chang jiang he dian chang	1
 昌江核电站	chang jiang he dian zhan	1
 长江和黄河	chang jiang he huang he	1
-长江黄河长	chang jiang huang he chang	1
+长江黄河长	chang jiang huang he zhang	1
 长江口以北	chang jiang kou yi bei	1
 长江日报路	chang jiang ri bao lu	1
 长江韬奋奖	chang jiang tao fen jiang	1
@@ -9637,6 +9638,7 @@ sort: by_weight
 吃了迷混药	chi le mi hun yao	1
 吃了枪药了	chi le qiang yao le	1
 吃了什么药	chi le shen me yao	1
+吃力不讨好	chi li bu tao hao	1
 吃粮不管事	chi liang bu guan shi	1
 炽烈的阳光	chi lie de yang guang	1
 齿列矫正器	chi lie jiao zheng qi	1
@@ -10800,6 +10802,7 @@ sort: by_weight
 椎管狭窄症	chui guan xia zhai zheng	1
 椎管造影术	chui guan zao ying shu	1
 吹过的牛逼	chui guo de niu bi	1
+吹胡子瞪眼	chui hu zi deng yan	1
 椎基底动脉	chui ji di dong mai	1
 椎间植骨术	chui jian zhi gu shu	1
 吹了个口哨	chui le ge kou shao	1
@@ -14782,6 +14785,7 @@ sort: by_weight
 第三者介入	di san zhe jie ru	1
 第三枕神经	di san zhen shen jing	1
 第三指缝线	di san zhi feng xian	1
+第三只眼看	di san zhi yan kan	1
 第三种绝色	di san zhong jue se	1
 蒂森克虏伯	di sen ke lu bo	1
 地上的血迹	di shang de xue ji	1
@@ -20444,18 +20448,17 @@ sort: by_weight
 仿真棕榈树	fang zhen zong lv shu	1
 方正兰亭黑	fang zheng lan ting hei	1
 方正小标宋	fang zheng xiao biao song	1
-防治艾滋病	fang zhi ai zi bing	1
+防治艾滋病	fang zhi ai zi bing	2
 防止艾滋病	fang zhi ai zi bing	1
 防芷鼻炎片	fang zhi bi yan pian	1
 防治病虫害	fang zhi bing chong hai	1
 防止病虫害	fang zhi bing chong hai	1
+防止并发症	fang zhi bing fa zheng	2
 防治并发症	fang zhi bing fa zheng	1
-防止并发症	fang zhi bing fa zheng	1
 纺织博物馆	fang zhi bo wu guan	1
 纺织产业链	fang zhi chan ye lian	1
 纺织产业园	fang zhi chan ye yuan	1
 方志出版社	fang zhi chu ban she	1
-方智出版社	fang zhi chu ban she	1
 纺织出版社	fang zhi chu ban she	1
 防治传染病	fang zhi chuan ran bing	1
 放置的位置	fang zhi de wei zhi	1
@@ -24129,6 +24132,7 @@ sort: by_weight
 赣南医学院	gan nan yi xue yuan	1
 肝内外胆管	gan nei wai dan guan	1
 甘牛胆酸钠	gan niu dan suan na	3
+敢怒不敢言	gan nu bu gan yan	1
 干呕而利者	gan ou er li zhe	1
 肝脾不调证	gan pi bu tiao zheng	1
 肝脾康胶囊	gan pi kang jiao nang	1
@@ -26969,6 +26973,7 @@ sort: by_weight
 狗血的爱情	gou xie de ai qing	1
 狗血的剧情	gou xie de ju qing	1
 狗眼看人低	gou yan kan ren di	1
+狗咬吕洞宾	gou yao lv dong bin	1
 钩弋夫人墓	gou yi fu ren mu	1
 勾玉的戒指	gou yu de jie zhi	1
 勾玉的碎片	gou yu de sui pian	1
@@ -28456,6 +28461,7 @@ sort: by_weight
 贵人的出现	gui ren de chu xian	1
 贵人的扶持	gui ren de fu chi	1
 贵人的相助	gui ren de xiang zhu	1
+贵人多忘事	gui ren duo wang shi	1
 桂茸枸杞酒	gui rong gou qi jiu	1
 桂茸固本丸	gui rong gu ben wan	1
 龟茸壮骨片	gui rong zhuang gu pian	1
@@ -29740,6 +29746,7 @@ sort: by_weight
 汉语音韵史	han yu yin yun shi	1
 汉语字词典	han yu zi ci dian	1
 含元殿遗址	han yuan dian yi zhi	1
+汉贼不两立	han zei bu liang li	1
 含着金汤匙	han zhe jin tang shi	1
 含着金钥匙	han zhe jin yao shi	1
 寒滞肠胃证	han zhi chang wei zheng	1
@@ -29765,6 +29772,7 @@ sort: by_weight
 航海东路站	hang hai dong lu zhan	1
 航海热病毒	hang hai re bing du	1
 航海王启航	hang hai wang qi hang	1
+行行出状元	hang hang chu zhuang yuan	1
 航华新村站	hang hua xin cun zhan	1
 杭锦后旗人	hang jin hou qi ren	1
 杭金衢高速	hang jin qu gao su	1
@@ -30042,6 +30050,7 @@ sort: by_weight
 好声音导师	hao sheng yin dao shi	1
 好声音学员	hao sheng yin xue yuan	1
 好事变坏事	hao shi bian huai shi	1
+好事不出门	hao shi bu chu men	1
 好世界广场	hao shi jie guang chang	1
 好世界投资	hao shi jie tou zi	1
 好时巧克力	hao shi qiao ke li	1
@@ -31651,7 +31660,9 @@ sort: by_weight
 后垃圾摇滚	hou la ji yao gun	1
 后来居上者	hou lai ju shang zhe	1
 后来慢慢地	hou lai man man de	1
+后来者居上	hou lai zhe ju shang	1
 后浪漫主义	hou lang man zhu yi	1
+后浪推前浪	hou lang tui qian lang	1
 后冷泉天皇	hou leng quan tian huang	1
 喉良性肿瘤	hou liang xing zhong liu	1
 喉淋巴肉瘤	hou lin ba rou liu	1
@@ -38546,6 +38557,7 @@ sort: by_weight
 江苏徐州的	jiang su xu zhou de	1
 江苏宜兴市	jiang su yi xing shi	1
 将太的寿司	jiang tai de shou si	1
+姜太公钓鱼	jiang tai gong diao yu	1
 姜太公喂鱼	jiang tai gong wei yu	1
 绛糖宁胶囊	jiang tang ning jiao nang	1
 降糖宁胶囊	jiang tang ning jiao nang	1
@@ -41711,6 +41723,7 @@ sort: by_weight
 救荒野豌豆	jiu huang ye wan dou	1
 就回北京了	jiu hui bei jing le	1
 就会死的病	jiu hui si de bing	1
+救急不救穷	jiu ji bu jiu qiong	1
 究极乐子人	jiu ji le zi ren	1
 救急稀涎散	jiu ji xi xian san	1
 纠集在一起	jiu ji zai yi qi	1
@@ -43138,6 +43151,7 @@ sort: by_weight
 开门的声音	kai men de sheng yin	1
 开门的钥匙	kai men de yao shi	1
 开门郎不至	kai men lang bu zhi	1
+开门七件事	kai men qi jian shi	1
 开明的自利	kai ming de zi li	1
 凯穆二氏征	kai mu er shi zheng	1
 开幕式致辞	kai mu shi zhi ci	1
@@ -44494,6 +44508,7 @@ sort: by_weight
 孔科尔迪亚	kong ke er di ya	1
 空客和波音	kong ke he bo yin	1
 空空落落的	kong kong luo luo de	1
+空口说白话	kong kou shuo bai hua	1
 孔库雷非鲫	kong ku lei fei ji	1
 空旷的场地	kong kuang de chang di	1
 空旷的房间	kong kuang de fang jian	1
@@ -47894,6 +47909,7 @@ sort: by_weight
 磷清除试验	lin qing chu shi yan	1
 林赛氏指甲	lin sai shi zhi jia	1
 磷砷锌铜矿	lin shen xin tong kuang	1
+临时抱佛脚	lin shi bao fo jiao	1
 临时参议院	lin shi can yi yuan	1
 临时参政院	lin shi can zheng yuan	1
 淋湿的翅膀	lin shi de chi bang	1
@@ -49303,6 +49319,7 @@ sort: by_weight
 芦沙坦钾片	lu sha tan jia pian	1
 庐山百龙霸	lu shan bai long ba	1
 庐山南大道	lu shan nan da dao	1
+庐山真面目	lu shan zhen mian mu	1
 麓山忠烈祠	lu shan zhong lie ci	1
 路上的安全	lu shang de an quan	1
 路上的车辆	lu shang de che liang	1
@@ -52665,6 +52682,7 @@ sort: by_weight
 明生大和尚	ming sheng da he shang	1
 名胜风景区	ming sheng feng jing qu	1
 明史爱好者	ming shi ai hao zhe	1
+名师出高徒	ming shi chu gao tu	1
 明示或暗示	ming shi huo an shi	1
 明史艺文志	ming shi yi wen zhi	1
 明石元二郎	ming shi yuan er lang	1
@@ -52808,6 +52826,7 @@ sort: by_weight
 膜不对称性	mo bu dui cheng xing	1
 抹不去的伤	mo bu qu de shang	1
 摸不着边际	mo bu zhao bian ji	1
+摸不着头脑	mo bu zhao tou nao	1
 摩擦系数大	mo ca xi shu da	1
 摩擦系数低	mo ca xi shu di	1
 摩擦系数小	mo ca xi shu xiao	1
@@ -53379,6 +53398,7 @@ sort: by_weight
 那打素医院	na da su yi yuan	1
 那档子事儿	na dang zi shi er	1
 那倒不一定	na dao bu yi ding	1
+那倒不至于	na dao bu zhi yu	1
 拿到驾照后	na dao jia zhao hou	1
 拿到试卷后	na dao shi juan hou	1
 拿到手机后	na dao shou ji hou	1
@@ -54991,6 +55011,7 @@ sort: by_weight
 镍基锰合金	nie ji meng he jin	1
 颞肌下减压	nie ji xia jian ya	1
 颞间隙感染	nie jian xi gan ran	1
+捏了一把汗	nie le yi ba han	1
 涅留恩格里	nie liu en ge li	1
 涅米茨算子	nie mi ci suan zi	1
 涅槃变相碑	nie pan bian xiang bei	1
@@ -55953,6 +55974,7 @@ sort: by_weight
 潘多拉之盒	pan duo la zhi he	1
 潘多拉之心	pan duo la zhi xin	1
 盘购前收益	pan gou qian shou yi	1
+盘古开天地	pan gu kai tian di	1
 盘骨止痛膏	pan gu zhi tong gao	1
 盘海营高速	pan hai ying gao su	1
 盘基网柄菌	pan ji wang bing jun	1
@@ -56921,6 +56943,7 @@ sort: by_weight
 平底不粘锅	ping di bu zhan guo	1
 平底方向盘	ping di fang xiang pan	1
 平第四颈椎	ping di si jing zhui	1
+平地一声雷	ping di yi sheng lei	1
 平底运动鞋	ping di yun dong xie	1
 评定量表法	ping ding liang biao fa	1
 平定两金川	ping ding liang jin chuan	1
@@ -56974,6 +56997,7 @@ sort: by_weight
 苹果酸氢钠	ping guo suan qing na	3
 苹果与三星	ping guo yu san xing	1
 苹果园站西	ping guo yuan zhan xi	1
+平巷与平硐	ping hang yu ping dong	1
 平和打包厂	ping he da bao chang	1
 平和岛静雄	ping he dao jing xiong	1
 平和堂实业	ping he tang shi ye	1
@@ -57050,6 +57074,7 @@ sort: by_weight
 屏山文物径	ping shan wen wu jing	1
 评审结果等	ping shen jie guo deng	1
 平生不平事	ping sheng bu ping shi	1
+平时不烧香	ping shi bu shao xiang	1
 平时的穿搭	ping shi de chuan da	1
 平实的语言	ping shi de yu yan	1
 平时荣获二	ping shi rong huo er	1
@@ -58257,7 +58282,7 @@ sort: by_weight
 企业及个人	qi ye ji ge ren	1
 企业界人士	qi ye jie ren shi	1
 气液两相流	qi ye liang xiang liu	1
-企业内连网	qi ye nei lian wang	1
+企业内联网	qi ye nei lian wang	1
 气液色谱法	qi ye se pu fa	1
 企业商业展	qi ye shang ye zhan	1
 七叶神安片	qi ye shen an pian	1
@@ -60789,6 +60814,7 @@ sort: by_weight
 球队席区域	qiu dui xi qu yu	1
 球二孢菌素	qiu er bao jun su	1
 秋风落叶扫	qiu feng luo ye sao	1
+秋风扫落叶	qiu feng sao luo ye	1
 秋风生渭水	qiu feng sheng wei shui	1
 秋风纨扇图	qiu feng wan shan tu	1
 求高手指教	qiu gao shou zhi jiao	1
@@ -61414,6 +61440,7 @@ sort: by_weight
 全国统一价	quan guo tong yi jia	1
 全国文明镇	quan guo wen ming zhen	1
 全国性协会	quan guo xing xie hui	1
+全国一盘棋	quan guo yi pan qi	1
 全国自考办	quan guo zi kao ban	1
 全焊接球阀	quan han jie qiu fa	1
 劝和不劝离	quan he bu quan li	1
@@ -61544,7 +61571,6 @@ sort: by_weight
 全球的视野	quan qiu de shi ye	1
 全球的疫情	quan qiu de yi qing	1
 全球第一台	quan qiu di yi tai	1
-全球互连网	quan qiu hu lian wang	1
 全球互联网	quan qiu hu lian wang	1
 全球化程度	quan qiu hua cheng du	1
 全球化视野	quan qiu hua shi ye	1
@@ -61990,6 +62016,7 @@ sort: by_weight
 热固性树脂	re gu xing shu zhi	1
 热光变曲线	re guang bian qu xian	1
 热滚筒烧伤	re gun tong shao shang	1
+热锅上蚂蚁	re guo shang ma yi	1
 热耗真阴证	re hao zhen yin zheng	1
 热核反应堆	re he fan ying dui	1
 热合木都拉	re he mu dou la	1
@@ -62151,6 +62178,7 @@ sort: by_weight
 壬苯醇醚膜	ren ben chun mi mo	1
 人本欲生经	ren ben yu sheng jing	1
 仁伯爵医院	ren bo jue yi yuan	1
+人不可貌相	ren bu ke mao xiang	1
 认不认识我	ren bu ren shi wo	1
 人不是机器	ren bu shi ji qi	1
 忍不住大笑	ren bu zhu da xiao	1
@@ -62436,6 +62464,7 @@ sort: by_weight
 忍辱波罗蜜	ren ru bo luo mi	1
 忍辱波罗密	ren ru bo luo mi	1
 人三次恋爱	ren san ci lian ai	1
+人善被人欺	ren shan bei ren qi	1
 人山人海中	ren shan ren hai zhong	1
 人上了年纪	ren shang le nian ji	1
 人社等部门	ren she deng bu men	1
@@ -62515,6 +62544,7 @@ sort: by_weight
 人生和事业	ren sheng he shi ye	1
 仁圣皇太叔	ren sheng huang tai shu	1
 人生交叉剔	ren sheng jiao cha ti	1
+人生路不熟	ren sheng lu bu shu	1
 人生满希望	ren sheng man xi wang	1
 人生如逆旅	ren sheng ru ni lv	1
 人生三境界	ren sheng san jing jie	1
@@ -63084,6 +63114,7 @@ sort: by_weight
 乳房有肿块	ru fang you zhong kuai	1
 入沸水锅中	ru fei shui guo zhong	1
 如风的火花	ru feng de huo hua	1
+入风管缆井	ru feng guan lan jing	1
 如皋定慧寺	ru gao ding hui si	1
 如歌的岁月	ru ge de sui yue	1
 如歌的行板	ru ge de xing ban	1
@@ -63405,6 +63436,7 @@ sort: by_weight
 瑞氏综合征	rui shi zong he zheng	1
 瑞特综合征	rui te zong he zheng	1
 锐武装甲车	rui wu zhuang jia che	1
+瑞雪兆丰年	rui xue zhao feng nian	1
 瑞应麒麟图	rui ying qi lin tu	1
 锐鸢无人机	rui yuan wu ren ji	1
 锐缘支动脉	rui yuan zhi dong mai	1
@@ -63740,6 +63772,7 @@ sort: by_weight
 三氟异乙腈	san fu yi yi jing	1
 三杆式天平	san gan shi tian ping	1
 三岗店子村	san gang dian zi cun	1
+三个臭皮匠	san ge chou pi jiang	1
 三根分叉部	san gen fen cha bu	1
 三更之回家	san geng zhi hui jia	1
 三公九卿制	san gong jiu qing zhi	1
@@ -64008,6 +64041,7 @@ sort: by_weight
 三七脂肝丸	san qi zhi gan wan	1
 三七止血片	san qi zhi xue pian	1
 三七总皂苷	san qi zong zao gan	1
+三千里江山	san qian li jiang shan	1
 三腔二囊管	san qiang er nang guan	1
 三羟基黄酮	san qiang ji huang tong	1
 三羟甲基膦	san qiang jia ji lin	1
@@ -64065,6 +64099,7 @@ sort: by_weight
 三十六天将	san shi liu tian jiang	1
 散是满天星	san shi man tian xing	1
 三十枚银币	san shi mei yin bi	1
+三十年河东	san shi nian he dong	1
 三十年和约	san shi nian he yue	1
 三十七道品	san shi qi dao pin	1
 三十七分法	san shi qi fen fa	1
@@ -65890,6 +65925,7 @@ sort: by_weight
 涉民生案件	she min sheng an jian	1
 舍命不舍财	she ming bu she cai	1
 蛇明南星散	she ming nan xing san	1
+舍命陪君子	she ming pei jun zi	1
 涉企保证金	she qi bao zheng jin	1
 设区的市级	she qu de shi ji	1
 设区地级市	she qu di ji shi	1
@@ -69470,6 +69506,7 @@ sort: by_weight
 事实与理由	shi shi yu li you	1
 事实与论据	shi shi yu lun ju	1
 事实与真相	shi shi yu zhen xiang	1
+时势造英雄	shi shi zao ying xiong	1
 狮式战斗机	shi shi zhan dou ji	1
 史诗战争片	shi shi zhan zheng pian	1
 时事直通车	shi shi zhi tong che	1
@@ -69621,6 +69658,7 @@ sort: by_weight
 市外经贸局	shi wai jing mao ju	1
 市外经贸委	shi wai jing mao wei	1
 世外桃源般	shi wai tao yuan ban	1
+十万八千里	shi wan ba qian li	1
 是豌豆公主	shi wan dou gong zhu	1
 十万吨情缘	shi wan dun qing yuan	1
 十万火急啊	shi wan huo ji a	1
@@ -70411,6 +70449,7 @@ sort: by_weight
 食浊阻滞证	shi zhuo zu zhi zheng	1
 十字绷带法	shi zi beng dai fa	1
 师资博士后	shi zi bo shi hou	1
+狮子大开口	shi zi da kai kou	1
 狮子岛霉素	shi zi dao mei su	1
 狮子的牙齿	shi zi de ya chi	1
 狮子的摇滚	shi zi de yao gun	1
@@ -71993,6 +72032,7 @@ sort: by_weight
 水果的种类	shui guo de zhong lei	1
 水果等食品	shui guo deng shi pin	1
 水果等食物	shui guo deng shi wu	1
+水过地皮湿	shui guo di pi shi	1
 水果和坚果	shui guo he jian guo	1
 水果和零食	shui guo he ling shi	1
 水果与蔬菜	shui guo yu shu cai	1
@@ -75978,6 +76018,7 @@ sort: by_weight
 天下第一庄	tian xia di yi zhuang	1
 天下共逐之	tian xia gong zhu zhi	1
 天下图控股	tian xia tu kong gu	1
+天下无难事	tian xia wu nan shi	1
 天下信息网	tian xia xin xi wang	1
 天下一大乐	tian xia yi da le	1
 天下之穷民	tian xia zhi qiong min	1
@@ -80774,6 +80815,7 @@ sort: by_weight
 无地王约翰	wu di wang yue han	1
 无敌小飞猪	wu di xiao fei zhu	1
 无敌与传奇	wu di yu chuan qi	1
+无敌于天下	wu di yu tian xia	1
 无地域限制	wu di yu xian zhi	1
 无敌最俊朗	wu di zui jun lang	1
 五叠氮化砷	wu die dan hua shen	1
@@ -81338,6 +81380,7 @@ sort: by_weight
 无穷小演算	wu qiong xiao yan suan	1
 无穷性公理	wu qiong xing gong li	1
 无球粒陨石	wu qiu li yun shi	1
+无求所谓了	wu qiu suo wei le	1
 无趣的生活	wu qu de sheng huo	1
 吾去脱他衣	wu qu tuo ta yi	1
 无取向硅钢	wu qu xiang gui gang	1
@@ -82364,6 +82407,7 @@ sort: by_weight
 膝骨关节炎	xi gu guan jie yan	1
 西瓜霜清咽	xi gua shuang qing yan	1
 西瓜子氨酸	xi gua zi an suan	1
+习惯成自然	xi guan cheng zi ran	1
 习惯的改变	xi guan de gai bian	1
 习惯的力量	xi guan de li liang	1
 习惯的培养	xi guan de pei yang	1
@@ -86998,7 +87042,7 @@ sort: by_weight
 锌指核酸酶	xin zhi he suan mei	1
 新殖民主义	xin zhi min zhu yi	1
 新质生产力	xin zhi sheng chan li	1
-新知识份子	xin zhi shi fen zi	1
+新知识分子	xin zhi shi fen zi	1
 心中的道德	xin zhong de dao de	1
 心中的苦楚	xin zhong de ku chu	1
 心中的涟漪	xin zhong de lian yi	1
@@ -87760,6 +87804,7 @@ sort: by_weight
 溴丙酸甲酯	xiu bing suan jia zhi	3
 溴丙酸乙酯	xiu bing suan yi zhi	3
 休伯利安号	xiu bo li an hao	1
+秀才不出门	xiu cai bu chu men	1
 秀才遇到兵	xiu cai yu dao bing	1
 秀才遇见兵	xiu cai yu jian bing	1
 秀才遇上兵	xiu cai yu shang bing	1
@@ -88540,6 +88585,7 @@ sort: by_weight
 学生的情况	xue sheng de qing kuang	1
 学生的权利	xue sheng de quan li	1
 学生的人格	xue sheng de ren ge	1
+学生的任务	xue sheng de ren wu	1
 学生的日子	xue sheng de ri zi	1
 学生的数量	xue sheng de shu liang	1
 学生的思维	xue sheng de si wei	1
@@ -91241,6 +91287,7 @@ sort: by_weight
 一棒子打死	yi bang zi da si	1
 怡保白咖啡	yi bao bai ka fei	1
 怡宝纯净水	yi bao chun jing shui	1
+一报还一报	yi bao huan yi bao	1
 怡保火车站	yi bao huo che zhan	1
 怡宝矿泉水	yi bao kuang quan shui	1
 一包面巾纸	yi bao mian jin zhi	1
@@ -92384,6 +92431,7 @@ sort: by_weight
 疫情信息科	yi qing xin xi ke	1
 怡清源茶业	yi qing yuan cha ye	1
 疫情直报员	yi qing zhi bao yuan	1
+一去不复返	yi qu bu fu fan	1
 移去大头针	yi qu da tou zhen	1
 一曲肝肠断	yi qu gan chang duan	1
 一曲广陵散	yi qu guang ling san	1
@@ -103809,6 +103857,7 @@ sort: by_weight
 状王宋世杰	zhuang wang song shi jie	1
 壮西六味散	zhuang xi liu wei san	1
 壮西六味丸	zhuang xi liu wei wan	1
+装卸矿硐室	zhuang xie kuang dong shi	1
 装修房子时	zhuang xiu fang zi shi	1
 庄雅婷老师	zhuang ya ting lao shi	1
 庄严的仪式	zhuang yan de yi shi	1
@@ -109058,6 +109107,7 @@ sort: by_weight
 闭袢性肠梗阻	bi pan xing chang geng zu	1
 鼻皮管重建术	bi pi guan chong jian shu	1
 比奇飞机公司	bi qi fei ji gong si	1
+毕其功于一役	bi qi gong yu yi yi	1
 鼻气管鸟杆菌	bi qi guan niao gan jun	1
 鼻前后孔狭窄	bi qian hou kong xia zhai	1
 鼻腔恶性肿瘤	bi qiang e xing zhong liu	1
@@ -109987,6 +110037,7 @@ sort: by_weight
 不得已的苦衷	bu de yi de ku zhong	1
 不得已的情况	bu de yi de qing kuang	1
 不得已的原因	bu de yi de yuan yin	1
+不得已而为之	bu de yi er wei zhi	1
 不等边三角形	bu deng bian san jiao xing	1
 不登大雅之堂	bu deng da ya zhi tang	1
 不等式的解集	bu deng shi de jie ji	1
@@ -111005,9 +111056,11 @@ sort: by_weight
 不自信的表现	bu zi xin de biao xian	1
 不自由的民主	bu zi you de min zhu	1
 不自由的世界	bu zi you de shi jie	1
+不自由毋宁死	bu zi you wu ning si	1
 补足工作短板	bu zu gong zuo duan ban	1
 部族级驱逐舰	bu zu ji qu zhu jian	1
 补足精神之钙	bu zu jing shen zhi gai	1
+不足为外人道	bu zu wei wai ren dao	1
 不足之处在于	bu zu zhi chu zai yu	1
 不做第二人想	bu zuo di er ren xiang	1
 不作就不会死	bu zuo jiu bu hui si	1
@@ -111402,6 +111455,7 @@ sort: by_weight
 姹紫嫣红开遍	cha zi yan hong kai bian	1
 拆除乱搭乱建	chai chu luan da luan jian	1
 拆除私搭乱建	chai chu si da luan jian	1
+拆东墙补西墙	chai dong qiang bu xi qiang	1
 柴桂退热颗粒	chai gui tui re ke li	1
 柴胡加芒硝汤	chai hu jia mang xiao tang	1
 柴胡健肝胶囊	chai hu jian gan jiao nang	1
@@ -112616,6 +112670,7 @@ sort: by_weight
 吃玻璃的男孩	chi bo li de nan hai	1
 吃不饱喝不足	chi bu bao he bu zu	1
 吃布丁的兔子	chi bu ding de tu zi	1
+吃不了兜着走	chi bu liao dou zhe zou	1
 吃不完的美食	chi bu wan de mei shi	1
 齿槽骨修整术	chi cao gu xiu zheng shu	1
 齿槽良性肿瘤	chi cao liang xing zhong liu	1
@@ -112764,6 +112819,7 @@ sort: by_weight
 迟延更新过程	chi yan geng xin guo cheng	1
 迟延履行利息	chi yan lv xing li xi	1
 吃药有副作用	chi yao you fu zuo yong	1
+吃一堑长一智	chi yi qian zhang yi zhi	1
 齿龈瘘修补术	chi yin lou xiu bu shu	1
 齿龈无擦通音	chi yin wu ca tong yin	1
 持有待售资产	chi you dai shou zi chan	1
@@ -113684,6 +113740,7 @@ sort: by_weight
 次要锕系元素	ci yao a xi yuan su	1
 刺叶非洲苏铁	ci ye fei zhou su tie	1
 次野鸢尾黄素	ci ye yuan wei huang su	1
+此一时彼一时	ci yi shi bi yi shi	1
 此庸夫之怒也	ci yong fu zhi nu ye	1
 此用户不存在	ci yong hu bu cun zai	1
 此用户已注销	ci yong hu yi zhu xiao	1
@@ -114625,6 +114682,7 @@ sort: by_weight
 打着我的名义	da zhe wo de ming yi	1
 打着我的旗号	da zhe wo de qi hao	1
 大直径股骨头	da zhi jing gu gu tou	1
+打肿脸充胖子	da zhong lian chong pang zi	1
 大中小企融通	da zhong xiao qi rong tong	1
 大株红景天片	da zhu hong jing tian pian	1
 大锥度精磨机	da zhui du jing mo ji	3
@@ -115388,6 +115446,7 @@ sort: by_weight
 导致心律失常	dao zhi xin lv shi chang	1
 导致月经不调	dao zhi yue jing bu tiao	1
 道助入道亲王	dao zhu ru dao qin wang	1
+刀子嘴豆腐心	dao zi zui dou fu xin	1
 德拜渐近表示	de bai jian jin biao shi	1
 德拜渐近展开	de bai jian jin zhan kai	1
 德宝电影公司	de bao dian ying gong si	1
@@ -116895,6 +116954,7 @@ sort: by_weight
 东方微点公司	dong fang wei dian gong si	1
 东方专制主义	dong fang zhuan zhi zhu yi	1
 东风本田思域	dong feng ben tian si yu	1
+东风压倒西风	dong feng ya dao xi feng	1
 冻干蜂王浆散	dong gan feng wang jiang san	1
 冻干人凝血酶	dong gan ren ning xue mei	1
 东皋握灵本草	dong gao wo ling ben cao	1
@@ -119388,6 +119448,7 @@ sort: by_weight
 翻盘式过滤器	fan pan shi guo lv qi	1
 反频哪酮重排	fan pin na tong chong pai	8
 反平行折叠链	fan ping xing zhe die lian	1
+反其道而行之	fan qi dao er xing zhi	1
 反其意而用之	fan qi yi er yong zhi	1
 饭前便后洗手	fan qian bian hou xi shou	1
 反潜航空母舰	fan qian hang kong mu jian	1
@@ -120702,11 +120763,13 @@ sort: by_weight
 枫林绿洲西门	feng lin lv zhou xi men	1
 凤岭儿童公园	feng ling er tong gong yuan	1
 风铃中的刀声	feng ling zhong de dao sheng	1
+风马牛不相及	feng ma niu bu xiang ji	1
 风靡大江南北	feng mi da jiang nan bei	1
 风靡万千少女	feng mi wan qian shao nv	1
 蜂蜜与四叶草	feng mi yu si ye cao	1
 风能和太阳能	feng neng he tai yang neng	1
 蜂鸟般的心跳	feng niao ban de xin tiao	1
+风牛马不相及	feng niu ma bu xiang ji	1
 冯诺依曼代数	feng nuo yi man dai shu	1
 冯诺伊曼定理	feng nuo yi man ding li	1
 冯诺依曼方程	feng nuo yi man fang cheng	1
@@ -122574,6 +122637,7 @@ sort: by_weight
 告别千篇一律	gao bie qian pian yi lv	1
 高丙氨酸血症	gao bing an suan xue zheng	1
 高波级护卫舰	gao bo ji hu wei jian	1
+高不成低不就	gao bu cheng di bu jiu	1
 高埗大桥旧址	gao bu da qiao jiu zhi	1
 搞不清楚状况	gao bu qing chu zhuang kuang	1
 高层人事变动	gao ceng ren shi bian dong	1
@@ -126115,6 +126179,7 @@ sort: by_weight
 国网浙江电力	guo wang zhe jiang dian li	1
 郭威二氏杆菌	guo wei er shi gan jun	1
 腘窝良性肿瘤	guo wo liang xing zhong liu	1
+过五关斩六将	guo wu guan zhan liu jiang	1
 国务机要费案	guo wu ji yao fei an	1
 国务委员王勇	guo wu wei yuan wang yong	1
 国务院安难办	guo wu yuan an nan ban	1
@@ -129504,6 +129569,7 @@ sort: by_weight
 或但臂不遂者	huo dan bi bu sui zhe	1
 藿胆鼻炎胶囊	huo dan bi yan jiao nang	1
 霍丹二氏产钳	huo dan er shi chan qian	1
+活到老学到老	huo dao lao xue dao lao	1
 活得不耐烦了	huo de bu nai fan le	1
 获得竞争优势	huo de jing zheng you shi	1
 活得开心就好	huo de kai xin jiu hao	1
@@ -130136,6 +130202,7 @@ sort: by_weight
 吉拉德里广场	ji la de li guang chang	1
 吉拉德氏试剂	ji la de shi shi ji	4
 吉拉尔特试剂	ji la er te shi ji	3
+既来之则安之	ji lai zhi ze an zhi	1
 吉兰二氏试验	ji lan er shi shi yan	1
 济乐高速公路	ji le gao su gong lu	1
 基雷二氏小体	ji lei er shi xiao ti	1
@@ -130792,6 +130859,7 @@ sort: by_weight
 加长喷嘴钻头	jia chang pen zui zuan tou	2
 驾车撞人事件	jia che zhuang ren shi jian	1
 驾乘人员安全	jia cheng ren yuan an quan	1
+家丑不可外扬	jia chou bu ke wai yang	1
 嫁出去的姑娘	jia chu qu de gu niang	1
 嫁出去的女儿	jia chu qu de nv er	1
 甲川四氢叶酸	jia chuan si qing ye suan	1
@@ -134151,6 +134219,7 @@ sort: by_weight
 晶体植入眼内	jing ti zhi ru yan nei	1
 晶体状聚合物	jing ti zhuang ju he wu	3
 景天虫草含片	jing tian chong cao han pian	1
+惊天地泣鬼神	jing tian di qi gui shen	1
 景天庚酮糖酐	jing tian geng tong tang gan	3
 景天红花胶囊	jing tian hong hua jiao nang	1
 景天科酸代谢	jing tian ke suan dai xie	1
@@ -134224,6 +134293,7 @@ sort: by_weight
 井下有害空气	jing xia you hai kong qi	1
 井下作业公司	jing xia zuo ye gong si	1
 经纤支镜治疗	jing xian zhi jing zhi liao	1
+井巷安全标志	jing xiang an quan biao zhi	1
 径向分布分析	jing xiang fen bu fen xi	5
 径向分布函数	jing xiang fen bu han shu	4
 径向滑动轴承	jing xiang hua dong zhou cheng	1
@@ -136870,6 +136940,7 @@ sort: by_weight
 蜡笔没了小新	la bi mei le xiao xin	1
 拉布拉多半岛	la bu la duo ban dao	1
 拉达那哥欣岛	la da na ge xin dao	1
+拉大旗作虎皮	la da qi zuo hu pi	1
 拉丁美洲主义	la ding mei zhou zhu yi	1
 拉丁美洲族群	la ding mei zhou zu qun	1
 拉丁美洲组织	la ding mei zhou zu zhi	1
@@ -137382,6 +137453,7 @@ sort: by_weight
 肋软骨取骨术	lei ruan gu qu gu shu	1
 镭射防伪标签	lei she fang wei biao qian	1
 雷射奇异鸟旗	lei she qi yi niao qi	1
+雷声大雨点小	lei sheng da yu dian xiao	1
 雷斯多夫效应	lei si duo fu xiao ying	1
 雷斯威克条约	lei si wei ke tiao yue	1
 类似乡级单位	lei si xiang ji dan wei	1
@@ -139454,6 +139526,7 @@ sort: by_weight
 龙山虞氏旧宅	long shan yu shi jiu zhai	1
 龙舌兰酒效应	long she lan jiu xiao ying	1
 龙生九子之一	long sheng jiu zi zhi yi	1
+龙生龙凤生凤	long sheng long feng sheng feng	1
 龙树菩萨眼论	long shu pu sa yan lun	1
 龙属相俱乐部	long shu xiang ju le bu	1
 隆特里科纳斯	long te li ke na si	1
@@ -141628,6 +141701,7 @@ sort: by_weight
 民族自由主义	min zu zi you zhu yi	1
 民族自治地方	min zu zi zhi di fang	1
 命案积案攻坚	ming an ji an gong jian	1
+名不正言不顺	ming bu zheng yan bu shun	1
 明察秋毫之末	ming cha qiu hao zhi mo	1
 明朝兵部尚书	ming chao bing bu shang shu	1
 明朝登莱巡抚	ming chao deng lai xun fu	1
@@ -143954,6 +144028,7 @@ sort: by_weight
 硼烷四氢呋喃	peng wan si qing fu nan	1
 朋友家的孩子	peng you jia de hai zi	1
 朋友们的支持	peng you men de zhi chi	1
+朋友妻不可欺	peng you qi bu ke qi	1
 朋友妻不可戏	peng you qi bu ke xi	1
 朋友圈的内容	peng you quan de nei rong	1
 朋友圈的朋友	peng you quan de peng you	1
@@ -145885,6 +145960,7 @@ sort: by_weight
 勤益科技大学	qin yi ke ji da xue	1
 沁源路公交站	qin yuan lu gong jiao zhan	1
 秦昭襄王嬴稷	qin zhao xiang wang ying ji	1
+亲者痛仇者快	qin zhe tong chou zhe kuai	1
 亲子关系紧张	qin zi guan xi jin zhang	1
 亲子鉴定报告	qin zi jian ding bao gao	1
 亲子鉴定证明	qin zi jian ding zheng ming	1
@@ -146483,6 +146559,7 @@ sort: by_weight
 球贝塞耳函数	qiu bei sai er han shu	1
 球场斗殴事件	qiu chang dou ou shi jian	1
 球床式反应堆	qiu chuang shi fan ying dui	1
+求大同存小异	qiu da tong cun xiao yi	1
 求爹爹告奶奶	qiu die die gao nai nai	1
 球队的攻击力	qiu dui de gong ji li	1
 球队的管理层	qiu dui de guan li ceng	1
@@ -146550,6 +146627,8 @@ sort: by_weight
 球状分生孢子	qiu zhuang fen sheng bao zi	1
 球状关节人形	qiu zhuang guan jie ren xing	1
 球状上颌囊肿	qiu zhuang shang he nang zhong	1
+求最大公因数	qiu zui da gong yin shu	1
+求最小公倍数	qiu zui xiao gong bei shu	1
 去氨加压素片	qu an jia ya su pian	1
 曲安奈德乳膏	qu an nai de ru gao	1
 曲安奈德软膏	qu an nai de ruan gao	1
@@ -147356,6 +147435,7 @@ sort: by_weight
 热高压分离器	re gao ya fen li qi	1
 热固性粘合剂	re gu xing nian he ji	3
 热滚筒挤压场	re gun tong ji ya chang	1
+热锅上的蚂蚁	re guo shang de ma yi	1
 热化学方程式	re hua xue fang cheng shi	5
 热结膀胱腹胀	re jie pang guang fu zhang	1
 热结小便不利	re jie xiao bian bu li	1
@@ -147890,6 +147970,7 @@ sort: by_weight
 人嫌狗不待见	ren xian gou bu dai jian	1
 人纤维蛋白原	ren xian wei dan bai yuan	1
 仁新高速公路	ren xin gao su gong lu	1
+人心齐泰山移	ren xin qi tai shan yi	1
 人行地下通道	ren xing di xia tong dao	1
 人行过街天桥	ren xing guo jie tian qiao	1
 人性化的操作	ren xing hua de cao zuo	1
@@ -147909,6 +147990,7 @@ sort: by_weight
 人一般和对策	ren yi ban he dui ce	1
 人一世物一世	ren yi shi wu yi shi	1
 人永远不知道	ren yong yuan bu zhi dao	1
+人有旦夕祸福	ren you dan xi huo fu	1
 人有脸树有皮	ren you lian shu you pi	1
 人有七情六欲	ren you qi qing liu yu	1
 人有生老病死	ren you sheng lao bing si	1
@@ -150871,6 +150953,7 @@ sort: by_weight
 声波核晶过程	sheng bo he jing guo cheng	4
 省部共建大学	sheng bu gong jian da xue	1
 省部共建高校	sheng bu gong jian gao xiao	1
+胜不骄败不馁	sheng bu jiao bai bu nei	1
 省财政厅厅长	sheng cai zheng ting ting zhang	1
 生草药性备要	sheng cao yao xing bei yao	1
 省茶叶研究所	sheng cha ye yan jiu suo	1
@@ -151039,6 +151122,7 @@ sort: by_weight
 声门恶性肿瘤	sheng men e xing zhong liu	1
 升米恩斗米仇	sheng mi en dou mi chou	1
 生米煮成熟饭	sheng mi zhu cheng shu fan	1
+生米做成熟饭	sheng mi zuo cheng shu fan	1
 盛明国际控股	sheng ming guo ji kong gu	1
 生命恢复速度	sheng ming hui fu su du	1
 生命科学园站	sheng ming ke xue yuan zhan	1
@@ -152027,6 +152111,7 @@ sort: by_weight
 什科茨扬洞群	shi ke ci yang dong qun	1
 什科茨扬溶洞	shi ke ci yang rong dong	1
 时刻放在心上	shi ke fang zai xin shang	1
+士可杀不可辱	shi ke sha bu ke ru	1
 什科托夫卡河	shi ke tuo fu ka he	1
 是可以弥补的	shi ke yi mi bu de	1
 式空对空导弹	shi kong dui kong dao dan	1
@@ -154239,6 +154324,7 @@ sort: by_weight
 说你胖你就喘	shuo ni pang ni jiu chuan	1
 说什么脂正浓	shuo shen me zhi zheng nong	1
 硕士毕业证书	shuo shi bi ye zheng shu	1
+说时迟那时快	shuo shi chi na shi kuai	1
 硕士论文答辩	shuo shi lun wen da bian	1
 硕士申请条件	shuo shi shen qing tiao jian	1
 硕士学位课程	shuo shi xue wei ke cheng	1
@@ -155505,6 +155591,7 @@ sort: by_weight
 胎热证胎寒证	tai re zheng tai han zheng	1
 泰瑞尔的力量	tai rui er de li liang	1
 泰森食品公司	tai sen shi pin gong si	1
+泰山不让土壤	tai shan bu rang tu rang	1
 泰山东岳庙会	tai shan dong yue miao hui	1
 泰山古建筑群	tai shan gu jian zhu qun	1
 泰山摩崖石刻	tai shan mo ya shi ke	1
@@ -156150,6 +156237,7 @@ sort: by_weight
 天宝十节度使	tian bao shi jie du shi	1
 天边风雪在飘	tian bian feng xue zai piao	1
 天边蓝色的海	tian bian lan se de hai	1
+天不怕地不怕	tian bu pa di bu pa	1
 天参益气胶囊	tian can yi qi jiao nang	1
 天草四郎时贞	tian cao si lang shi zhen	1
 天蟾逸夫舞台	tian chan yi fu wu tai	1
@@ -156995,6 +157083,7 @@ sort: by_weight
 头无汗者可治	tou wu han zhe ke zhi	1
 透析器聚砜膜	tou xi qi ju feng mo	1
 透析器血路管	tou xi qi xue lu guan	1
+头悬梁锥刺股	tou xuan liang zhui ci gu	1
 偷越国边境罪	tou yue guo bian jing zui	1
 骰舟背侧韧带	tou zhou bei ce ren dai	1
 骰舟足底韧带	tou zhou zu di ren dai	1
@@ -159504,6 +159593,7 @@ sort: by_weight
 无神论的历史	wu shen lun de li shi	1
 五参芪口服液	wu shen qi kou fu ye	1
 武士步兵战车	wu shi bu bing zhan che	1
+五十步笑百步	wu shi bu xiao bai bu	1
 武石城际铁路	wu shi cheng ji tie lu	1
 五世达赖喇嘛	wu shi da lai la ma	1
 武士弗拉明戈	wu shi fu la ming ge	1
@@ -160448,6 +160538,7 @@ sort: by_weight
 下鼻道开窗术	xia bi dao kai chuang shu	1
 下鼻甲封闭术	xia bi jia feng bi shu	1
 下齿槽撕脱术	xia chi cao si tuo shu	1
+夏虫不可语冰	xia chong bu ke yu bing	1
 下冲程刮刀架	xia chong cheng gua dao jia	1
 吓出一身冷汗	xia chu yi shen leng han	1
 瑕疵担保责任	xia ci dan bao ze ren	1
@@ -162470,6 +162561,7 @@ sort: by_weight
 心电事件记录	xin dian shi jian ji lu	1
 心电图记录纸	xin dian tu ji lu zhi	1
 新丁氏润通茶	xin ding shi run tong cha	1
+心动不如行动	xin dong bu ru xing dong	1
 辛二酸二乙酯	xin er suan er yi zhi	3
 辛伐他汀滴丸	xin fa ta ting di wan	1
 辛伐他汀胶囊	xin fa ta ting jiao nang	1
@@ -163394,6 +163486,7 @@ sort: by_weight
 胸肌间淋巴结	xiong ji jian lin ba jie	1
 雄激素性秃发	xiong ji su xing tu fa	1
 雄激素性脱发	xiong ji su xing tuo fa	1
+雄赳赳气昂昂	xiong jiu jiu qi ang ang	1
 雄纠纠气昂昂	xiong jiu jiu qi ang ang	1
 胸廓畸形手术	xiong kuo ji xing shou shu	1
 胸廓挤压试验	xiong kuo ji ya shi yan	1
@@ -164427,6 +164520,7 @@ sort: by_weight
 眼壁更替周期	yan bi geng ti zhou qi	1
 眼鼻区综合征	yan bi qu zong he zheng	1
 掩蔽碳负离子	yan bi tan fu li zi	5
+言必信行必果	yan bi xin xing bi guo	1
 延边大学教授	yan bian da xue jiao shou	1
 延边大学校长	yan bian da xue xiao zhang	1
 延边科技大学	yan bian ke ji da xue	1
@@ -164434,6 +164528,7 @@ sort: by_weight
 岩波书店人物	yan bo shu dian ren wu	1
 眼部带状疱疹	yan bu dai zhuang pao zhen	1
 咽部分切除术	yan bu fen qie chu shu	1
+眼不见心不烦	yan bu jian xin bu fan	1
 延布硫磺业务	yan bu liu huang ye wu	1
 咽部脓肿引流	yan bu nong zhong yin liu	1
 咽部特殊治疗	yan bu te shu zhi liao	1
@@ -165349,6 +165444,7 @@ sort: by_weight
 严重不负责任	yan zhong bu fu ze ren	1
 严重不良事件	yan zhong bu liang shi jian	1
 烟中的尼古丁	yan zhong de ni gu ding	1
+眼中钉肉中刺	yan zhong ding rou zhong ci	1
 严重供不应求	yan zhong gong bu ying qiu	1
 严重过敏反应	yan zhong guo min fan ying	1
 严重过敏体质	yan zhong guo min ti zhi	1
@@ -165980,7 +166076,9 @@ sort: by_weight
 已不是当年的	yi bu shi dang nian de	1
 以不同的形式	yi bu tong de xing shi	1
 一步一步地走	yi bu yi bu de zou	1
+一步一个脚印	yi bu yi ge jiao yin	1
 以不正当手段	yi bu zheng dang shou duan	1
+一不做二不休	yi bu zuo er bu xiu	1
 一不作二不休	yi bu zuo er bu xiu	1
 依测度收敛的	yi ce duo shou lian de	1
 一侧前臂离断	yi ce qian bi li duan	1
@@ -166020,6 +166118,7 @@ sort: by_weight
 遗传的生成系	yi chuan de sheng cheng xi	1
 遗传流行病学	yi chuan liu xing bing xue	1
 遗传平衡定律	yi chuan ping heng ding lv	1
+一传十十传百	yi chuan shi shi chuan bai	1
 遗传物质转移	yi chuan wu zhi zhuan yi	1
 遗传性并指症	yi chuan xing bing zhi zheng	1
 遗传性乳光牙	yi chuan xing ru guang ya	1
@@ -166086,6 +166185,7 @@ sort: by_weight
 一次又一次地	yi ci you yi ci di	1
 异次元的小伙	yi ci yuan de xiao huo	1
 依次转接电路	yi ci zhuan jie dian lu	1
+一粗三扫四精	yi cu san sao si jing	1
 一寸长一寸强	yi cun chang yi cun qiang	1
 已达报废标准	yi da bao fei biao zhun	1
 伊达尔戈条约	yi da er ge tiao yue	1
@@ -166213,6 +166313,7 @@ sort: by_weight
 乙二酸四乙胺	yi er suan si yi an	1
 以儿童为中心	yi er tong wei zhong xin	1
 已二烯雌酚片	yi er xi ci fen pian	1
+一而再再而三	yi er zai zai er san	1
 以二战为背景	yi er zhan wei bei jing	1
 依法办事能力	yi fa ban shi neng li	1
 依法保护企业	yi fa bao hu qi ye	1
@@ -166591,8 +166692,10 @@ sort: by_weight
 伊克西翁传说	yi ke xi weng chuan shuo	1
 胰空肠吻合术	yi kong chang wen he shu	1
 以空间换时间	yi kong jian huan shi jian	1
+一口吃个胖子	yi kou chi ge pang zi	1
 一口一口地吃	yi kou yi kou di chi	1
 以苦酒阻故也	yi ku jiu zu gu ye	1
+一块石头落地	yi kuai shi tou luo di	1
 依赖倒置原则	yi lai dao zhi yuan ze	1
 依赖贴壁细胞	yi lai tie bi xi bao	1
 依赖性佝偻病	yi lai xing gou lou bing	1
@@ -166959,6 +167062,7 @@ sort: by_weight
 一时想不起来	yi shi xiang bu qi lai	1
 已是香港明日	yi shi xiang gang ming ri	1
 议事协调机构	yi shi xie tiao ji gou	1
+一是一二是二	yi shi yi er shi er	1
 一时意识不到	yi shi yi shi bu dao	1
 以实用性为主	yi shi yong xing wei zhu	1
 医师诱发需求	yi shi you fa xu qiu	1
@@ -167069,6 +167173,7 @@ sort: by_weight
 以天下为己任	yi tian xia wei ji ren	1
 一条安达鲁狗	yi tiao an da lu gou	1
 一条道跑到黑	yi tiao dao pao dao hei	1
+一条道走到黑	yi tiao dao zou dao hei	1
 一条断脊之犬	yi tiao duan ji zhi quan	1
 一条狗的使命	yi tiao gou de shi ming	1
 一条懒惰的虫	yi tiao lan duo de chong	1
@@ -168241,6 +168346,7 @@ sort: by_weight
 英雄模范人物	ying xiong mo fan ren wu	1
 英雄莫问出处	ying xiong mo wen chu chu	1
 英雄射击游戏	ying xiong she ji you xi	1
+英雄所见略同	ying xiong suo jian lve tong	1
 英雄主义精神	ying xiong zhu yi jing shen	1
 营养供给不足	ying yang gong ji bu zu	1
 营养期噬菌体	ying yang qi shi jun ti	1
@@ -168574,6 +168680,7 @@ sort: by_weight
 有国家规定的	you guo jia gui ding de	1
 由国家规定的	you guo jia gui ding de	1
 佑国军节度使	you guo jun jie du shi	1
+有过之无不及	you guo zhi wu bu ji	1
 有害还是有益	you hai hai shi you yi	1
 有害生物防治	you hai sheng wu fang zhi	1
 有害生物防制	you hai sheng wu fang zhi	1
@@ -169053,6 +169160,7 @@ sort: by_weight
 有阳光的日子	you yang guang de ri zi	1
 又要绿水青山	you yao lv shui qing shan	1
 有一半是坏的	you yi ban shi huai de	1
+有一搭没一搭	you yi da mei yi da	1
 有一搭无一搭	you yi da wu yi da	1
 友谊地久天长	you yi di jiu tian chang	1
 右翼独裁政权	you yi du cai zheng quan	1
@@ -169142,6 +169250,7 @@ sort: by_weight
 釉质牙骨质界	you zhi ya gu zhi jie	1
 有职有权有责	you zhi you quan you ze	1
 油脂有限公司	you zhi you xian gong si	1
+有志者事竟成	you zhi zhe shi jing cheng	1
 疣状扁平苔藓	you zhuang bian ping tai xian	1
 疣状皮肤结核	you zhuang pi fu jie he	1
 疣状乳头状瘤	you zhuang ru tou zhuang liu	1
@@ -169686,6 +169795,7 @@ sort: by_weight
 远期外汇市场	yuan qi wai hui shi chang	1
 援企稳岗政策	yuan qi wen gang zheng ce	1
 院前医疗急救	yuan qian yi liao ji jiu	1
+远亲不如近邻	yuan qin bu ru jin lin	1
 元清非中国论	yuan qing fei zhong guo lun	1
 怨秋夜之未央	yuan qiu ye zhi wei yang	1
 园区入驻企业	yuan qu ru zhu qi ye	1
@@ -169819,6 +169929,7 @@ sort: by_weight
 原油期货交易	yuan you qi huo jiao yi	1
 原油期货开户	yuan you qi huo kai hu	1
 原油期货上市	yuan you qi huo shang shi	1
+冤有头债有主	yuan you tou zhai you zhu	1
 原油走势分析	yuan you zou shi fen xi	1
 原原本本学习	yuan yuan ben ben xue xi	1
 愿在发而为泽	yuan zai fa er wei ze	1
@@ -173736,6 +173847,7 @@ sort: by_weight
 柱硫铋铜铅矿	zhu liu bi tong qian kuang	1
 主流和非主流	zhu liu he fei zhu liu	1
 主流价值观的	zhu liu jia zhi guan de	1
+主溜井系统图	zhu liu jing xi tong tu	1
 主流女性主义	zhu liu nv xing zhu yi	1
 柱硫锑铅银矿	zhu liu ti qian yin kuang	1
 猪流行性感冒	zhu liu xing xing gan mao	1
@@ -176751,6 +176863,7 @@ sort: by_weight
 半孢子蛙粪霉菌	ban bao zi wa fen mei jun	1
 半波放大器挡板	ban bo fang da qi dang ban	1
 班伯格重排反应	ban bo ge chong pai fan ying	1
+半部论语治天下	ban bu lun yu zhi tian xia	1
 板层间性白内障	ban ceng jian xing bai nei zhang	1
 板层角膜切除术	ban ceng jiao mo qie chu shu	1
 板层角膜移植术	ban ceng jiao mo yi zhi shu	1
@@ -180342,6 +180455,7 @@ sort: by_weight
 出山志在登鳌顶	chu shan zhi zai deng ao ding	1
 出神入化的演技	chu shen ru hua de yan ji	1
 出生登记证明书	chu sheng deng ji zheng ming shu	1
+初生牛犊不怕虎	chu sheng niu du bu pa hu	1
 初生牛犊不畏虎	chu sheng niu du bu wei hu	1
 初生之犊不惧虎	chu sheng zhi du bu ju hu	1
 初生之犊不畏虎	chu sheng zhi du bu wei hu	1
@@ -180853,6 +180967,7 @@ sort: by_weight
 从另一方面来看	cong ling yi fang mian lai kan	1
 从漫画里走出来	cong man hua li zou chu lai	1
 从漫画中走出来	cong man hua zhong zou chu lai	1
+聪明反被聪明误	cong ming fan bei cong ming wu	1
 聪明孩子也变傻	cong ming hai zi ye bian sha	1
 从名字就能看出	cong ming zi jiu neng kan chu	1
 从某些角度来看	cong mou xie jiao du lai kan	1
@@ -181205,6 +181320,7 @@ sort: by_weight
 打拼自己的事业	da pin zi ji de shi ye	1
 打破吉尼斯纪录	da po ji ni si ji lu	1
 打破砂锅问到底	da po sha guo wen dao di	2
+打破沙锅问到底	da po sha guo wen dao di	1
 打破砂锅璺到底	da po sha guo wen dao di	1
 打起十二分精神	da qi shi er fen jing shen	1
 大气数据计算机	da qi shu ju ji suan ji	1
@@ -181225,6 +181341,7 @@ sort: by_weight
 大师与玛格丽特	da shi yu ma ge li te	1
 答手诏条陈十事	da shou zhao tiao chen shi shi	1
 大树底下好乘凉	da shu di xia hao cheng liang	1
+大水冲了龙王庙	da shui chong le long wang miao	1
 大水量灭火系统	da shui liang mie huo xi tong	2
 大索洛韦茨基岛	da suo luo wei ci ji dao	1
 大唐御史谢瑶环	da tang yu shi xie yao huan	1
@@ -181750,6 +181867,7 @@ sort: by_weight
 当中国统治世界	dang zhong guo tong zhi shi jie	1
 党中央和国务院	dang zhong yang he guo wu yuan	1
 党组中心组学习	dang zu zhong xin zu xue xi	1
+道不同不相为谋	dao bu tong bu xiang wei mou	1
 道场普渡妥幽魂	dao chang pu du tuo you hun	1
 到吃饭的时间了	dao chi fan de shi jian le	1
 导赤生地与木通	dao chi sheng di yu mu tong	1
@@ -182168,7 +182286,6 @@ sort: by_weight
 第三十六个故事	di san shi liu ge gu shi	1
 第三实验幼儿园	di san shi yan you er yuan	1
 第三者的第三者	di san zhe de di san zhe	1
-第三只眼看零售	di san zhi yan kan ling shou	1
 第三中标候选人	di san zhong biao hou xuan ren	1
 第三周可吃普食	di san zhou ke chi pu shi	1
 蒂森克虏伯电梯	di sen ke lu bo dian ti	1
@@ -182659,6 +182776,7 @@ sort: by_weight
 懂得什么是珍贵	dong de shen me shi zhen gui	1
 动地惊天爱恋过	dong di jing tian ai lian guo	1
 东阿尔卑斯山脉	dong e er bei si shan mai	1
+东方不亮西方亮	dong fang bu liang xi fang liang	1
 东风乘用车公司	dong feng cheng yong che gong si	1
 冻干白喉抗毒素	dong gan bai hou kang du su	1
 冻干白喉抗霉素	dong gan bai hou kang mei su	1
@@ -183663,6 +183781,7 @@ sort: by_weight
 二叔丁氧基乙炔	er shu ding yang ji yi que	1
 二双糖基环糊精	er shuang tang ji huan hu jing	1
 二水基亚磷酸铅	er shui ji ya lin suan qian	2
+儿孙自有儿孙福	er sun zi you er sun fu	1
 二肽基氨基肽酶	er tai ji an ji tai mei	1
 二胎政策的放开	er tai zheng ce de fang kai	1
 二胎政策的开放	er tai zheng ce de kai fang	1
@@ -188371,6 +188490,7 @@ sort: by_weight
 杭州互联网法院	hang zhou hu lian wang fa yuan	1
 豪埃二氏综合征	hao ai er shi zong he zheng	1
 蒿白伤湿气雾剂	hao bai shang shi qi wu ji	1
+好汉不吃眼前亏	hao han bu chi yan qian kui	1
 郝吉二氏综合征	hao ji er shi zong he zheng	1
 好莱坞科幻大片	hao lai wu ke huan da pian	1
 好莱坞星光大道	hao lai wu xing guang da dao	1
@@ -188509,6 +188629,7 @@ sort: by_weight
 亨舍二氏综合征	heng she er shi zong he zheng	1
 亨斯二氏植皮刀	heng si er shi zhi pi dao	1
 亨特吉二氏试验	heng te ji er shi shi yan	1
+横挑鼻子竖挑眼	heng tiao bi zi shu tiao yan	1
 亨廷顿病性痴呆	heng ting dun bing xing chi dai	1
 亨廷顿氏舞蹈症	heng ting dun shi wu dao zheng	1
 横位或斜位分娩	heng wei huo xie wei fen mian	1
@@ -188676,6 +188797,7 @@ sort: by_weight
 华安正庄栳枫油	hua an zheng zhuang lao feng you	1
 花斑癣花斑糠疹	hua ban xuan hua ban kang zhen	1
 划拨土地使用权	hua bo tu di shi yong quan	1
+话不投机半句多	hua bu tou ji ban ju duo	1
 华法林钠片糖衣	hua fa lin na pian tang yi	1
 花粉祛痒止痛酊	hua fen qu yang zhi tong ding	1
 华芬愈美颗粒剂	hua fen yu mei ke li ji	1
@@ -188683,6 +188805,7 @@ sort: by_weight
 华富增效胃动力	hua fu zeng xiao wei dong li	1
 花岗岩化成矿说	hua gang yan hua cheng kuang shuo	1
 花好月圆人又散	hua hao yue yuan ren you san	1
+画虎不成反类犬	hua hu bu cheng fan lei quan	1
 花甲少年趣旅行	hua jia shao nian qu lv xing	1
 化疗后骨髓抑制	hua liao hou gu sui yi zhi	1
 滑膜病损切除术	hua mo bing sun qie chu shu	1
@@ -188869,6 +188992,7 @@ sort: by_weight
 磺酸氨氯地平片	huang suan an lv di ping pian	1
 黄藤素片薄膜衣	huang teng su pian bao mo yi	1
 黄体酮单加氧酶	huang ti tong dan jia yang mei	1
+皇天不负苦心人	huang tian bu fu ku xin ren	1
 黄酮氧乙酸乙酯	huang tong yang yi suan yi zhi	1
 磺溴酞钠注射液	huang xiu tai na zhu she ye	1
 黄杨宁片薄膜衣	huang yang ning pian bao mo yi	1
@@ -190093,6 +190217,7 @@ sort: by_weight
 今天故事的主角	jin tian gu shi de zhu jue	1
 金威二氏综合征	jin wei er shi zong he zheng	1
 晋西北七城战役	jin xi bei qi cheng zhan yi	1
+尽信书不如无书	jin xin shu bu ru wu shu	1
 金星消毒液机关	jin xing xiao du ye ji guan	1
 金星消毒液协和	jin xing xiao du ye xie he	1
 进行性白质脑病	jin xing xing bai zhi nao bing	1
@@ -190103,6 +190228,7 @@ sort: by_weight
 进行性周期缩短	jin xing xing zhou qi suo duan	1
 金熊严必克胶囊	jin xiong yan bi ke jiao nang	1
 禁一切鱼肉大蒜	jin yi qie yu rou da suan	1
+今朝有酒今朝醉	jin zhao you jiu jin zhao zui	1
 金栀洁龈含漱液	jin zhi jie ken han shu ye	1
 金栀咽喉袋泡茶	jin zhi yan hou dai pao cha	1
 近中邻颌面深龋	jin zhong lin he mian shen qu	1
@@ -190439,6 +190565,7 @@ sort: by_weight
 巨气管支气管症	ju qi guan zhi qi guan zheng	1
 聚全氟乙烯树脂	ju quan fu yi xi shu zhi	2
 巨仁风湿定胶囊	ju ren feng shi ding jiao nang	1
+拒人于千里之外	ju ren yu qian li zhi wai	1
 巨乳缩小整形术	ju ru suo xiao zheng xing shu	1
 巨乳头状结膜炎	ju ru tou zhuang jie mo yan	1
 巨舌畸形矫正术	ju she ji xing jiao zheng shu	1
@@ -190527,6 +190654,7 @@ sort: by_weight
 绝对瓦斯涌出量	jue dui wa si yong chu liang	1
 绝经后骨质疏松	jue jing hou gu zhi shu song	1
 决明松葡萄糖苷	jue ming song pu tao tang gan	1
+决胜于千里之外	jue sheng yu qian li zhi wai	1
 厥阴热迫大肠证	jue yin re po da chang zheng	1
 厥阴上热下寒证	jue yin shang re xia han zheng	1
 厥阴头痛皆能保	jue yin tou tong jie neng bao	1
@@ -190791,6 +190919,7 @@ sort: by_weight
 颗粒性输尿管炎	ke li xing shu niao guan yan	1
 颗粒珍珠状疱疹	ke li zhen zhu zhuang pao zhen	1
 颗粒状营养不良	ke li zhuang ying yang bu liang	1
+可怜天下父母心	ke lian tian xia fu mu xin	1
 克列二氏综合征	ke lie er shi zong he zheng	1
 克林二氏磷酸盐	ke lin er shi lin suan yan	1
 克林肯伯格效应	ke lin ken bo ge xiao ying	1
@@ -191089,6 +191218,7 @@ sort: by_weight
 赖戴二氏综合征	lai dai er shi zong he zheng	1
 莱德怀特二氏法	lai de huai te er shi fa	1
 莱得利基虫亚目	lai de li ji chong ya mu	1
+来而不往非礼也	lai er bu wang fei li ye	1
 赖尔岛恶性肿瘤	lai er dao e xing zhong liu	1
 赖芬斯坦综合征	lai fen si tan zong he zheng	1
 莱弗阿二氏学说	lai fu a er shi xue shuo	1
@@ -191131,6 +191261,7 @@ sort: by_weight
 朗格汉斯巨细胞	lang ge han si ju xi bao	1
 朗金土压力理论	lang jin tu ya li li lun	1
 朗伊二氏综合征	lang yi er shi zong he zheng	1
+浪子回头金不换	lang zi hui tou jin bu huan	1
 酪胺甲基转移酶	lao an jia ji zhuan yi mei	1
 酪氨酸单加氧酶	lao an suan dan jia yang mei	1
 酪氨酸激酶受体	lao an suan ji mei shou ti	1
@@ -191175,6 +191306,7 @@ sort: by_weight
 劳索二氏综合征	lao suo er shi zong he zheng	1
 老坛酸菜牛肉面	lao tan suan cai niu rou mian	1
 老挝人民共和国	lao wo ren min gong he guo	1
+老子英雄儿好汉	lao zi ying xiong er hao han	1
 勒奥二氏综合征	le ao er shi zong he zheng	1
 勒贝格微分定理	le bei ge wei fen ding li	1
 勒比二氏综合征	le bi er shi zong he zheng	1
@@ -192268,6 +192400,7 @@ sort: by_weight
 美洛昔康分散片	mei luo xi kang fen san pian	1
 美洛昔康注射液	mei luo xi kang zhu she ye	1
 美洛西林舒巴坦	mei luo xi lin shu ba tan	1
+眉毛胡子一把抓	mei mao hu zi yi ba zhua	1
 美敏伪麻咀嚼片	mei min wei ma ju jue pian	1
 美敏伪麻口服液	mei min wei ma kou fu ye	1
 美尼尔氏综合征	mei ni er shi zong he zheng	1
@@ -192289,6 +192422,7 @@ sort: by_weight
 美息伪麻软胶囊	mei xi wei ma ruan jiao nang	1
 镁血液水平异常	mei xue ye shui ping yi chang	1
 镁氧石灰菱镁矿	mei yang shi hui ling mei kuang	1
+没有不透风的墙	mei you bu tou feng de qiang	1
 没有女人的地方	mei you nv ren de di fang	1
 没有去过的地方	mei you qu guo de di fang	1
 没有丈夫的日子	mei you zhang fu de ri zi	1
@@ -192359,6 +192493,7 @@ sort: by_weight
 面部病损切除术	mian bu bing sun qie chu shu	1
 面部恶性淋巴瘤	mian bu e xing lin ba liu	1
 面部二等分比例	mian bu er deng fen bi li	1
+面不改色心不跳	mian bu gai se xin bu tiao	1
 面部假体太阳穴	mian bu jia ti tai yang xue	1
 面部开放性伤口	mian bu kai fang xing shang kou	1
 面部脓肿引流术	mian bu nong zhong yin liu shu	1
@@ -192420,6 +192555,7 @@ sort: by_weight
 默比茨传导阻滞	mo bi ci chuan dao zu zhi	1
 默比乌斯综合征	mo bi wu si zong he zheng	1
 摩擦性苔癣样疹	mo ca xing tai xuan yang zhen	1
+磨刀不误砍柴工	mo dao bu wu kan chai gong	1
 莫发特氧化反应	mo fa te yang hua fan ying	1
 莫格莱尼的力量	mo ge lai ni de li liang	1
 摩根士丹利指数	mo gen shi dan li zhi shu	1
@@ -192549,6 +192685,7 @@ sort: by_weight
 奈韦拉平分散片	nai wei la ping fen san pian	1
 奈泽洛夫综合征	nai ze luo fu zong he zheng	1
 南北杏仁鹌鹑汤	nan bei xing ren an chun tang	1
+男儿膝下有黄金	nan er xi xia you huang jin	1
 南港项目管理部	nan gang xiang mu guan li bu	1
 南极科学考察站	nan ji ke xue kao cha zhan	1
 南开数学研究所	nan kai shu xue yan jiu suo	1
@@ -193555,6 +193692,7 @@ sort: by_weight
 千金止带丸水丸	qian jin zhi dai wan shui wan	1
 千钧重担人人挑	qian jun zhong dan ren ren tiao	1
 潜力区集中勘探	qian li qu ji zhong kan tan	1
+千里姻缘一线牵	qian li yin yuan yi xian qian	1
 前列地尔尿道栓	qian lie di er niao dao shuan	1
 前列地尔注射液	qian lie di er zhu she ye	1
 前列桂黄片糖衣	qian lie gui huang pian tang yi	1
@@ -193582,6 +193720,7 @@ sort: by_weight
 前牙根折根牵引	qian ya gen zhe gen qian yin	1
 前牙美容修复术	qian ya mei rong xiu fu shu	1
 前牙形态不满意	qian ya xing tai bu man yi	1
+牵一发而动全身	qian yi fa er dong quan shen	1
 前置胎盘伴出血	qian zhi tai pan ban chu xie	1
 前纵隔恶性肿瘤	qian zong ge e xing zhong liu	1
 前纵隔良性肿瘤	qian zong ge liang xing zhong liu	1
@@ -193615,6 +193754,7 @@ sort: by_weight
 羟甲烟酰胺胶囊	qiang jia yan xian an jiao nang	1
 羟甲唑啉滴鼻液	qiang jia zuo lin di bi ye	1
 羟甲唑啉喷雾剂	qiang jia zuo lin pen wu ji	1
+强将手下无弱兵	qiang jiang shou xia wu ruo bing	1
 腔静脉后淋巴结	qiang jing mai hou lin ba jie	1
 腔静脉后输尿管	qiang jing mai hou shu niao guan	1
 腔静脉前淋巴结	qiang jing mai qian lin ba jie	1
@@ -193626,11 +193766,13 @@ sort: by_weight
 强力多维营养膏	qiang li duo wei ying yang gao	1
 强力防感口服液	qiang li fang gan kou fu ye	1
 强力蜂乳浆胶丸	qiang li feng ru jiang jiao wan	1
+墙里开花墙外香	qiang li kai hua qiang wai xiang	1
 强力脑心康胶囊	qiang li nao xin kang jiao nang	1
 强力枇杷露炼蜜	qiang li pi pa lu lian mi	1
 强力天麻杜仲丸	qiang li tian ma du zhong wan	1
 强力止咳宁胶囊	qiang li zhi ke ning jiao nang	1
 羟磷灰石沉着病	qiang lin hui shi chen zhuo bing	1
+强龙不压地头蛇	qiang long bu ya di tou she	1
 腔内近距离治疗	qiang nei jin ju li zhi liao	1
 强迫型人格障碍	qiang po xing ren ge zhang ai	1
 强迫型行为疾患	qiang po xing xing wei ji huan	1
@@ -193644,6 +193786,8 @@ sort: by_weight
 腔隙中间淋巴结	qiang xi zhong jian lin ba jie	1
 羟乙基淀粉血浆	qiang yi ji dian fen xue jiang	1
 强直阵挛性癫痫	qiang zhi zhen luan xing dian xian	1
+强中更有强中手	qiang zhong geng you qiang zhong shou	1
+强中自有强中手	qiang zhong zi you qiang zhong shou	1
 桥本氏甲状腺炎	qiao ben shi jia zhuang xian yan	1
 桥本式甲状腺炎	qiao ben shi jia zhuang xian yan	1
 乔利比旗参含片	qiao li bi qi can han pian	1
@@ -193680,6 +193824,7 @@ sort: by_weight
 轻便二轮摩托车	qing bian er lun mo tuo che	1
 请查收会议纪要	qing cha shou hui yi ji yao	1
 清除幽门螺杆菌	qing chu you men luo gan jun	1
+青出于蓝胜于蓝	qing chu yu lan sheng yu lan	1
 清创窦道清除术	qing chuang dou dao qing chu shu	1
 清创游离植皮术	qing chuang you li zhi pi shu	1
 青春发育期龈炎	qing chun fa yu qi ken yan	1
@@ -193711,6 +193856,7 @@ sort: by_weight
 请各位领导知悉	qing ge wei ling dao zhi xi	1
 青工装置通大赛	qing gong zhuang zhi tong da sai	1
 青瓜酸乳酪酱汁	qing gua suan ru lao jiang zhi	1
+清官难断家务事	qing guan nan duan jia wu shi	1
 青光眼临床前期	qing guang yan lin chuang qian qi	1
 青光眼性白内障	qing guang yan xing bai nei zhang	1
 青光眼诱导试验	qing guang yan you dao shi yan	1
@@ -194465,6 +194611,7 @@ sort: by_weight
 人命关天的大事	ren ming guan tian de da shi	1
 人莫知其子之恶	ren mo zhi qi zi zhi e	1
 人凝血因子冻干	ren ning xue yin zi dong gan	1
+人怕出名猪怕壮	ren pa chu ming zhu pa zhuang	1
 人偏肺病毒感染	ren pian fei bing du gan ran	1
 人情冷暖验笼纱	ren qing leng nuan yan long sha	1
 人情莫道春光好	ren qing mo dao chun guang hao	1
@@ -194865,6 +195012,7 @@ sort: by_weight
 三九鸡精口服液	san jiu ji jing kou fu ye	1
 三九皮炎平软膏	san jiu pi yan ping ruan gao	1
 三九童泰口服液	san jiu tong tai kou fu ye	1
+三句话不离本行	san ju hua bu li ben hang	1
 三聚氰胺尸清漆	san ju qing an shi qing qi	3
 三均三甲苯基铱	san jun san jia ben ji yi	1
 三磷酸胞苷二钠	san lin suan bao gan er na	1
@@ -194885,6 +195033,7 @@ sort: by_weight
 三腔气囊导尿管	san qiang qi nang dao niao guan	1
 三腔无菌导尿管	san qiang wu jun dao niao guan	1
 三染色体型遗传	san ran se ti xing yi chuan	1
+三人行必有我师	san ren xing bi you wo shi	1
 三仁杏蔻薏苡仁	san ren xing kou yi yi ren	1
 三蛇胆川贝糖浆	san she dan chuan bei tang jiang	1
 三十一天永不差	san shi yi tian yong bu cha	1
@@ -195016,6 +195165,7 @@ sort: by_weight
 少林跌打止痛膏	shao lin die da zhi tong gao	1
 少林风湿跌打膏	shao lin feng shi die da gao	1
 少林祛风止痛散	shao lin qu feng zhi tong san	1
+少年夫妻老来伴	shao nian fu qi lao lai ban	1
 少去人多的地方	shao qu ren duo de di fang	1
 烧伤瘢痕恶性变	shao shang ban hen e xing bian	1
 烧伤创面脓毒症	shao shang chuang mian nong du zheng	1
@@ -195190,6 +195340,7 @@ sort: by_weight
 参苓白术口服液	shen ling bai zhu kou fu ye	1
 参苓蛤蚧口服液	shen ling ge jie kou fu ye	1
 参苓健脾胃颗粒	shen ling jian pi wei ke li	1
+神龙见首不见尾	shen long jian shou bu jian wei	1
 肾门脂肪瘤样病	shen men zhi fang liu yang bing	1
 肾内窥镜活检术	shen nei kui jing huo jian shu	1
 审判委员会讨论	shen pan wei yuan hui tao lun	1
@@ -195256,6 +195407,8 @@ sort: by_weight
 肾盂输尿管造影	shen yu shu niao guan zao ying	1
 肾盂移行细胞癌	shen yu yi xing xi bao ai	1
 肾盂造口闭合术	shen yu zao kou bi he shu	1
+身在曹营心在汉	shen zai cao ying xin zai han	1
+身在福中不知福	shen zai fu zhong bu zhi fu	1
 深在性红斑狼疮	shen zai xing hong ban lang chuang	1
 肾脏淀粉样变性	shen zang dian fen yang bian xing	1
 肾造口导管置换	shen zao kou dao guan zhi huan	1
@@ -195263,6 +195416,7 @@ sort: by_weight
 肾造瘘管更换术	shen zao lou guan geng huan shu	1
 肾盏切开取石术	shen zhan qie kai qu shi shu	1
 肾盏切开探查术	shen zhan qie kai tan cha shu	1
+身正不怕影子斜	shen zheng bu pa ying zi xie	1
 深证成份股指数	shen zheng cheng fen gu zhi shu	1
 伸趾长肌切取术	shen zhi chang ji qie qu shu	1
 肾脂肪瘤切除术	shen zhi fang liu qie chu shu	1
@@ -195271,6 +195425,7 @@ sort: by_weight
 肾周脓肿引流术	shen zhou nong zhong yin liu shu	1
 肾周围粘连松解	shen zhou wei zhan lian song jie	1
 肾综合征出血热	shen zong he zheng chu xie re	1
+胜败乃兵家常事	sheng bai nai bing jia chang shi	1
 升柴参草当归身	sheng chai can cao dang gui shen	1
 生产记录用表格	sheng chan ji lu yong biao ge	1
 生产可能性曲线	sheng chan ke neng xing qu xian	1
@@ -195328,6 +195483,8 @@ sort: by_weight
 十八味补肾益气	shi ba wei bu shen yi qi	1
 十八味诃子利尿	shi ba wei he zi li niao	1
 十八味欧曲珍宝	shi ba wei ou qu zhen bao	1
+失败是成功之母	shi bai shi cheng gong zhi mu	1
+失败为成功之母	shi bai wei cheng gong zhi mu	1
 市场关注度指数	shi chang guan zhu du zhi shu	1
 十大青年法学家	shi da qing nian fa xue jia	1
 失代偿性碱中毒	shi dai chang xing jian zhong du	1
@@ -195418,6 +195575,7 @@ sort: by_weight
 视觉模拟评分法	shi jue mo ni ping fen fa	1
 势均力敌的较量	shi jun li di de jiao liang	1
 噬菌体展示技术	shi jun ti zhan shi ji shu	1
+是可忍孰不可忍	shi ke ren shu bu ke ren	1
 始可与言于兹矣	shi ke yu yan yu zi yi	1
 失控的温室效应	shi kong de wen shi xiao ying	1
 嗜冷科维尔氏菌	shi leng ke wei er shi jun	1
@@ -195682,6 +195840,7 @@ sort: by_weight
 树犹如此堪重别	shu you ru ci kan chong bie	1
 书有未曾经我读	shu you wei ceng jing wo du	1
 树欲静而风不息	shu yu jing er feng bu xi	1
+树欲静而风不止	shu yu jing er feng bu zhi	1
 属于他们的故事	shu yu ta men de gu shi	1
 属于我们的青春	shu yu wo men de qing chun	1
 属于我们的时代	shu yu wo men de shi dai	1
@@ -195889,6 +196048,7 @@ sort: by_weight
 四氟邻苯二基汞	si fu lin ben er ji gong	1
 四氟硼酸重氮苯	si fu peng suan zhong dan ben	1
 斯盖医之本意也	si gai yi zhi ben yi ye	1
+四海之内皆兄弟	si hai zhi nei jie xiong di	1
 四甲基臭氧化铵	si jia ji chou yang hua an	1
 四甲基二硅氧烷	si jia ji er gui yang wan	1
 四甲基氢氧化铵	si jia ji qing yang hua an	2
@@ -196034,6 +196194,7 @@ sort: by_weight
 泰山地下大裂谷	tai shan di xia da lie gu	1
 泰山风景名胜区	tai shan feng jing ming sheng qu	1
 泰山石敢当习俗	tai shan shi gan dang xi su	1
+泰山压顶不弯腰	tai shan ya ding bu wan yao	1
 太上洞渊神咒经	tai shang dong yuan shen zhou jing	1
 泰式青木瓜沙拉	tai shi qing mu gua sha la	1
 胎头真空吸引术	tai tou zhen kong xi yin shu	1
@@ -196197,6 +196358,7 @@ sort: by_weight
 天堂最近的地方	tian tang zui jin de di fang	1
 天体粒子物理学	tian ti li zi wu li xue	1
 天体生物物理学	tian ti sheng wu wu li xue	1
+天下乌鸦一般黑	tian xia wu ya yi ban hei	1
 天行赤眼暴翳病	tian xing chi yan bao yi bing	1
 条顿堡森林战役	tiao dun bao sen lin zhan yi	1
 条件反射的泛化	tiao jian fan she de fan hua	1
@@ -196293,6 +196455,7 @@ sort: by_weight
 透过业务看政治	tou guo ye wu kan zheng zhi	1
 透过作风看队伍	tou guo zuo feng kan dui wu	1
 头和颈度腐蚀伤	tou he jing du fu shi shang	1
+偷鸡不着蚀把米	tou ji bu zhao shi ba mi	1
 头肩肘手胯膝足	tou jian zhou shou kua xi zu	1
 头颈部皮下囊肿	tou jing bu pi xia nang zhong	1
 头颈部血管畸形	tou jing bu xue guan ji xing	1
@@ -196337,6 +196500,7 @@ sort: by_weight
 图形视诱发电位	tu xing shi you fa dian wei	1
 凸眼性甲状腺肿	tu yan xing jia zhuang xian zhong	1
 突眼性甲状腺肿	tu yan xing jia zhuang xian zhong	1
+兔子不吃窝边草	tu zi bu chi wo bian cao	1
 团结群众的核心	tuan jie qun zhong de he xin	1
 腿部肌腱松解术	tui bu ji jian song jie shu	1
 腿部肌肉切断术	tui bu ji rou qie duan shu	1
@@ -196723,6 +196887,7 @@ sort: by_weight
 污染物综合效应	wu ran wu zong he xiao ying	1
 无人智胜进行曲	wu ren zhi sheng jin xing qu	1
 五日生化需氧量	wu ri sheng hua xu yang liang	1
+无事不登三宝殿	wu shi bu deng san bao dian	1
 无水丁二酸二钠	wu shui ding er suan er na	2
 五水硫代硫酸钠	wu shui liu dai liu suan na	3
 无水硫代硫酸钠	wu shui liu dai liu suan na	2
@@ -196730,9 +196895,11 @@ sort: by_weight
 五碳糖磷酸路径	wu tan tang lin suan lu jing	1
 五维赖氨酸颗粒	wu wei lai an suan ke li	1
 五维赖氨酸糖浆	wu wei lai an suan tang jiang	1
+勿谓言之不预也	wu wei yan zhi bu yu ye	1
 无锡江南电缆厂	wu xi jiang nan dian lan chang	1
 无限小应变理论	wu xian xiao ying bian li lun	1
 物像空间不变式	wu xiang kong jian bu bian shi	1
+无心插柳柳成荫	wu xin cha liu liu cheng yin	1
 五氧化二钒粉尘	wu yang hua er fan fen chen	2
 五氧化二钒熏烟	wu yang hua er fan xun yan	2
 五氧化二钽粉尘	wu yang hua er tan fen chen	2
@@ -196892,6 +197059,7 @@ sort: by_weight
 下了一整夜的雨	xia le yi zheng ye de yu	1
 下泪小点切开术	xia lei xiao dian qie kai shu	1
 夏隆胸甲的碎片	xia long xiong jia de sui pian	1
+狭路相逢勇者胜	xia lu xiang feng yong zhe sheng	1
 瞎猫碰上死耗子	xia mao peng shang si hao zi	1
 瞎猫遇见死耗子	xia mao yu jian si hao zi	1
 下前牙牙槽嵴区	xia qian ya ya cao ji qu	1
@@ -197366,6 +197534,7 @@ sort: by_weight
 协日嘎四味汤散	xie ri ga si wei tang san	1
 缬沙坦氢氯噻嗪	xie sha tan qing lv sai qin	1
 斜疝高位结扎术	xie shan gao wei jie za shu	1
+挟天子以令诸侯	xie tian zi yi ling zhu hou	1
 挟天子以征四方	xie tian zi yi zheng si fang	1
 谢谢大家的鼓励	xie xie da jia de gu li	1
 谢谢大家的关注	xie xie da jia de guan zhu	1
@@ -197382,6 +197551,7 @@ sort: by_weight
 心包肿瘤切除术	xin bao zhong liu qie chu shu	1
 心包肿瘤摘除术	xin bao zhong liu zhai chu shu	1
 新编辑部的故事	xin bian ji bu de gu shi	1
+心病还须心药医	xin bing hai xu xin yao yi	1
 新产妇人有三病	xin chan fu ren you san bing	1
 新出口订单指数	xin chu kou ding dan zhi shu	1
 心达康片薄膜衣	xin da kang pian bao mo yi	1
@@ -197515,6 +197685,7 @@ sort: by_weight
 心因性消化不良	xin yin xing xiao hua bu liang	1
 心因性幽门痉挛	xin yin xing you men jing luan	1
 信用卡和借记卡	xin yong ka he jie ji ka	1
+心有余而力不足	xin you yu er li bu zu	1
 心与小肠相表里	xin yu xiao chang xiang biao li	1
 心源性呼吸困难	xin yuan xing hu xi kun nan	1
 心脏电机械分离	xin zang dian ji xie fen li	1
@@ -198380,6 +198551,7 @@ sort: by_weight
 眼压日曲线检查	yan ya ri qu xian jian cha	1
 厌氧菌性败血病	yan yang jun xing bai xue bing	1
 厌氧菌药敏试验	yan yang jun yao min shi yan	1
+言有尽而意无穷	yan you jin er yi wu qiong	1
 岩藻糖苷沉积症	yan zao tang gan chen ji zheng	1
 岩藻糖苷贮积病	yan zao tang gan zhu ji bing	1
 岩藻糖苷贮积症	yan zao tang gan zhu ji zheng	1
@@ -198424,6 +198596,7 @@ sort: by_weight
 羊藿巴戟口服液	yang huo ba ji kou fu ye	1
 阳离子非离子型	yang li zi fei li zi xing	1
 氧罗沙星注射液	yang luo sha xing zhu she ye	1
+羊毛出在羊身上	yang mao chu zai yang shen shang	1
 阳明寒呕少阴利	yang ming han ou shao yin li	1
 阳明津伤肠燥证	yang ming jin shang chang zao zheng	1
 阳明湿热兼表证	yang ming shi re jian biao zheng	1
@@ -198562,6 +198735,7 @@ sort: by_weight
 异常球蛋白血症	yi chang qiu dan bai xue zheng	1
 异常视网膜对应	yi chang shi wang mo dui ying	1
 怡常维颠茄胶囊	yi chang wei dian qie jiao nang	1
+一朝天子一朝臣	yi chao tian zi yi chao chen	1
 蚁陈固涩口服液	yi chen gu se kou fu ye	1
 义齿组织面重衬	yi chi zu zhi mian zhong chen	1
 以崇尚科学为荣	yi chong shang ke xue wei rong	1
@@ -198642,6 +198816,7 @@ sort: by_weight
 乙二醇二硝酸酯	yi er chun er xiao suan zhi	3
 乙二硫基氯化铋	yi er liu ji lv hua bi	1
 乙二硫基氯化砷	yi er liu ji lv hua shen	1
+一发而不可收拾	yi fa er bu ke shou shi	1
 一方云母作云实	yi fang yun mu zuo yun shi	1
 以奋斗迎接挑战	yi fen dou ying jie tiao zhan	1
 一副你爱买不买	yi fu ni ai mai bu mai	1
@@ -198656,6 +198831,7 @@ sort: by_weight
 乙肝清热解毒片	yi gan qing re jie du pian	1
 胰高血糖素试验	yi gao xue tang su shi yan	1
 一个安静的地方	yi ge an jing de di fang	1
+一个巴掌拍不响	yi ge ba zhang pai bu xiang	1
 一个比一个难看	yi ge bi yi ge nan kan	1
 一个古老的传说	yi ge gu lao de chuan shuo	1
 一个基因一个酶	yi ge ji yin yi ge mei	1
@@ -198724,6 +198900,7 @@ sort: by_weight
 依靠自己的力量	yi kao zi ji de li liang	1
 以客户利益为重	yi ke hu li yi wei zhong	1
 以空间换取时间	yi kong jian huan qu shi jian	1
+一块石头落了地	yi kuai shi tou luo le di	1
 益坤宁片薄膜衣	yi kun ning pian bao mo yi	1
 依赖型人格障碍	yi lai xing ren ge zhang ai	1
 依赖于呼吸器者	yi lai yu hu xi qi zhe	1
@@ -198783,6 +198960,8 @@ sort: by_weight
 以人为本的理念	yi ren wei ben de li nian	1
 以人为本的设计	yi ren wei ben de she ji	1
 艺人新媒体指数	yi ren xin mei ti zhi shu	1
+一人做事一人当	yi ren zuo shi yi ren dang	1
+一日夫妻百日恩	yi ri fu qi bai ri en	1
 溢乳闭经综合征	yi ru bi jing zong he zheng	1
 怡瑞西沙比利片	yi rui xi sha bi li pian	1
 异色角胸肖叶甲	yi se jiao xiong xiao ye jia	1
@@ -198814,6 +198993,7 @@ sort: by_weight
 以实干开创未来	yi shi gan kai chuang wei lai	1
 以实际情况为准	yi shi ji qing kuang wei zhun	1
 一式装甲运兵车	yi shi zhuang jia yun bing che	1
+一失足成千古恨	yi shi zu cheng qian gu hen	1
 以瘦为美的时代	yi shou wei mei de shi dai	1
 以说明书为依据	yi shuo ming shu wei yi ju	1
 一丝不苟的态度	yi si bu gou de tai du	1
@@ -199229,6 +199409,7 @@ sort: by_weight
 硬性气管镜检查	ying xing qi guan jing jian cha	1
 硬性食管镜检查	ying xing shi guan jing jian cha	1
 英雄连勇气传说	ying xiong lian yong qi chuan shuo	1
+英雄无用武之地	ying xiong wu yong wu zhi di	1
 营养必需氨基酸	ying yang bi xu an ji suan	1
 营养不良性钙化	ying yang bu liang xing gai hua	1
 营养不良性溃疡	ying yang bu liang xing kui yang	1
@@ -199278,6 +199459,7 @@ sort: by_weight
 有高下浅深之差	you gao xia qian shen zhi cha	1
 有关工作研讨会	you guan gong zuo yan tao hui	1
 有关化学方程式	you guan hua xue fang cheng shi	1
+有过之而无不及	you guo zhi er wu bu ji	1
 有汗无汗均可尝	you han wu han jun ke chang	1
 祐汉新村第二街	you han xin cun di er jie	1
 祐汉新村第一街	you han xin cun di yi jie	1
@@ -199320,8 +199502,10 @@ sort: by_weight
 幼年性纤维腺瘤	you nian xing xian wei xian liu	1
 幼年性跖部皮病	you nian xing zhi bu pi bing	1
 有其父必有其女	you qi fu bi you qi nv	1
+有其父必有其子	you qi fu bi you qi zi	1
 油漆和染料中毒	you qi he ran liao zhong du	1
 有其母必有其女	you qi mu bi you qi nv	1
+有钱能使鬼推磨	you qian neng shi gui tui mo	1
 右室刺伤修补术	you shi ci shang xiu bu shu	1
 优势反应强化说	you shi fan ying qiang hua shuo	1
 右室流出道狭窄	you shi liu chu dao xia zhai	1
@@ -199562,6 +199746,7 @@ sort: by_weight
 遮风挡雨的地方	zhe feng dang yu de di fang	1
 这可如何是好啊	zhe ke ru he shi hao a	1
 这么低级的错误	zhe me di ji de cuo wu	1
+这山望着那山高	zhe shan wang zhe na shan gao	1
 着丝粒异染色质	zhe si li yi ran se zhi	1
 诊断性羊膜穿刺	zhen duan xing yang mo chuan ci	1
 阵发性心动过速	zhen fa xing xin dong guo su	1
@@ -199755,6 +199940,7 @@ sort: by_weight
 只怕人前两面刀	zhi pa ren qian liang mian dao	1
 只怕人情两面刀	zhi pa ren qing liang mian dao	1
 指皮肤良性肿瘤	zhi pi fu liang xing zhong liu	1
+知其不可而为之	zhi qi bu ke er wei zhi	1
 支气管淀粉样变	zhi qi guan dian fen yang bian	1
 支气管动脉破裂	zhi qi guan dong mai po lie	1
 支气管肺泡灌洗	zhi qi guan fei pao guan xi	1
@@ -199839,6 +200025,8 @@ sort: by_weight
 脂质渐进性坏死	zhi zhi jian jin xing huai si	1
 指趾节毛增多症	zhi zhi jie mao zeng duo zheng	1
 治之十日以上瘥	zhi zhi shi ri yi shang chai	1
+置之死地而后快	zhi zhi si di er hou kuai	1
+置之死地而后生	zhi zhi si di er hou sheng	1
 枳竹陈皮加半枣	zhi zhu chen pi jia ban zao	1
 指转位代拇指术	zhi zhuan wei dai mu zhi shu	1
 栀子柏皮加甘草	zhi zi bai pi jia gan cao	1
@@ -200620,7 +200808,9 @@ sort: by_weight
 巴黎综合理工学院	ba li zong he li gong xue yuan	1
 八仙过海各显神通	ba xian guo hai ge xian shen tong	1
 百尺竿头更进一步	bai chi gan tou geng jin yi bu	1
+白刀子进红刀子出	bai dao zi jin hong dao zi chu	1
 百舸争流鹰击长空	bai ge zheng liu ying ji chang kong	1
+百花齐放百家争鸣	bai hua qi fang bai jia zheng ming	1
 百足之虫死而不僵	bai zu zhi chong si er bu jiang	1
 爆破地面大块岩石	bao po di mian da kuai yan shi	1
 爆破角砾岩型铀矿	bao po jiao li yan xing you kuang	1
@@ -200635,6 +200825,7 @@ sort: by_weight
 比上不足比下有余	bi shang bu zu bi xia you yu	1
 别往自己脸上贴金	bie wang zi ji lian shang tie jin	1
 兵来将挡水来土掩	bing lai jiang dang shui lai tu yan	1
+兵马未动粮草先行	bing ma wei dong liang cao xian xing	1
 丙烯基缩水甘油醚	bing xi ji suo shui gan you mi	2
 丙烯腈苯乙烯树脂	bing xi jing ben yi xi shu zhi	2
 丙烯酸酯类聚合物	bing xi suan zhi lei ju he wu	5
@@ -200645,8 +200836,11 @@ sort: by_weight
 不经一事不长一智	bu jing yi shi bu zhang yi zhi	1
 布莱恩空气透过法	bu lai en kong qi tou guo fa	1
 不鸣则已一鸣惊人	bu ming ze yi yi ming jing ren	1
+不怕一万就怕万一	bu pa yi wan jiu pa wan yi	1
 不求有功但求无过	bu qiu you gong dan qiu wu guo	1
+不入虎穴焉得虎子	bu ru hu xue yan de hu zi	1
 不是你死就是我亡	bu shi ni si jiu shi wo wang	1
+不在其位不谋其政	bu zai qi wei bu mou qi zheng	1
 不知哪块云彩下雨	bu zhi na kuai yun cai xia yu	1
 彩板科特江苏沃森	cai ban ke te jiang su wo sen	1
 财政决算支出审计	cai zheng jue suan zhi chu shen ji	1
@@ -200661,8 +200855,11 @@ sort: by_weight
 长烟一空皓月千里	chang yan yi kong hao yue qian li	1
 场址动力反应分析	chang zhi dong li fan ying fen xi	1
 潮汐共振分裂假说	chao xi gong zhen fen lie jia shuo	1
+城门失火殃及池鱼	cheng men shi huo yang ji chi yu	1
 成事不足败事有余	cheng shi bu zu bai shi you yu	1
 城市抗震防灾规划	cheng shi kang zhen fang zai gui hua	1
+乘兴而来败兴而归	cheng xing er lai bai xing er gui	1
+成也萧何败也萧何	cheng ye xiao he bai ye xiao he	1
 吃苦在前享受在后	chi ku zai qian xiang shou zai hou	1
 吃葡萄不吐葡萄皮	chi pu tao bu tu pu tao pi	1
 仇人相见分外眼红	chou ren xiang jian fen wai yan hong	1
@@ -200671,6 +200868,7 @@ sort: by_weight
 出其不意攻其不备	chu qi bu yi gong qi bu bei	1
 春风化雨润物无声	chun feng hua yu run wu wu sheng	1
 春暖花开草长莺飞	chun nuan hua kai cao zhang ying fei	1
+春生夏长秋收冬藏	chun sheng xia zhang qiu shou dong cang	1
 次黄嘌呤核苷磷酸	ci huang piao ling he gan lin suan	1
 聪明一世糊涂一时	cong ming yi shi hu tu yi shi	1
 从善如登从恶如崩	cong shan ru deng cong e ru beng	1
@@ -200691,6 +200889,7 @@ sort: by_weight
 但行好事莫问前程	dan xing hao shi mo wen qian cheng	1
 当断不断必受其乱	dang duan bu duan bi shou qi luan	1
 当局者迷旁观者清	dang ju zhe mi pang guan zhe qing	1
+道高一尺魔高一丈	dao gao yi chi mo gao yi zhang	1
 刀枪入库马放南山	dao qiang ru ku ma fang nan shan	1
 得道多助失道寡助	de dao duo zhu shi dao gua zhu	1
 地槽型构造岩浆区	di cao xing gou zao yan jiang qu	1
@@ -200730,6 +200929,9 @@ sort: by_weight
 发矫诏诸镇应曹公	fa jiao zhao zhu zhen ying cao gong	1
 法网恢恢疏而不漏	fa wang hui hui shu er bu lou	1
 范德格拉夫起电机	fan de ge la fu qi dian ji	3
+翻手为云覆手为雨	fan shou wei yun fu shou wei yu	1
+防民之口甚于防川	fang min zhi kou shen yu fang chuan	1
+放下屠刀立地成佛	fang xia tu dao li di cheng fo	1
 菲克扩散第一定律	fei ke kuo san di yi ding lv	1
 费了九牛二虎之力	fei le jiu niu er hu zhi li	1
 非依时计量学反应	fei yi shi ji liang xue fan ying	1
@@ -200737,7 +200939,9 @@ sort: by_weight
 非洲棋盘格式构造	fei zhou qi pan ge shi gou zao	1
 分批次一点一点把	fen pi ci yi dian yi dian ba	1
 分子亲核取代反应	fen zi qin he qu dai fan ying	1
+逢山开路遇水搭桥	feng shan kai lu yu shui da qiao	1
 逢山开路遇水架桥	feng shan kai lu yu shui jia qiao	1
+风声鹤唳草木皆兵	feng sheng he li cao mu jie bing	1
 风压高度变化系数	feng ya gao du bian hua xi shu	1
 风姿绰约袅袅娜娜	feng zi chuo yue niao niao nuo nuo	1
 复方氨酚那敏颗粒	fu fang an fen na min ke li	1
@@ -200753,6 +200957,7 @@ sort: by_weight
 各有所长各有所短	ge you suo chang ge you suo duan	1
 更衣人偶坠入爱河	geng yi ren ou zhui ru ai he	1
 工程价款结算帐单	gong cheng jia kuan jie suan zhang dan	1
+攻其一点不及其余	gong qi yi dian bu ji qi yu	1
 狗嘴里吐不出象牙	gou zui li tu bu chu xiang ya	1
 古尔班通古特沙漠	gu er ban tong gu te sha mo	1
 箍筋三角锥体网架	gu jin san jiao zhui ti wang jia	1
@@ -200766,6 +200971,7 @@ sort: by_weight
 国际海道测量组织	guo ji hai dao ce liang zu zhi	1
 国际货币基金组织	guo ji huo bi ji jin zu zhi	1
 国家体育总局社体	guo jia ti yu zong ju she ti	1
+国家兴亡匹夫有责	guo jia xing wang pi fu you ze	1
 过氧苯甲酸叔丁酯	guo yang ben jia suan shu ding zhi	1
 海岸动力模拟实验	hai an dong li mo ni shi yan	1
 海底多金属热液沉	hai di duo jin shu re ye chen	1
@@ -200773,6 +200979,7 @@ sort: by_weight
 含煤岩系成因类型	han mei yan xi cheng yin lei xing	1
 含煤岩系旋回结构	han mei yan xi xuan hui jie gou	1
 航空地质调查方法	hang kong di zhi diao cha fang fa	1
+毫不利己专门利人	hao bu li ji zhuan men li ren	1
 好记性不如烂笔头	hao ji xing bu ru lan bi tou	1
 合成孔径侧视雷达	he cheng kong jing ce shi lei da	1
 红装素裹分外妖娆	hong zhuang su guo fen wai yao rao	1
@@ -200795,7 +201002,9 @@ sort: by_weight
 机不可失失不再来	ji bu ke shi shi bu zai lai	1
 基尔霍夫积分定理	ji er huo fu ji fen ding li	1
 激发极化衰减时法	ji fa ji hua shuai jian shi fa	1
+积善之家必有余庆	ji shan zhi jia bi you yu qing	1
 积少成多积沙成塔	ji shao cheng duo ji sha cheng ta	1
+己所不欲勿施于人	ji suo bu yu wu shi yu ren	1
 集万千宠爱于一身	ji wan qian chong ai yu yi shen	1
 季戊四醇四硝酸酯	ji wu si chun si xiao suan zhi	3
 极限浓度木素磺酸	ji xian nong du mu su huang suan	1
@@ -200813,16 +201022,19 @@ sort: by_weight
 加氢脱烷基催化剂	jia qing tuo wan ji cui hua ji	2
 间氨基苯甲酸乙酯	jian an ji ben jia suan yi zhi	2
 坚定信心上下同欲	jian ding xin xin shang xia tong yu	1
+拣了芝麻丢了西瓜	jian le zhi ma diu le xi gua	1
 减色效应淡色效应	jian se xiao ying dan se xiao ying	1
 兼听则明偏听则暗	jian ting ze ming pian ting ze an	1
 碱性碘化汞钾试液	jian xing dian hua gong jia shi ye	1
 箭在弦上不得不发	jian zai xian shang bu de bu fa	1
+江山易改本性难移	jiang shan yi gai ben xing nan yi	1
 将欲取之必先予之	jiang yu qu zhi bi xian yu zhi	1
 教会徒弟饿死师傅	jiao hui tu di e si shi fu	1
 焦性没食子酸溶液	jiao xing mo shi zi suan rong ye	6
 津格尔星对测时法	jin ge er xing dui ce shi fa	1
 近海煤型含煤岩系	jin hai mei xing han mei yan xi	1
 金属包石棉平垫片	jin shu bao shi mian ping dian pian	1
+金玉其外败絮其中	jin yu qi wai bai xu qi zhong	1
 精诚所至金石为开	jing cheng suo zhi jin shi wei kai	1
 静电场的环路定理	jing dian chang de huan lu ding li	1
 静如处子动如脱兔	jing ru chu zi dong ru tuo tu	1
@@ -200831,6 +201043,7 @@ sort: by_weight
 晶体化学第一定律	jing ti hua xue di yi ding lv	1
 井下交叉闭合导线	jing xia jiao cha bi he dao xian	1
 聚丙烯无规共聚物	ju bing xi wu gui gong ju wu	2
+鞠躬尽瘁死而后已	ju gong jin cui si er hou yi	1
 聚甲酚磺醛阴道栓	ju jia fen huang quan yin dao shuan	1
 聚氯乙烯覆面胶带	ju lv yi xi fu mian jiao dai	1
 聚四氟乙烯滑动板	ju si fu yi xi hua dong ban	1
@@ -200841,6 +201054,7 @@ sort: by_weight
 看不到明天的太阳	kan bu dao ming tian de tai yang	1
 看看不一样的风景	kan kan bu yi yang de feng jing	1
 抗剪强度总应力法	kang jian qiang du zong ying li fa	1
+靠山吃山靠水吃水	kao shan chi shan kao shui chi shui	1
 坑道进尺米毫克值	keng dao jin chi mi hao ke zhi	1
 夸克胶子等离子体	kua ke jiao zi deng li zi ti	1
 矿井通风速度压头	kuang jing tong feng su du ya tou	1
@@ -200849,6 +201063,7 @@ sort: by_weight
 癞蛤蟆想吃天鹅肉	lai ha ma xiang chi tian e rou	1
 老虎嘴里拔牙找死	lao hu zui li ba ya zhao si	1
 老鼠的儿子会打洞	lao shu de er zi hui da dong	1
+老鼠过街人人喊打	lao shu guo jie ren ren han da	1
 老鼠啃碟子全是词	lao shu ken die zi quan shi ci	1
 老吾老以及人之老	lao wu lao yi ji ren zhi lao	1
 利润及其分配审计	li run ji qi fen pei shen ji	1
@@ -200861,14 +201076,17 @@ sort: by_weight
 六基坑开挖与降水	liu ji keng kai wa yu jiang shui	1
 六苴含铜砂岩矿床	liu ju han tong sha yan kuang chuang	1
 流水不腐户枢不蠹	liu shui bu fu hu shu bu du	1
+路见不平拔刀相助	lu jian bu ping ba dao xiang zhu	1
 露天设备范围非圆	lu tian she bei fan wei fei yuan	1
 伦敦政治经济学院	lun dun zheng zhi jing ji xue yuan	1
+落花有意流水无情	luo hua you yi liu shui wu qing	1
 洛桑联邦理工学院	luo sang lian bang li gong xue yuan	1
 螺栓有效截面面积	luo shuan you xiao jie mian mian ji	1
 氯化二硫氰酸合铁	lv hua er liu qing suan he tie	2
 绿基正长云英斑岩	lv ji zheng zhang yun ying ban yan	1
 绿帘金红角闪片岩	lv lian jin hong jiao shan pian yan	1
 氯霉素甘油滴耳液	lv mei su gan you di er ye	1
+麻雀虽小五脏俱全	ma que sui xiao wu zang ju quan	1
 毛刷润湿机松度值	mao shua run shi ji song du zhi	1
 美国普林斯顿大学	mei guo pu lin si dun da xue	1
 美国职业篮球联赛	mei guo zhi ye lan qiu lian sai	1
@@ -200879,6 +201097,7 @@ sort: by_weight
 闵可夫斯基坐标系	min ke fu si ji zuo biao xi	3
 名额有限额满为止	ming e you xian e man wei zhi	1
 明枪易躲暗箭难防	ming qiang yi duo an jian nan fang	1
+明修栈道暗度陈仓	ming xiu zhan dao an du chen cang	1
 明知不可为而为之	ming zhi bu ke wei er wei zhi	1
 魔高一尺道高一丈	mo gao yi chi dao gao yi zhang	1
 耐环境应力开裂性	nai huan jing ying li kai lie xing	1
@@ -200890,6 +201109,7 @@ sort: by_weight
 逆水行舟不进则退	ni shui xing zhou bu jin ze tui	1
 逆同位素稀释分析	ni tong wei su xi shi fen xi	1
 尿甙二磷酸葡糖甙	niao dai er lin suan pu tang dai	4
+宁为玉碎不为瓦全	ning wei yu sui bu wei wa quan	1
 宁做鸡头不做凤尾	ning zuo ji tou bu zuo feng wei	1
 扭剪型高强度螺栓	niu jian xing gao qiang du luo shuan	1
 牛皮浆酮基湿润辊	niu pi jiang tong ji shi run gun	1
@@ -200909,10 +201129,13 @@ sort: by_weight
 齐拉却尔曼斯效应	qi la que er man si xiao ying	1
 气相色谱质谱联用	qi xiang se pu zhi pu lian yong	1
 汽油吸附脱硫装置	qi you xi fu tuo liu zhuang zhi	1
+前不着村后不着店	qian bu zhao cun hou bu zhao dian	1
 千里之堤毁于蚁穴	qian li zhi di hui yu yi xue	1
 千里之堤溃于蚁穴	qian li zhi di kui yu yi xue	1
+千里之行始于足下	qian li zhi xing shi yu zu xia	1
 前人栽树后人乘凉	qian ren zai shu hou ren cheng liang	1
 前人种树后人乘凉	qian ren zhong shu hou ren cheng liang	1
+前事不忘后事之师	qian shi bu wang hou shi zhi shi	1
 前无古人后无来者	qian wu gu ren hou wu lai zhe	1
 强斯型圆锥洗煤机	qiang si xing yuan zhui xi mei ji	1
 强酸型离子交换剂	qiang suan xing li zi jiao huan ji	5
@@ -200925,14 +201148,19 @@ sort: by_weight
 茕茕孑立形影相吊	qiong qiong jie li xing ying xiang diao	1
 穷人的孩子早当家	qiong ren de hai zi zao dang jia	1
 求生不得求死不能	qiu sheng bu de qiu si bu neng	1
+取其精华去其糟粕	qu qi jing hua qu qi zao po	1
+取之不尽用之不竭	qu zhi bu jin yong zhi bu jie	1
 拳不离手曲不离口	quan bu li shou qu bu li kou	1
 全国联行外汇往来	quan guo lian hang wai hui wang lai	1
 群众的眼睛是雪亮	qun zhong de yan jing shi xue liang	1
 热带稀树草原气候	re dai xi shu cao yuan qi hou	1
 热热闹闹吃现成饭	re re nao nao chi xian cheng fan	1
+人不犯我我不犯人	ren bu fan wo wo bu fan ren	1
+人不为己天诛地灭	ren bu wei ji tian zhu di mie	1
 人不知除非己莫为	ren bu zhi chu fei ji mo wei	1
 人而无信不知其可	ren er wu xin bu zhi qi ke	1
 人非草木孰能无情	ren fei cao mu shu neng wu qing	1
+人非圣贤孰能无过	ren fei sheng xian shu neng wu guo	1
 人见人爱花见花开	ren jian ren ai hua jian hua kai	1
 人民武装警察部队	ren min wu zhuang jing cha bu dui	1
 人为刀俎我为鱼肉	ren wei dao zu wo wei yu rou	1
@@ -200940,10 +201168,15 @@ sort: by_weight
 仁者见仁智者见智	ren zhe jian ren zhi zhe jian zhi	1
 人之将死其言也善	ren zhi jiang si qi yan ye shan	1
 人总是知耻而后勇	ren zong shi zhi chi er hou yong	1
+日出而作日入而息	ri chu er zuo ri ru er xi	1
 如果大家都拥有海	ru guo da jia dou yong you hai	1
+如临深渊如履薄冰	ru lin shen yuan ru lv bo bing	1
+如人饮水冷暖自知	ru ren yin shui leng nuan zi zhi	1
 塞翁失马焉知非福	sai weng shi ma yan zhi fei fu	1
 上天无路入地无门	shang tian wu lu ru di wu men	1
 上向梯段式回采法	shang xiang ti duan shi hui cai fa	1
+上有天堂下有苏杭	shang you tian tang xia you su hang	1
+上知天文下知地理	shang zhi tian wen xia zhi di li	1
 射线光电子能谱学	she xian guang dian zi neng pu xue	1
 射线吸收近边结构	she xian xi shou jin bian jie gou	1
 射线吸收精细结构	she xian xi shou jing xi jie gou	1
@@ -200955,17 +201188,22 @@ sort: by_weight
 身体是革命的本钱	shen ti shi ge ming de ben qian	1
 生不带来死不带去	sheng bu dai lai si bu dai qu	1
 圣多美和普林西比	sheng duo mei he pu lin xi bi	1
+盛名之下其实难副	sheng ming zhi xia qi shi nan fu	1
 圣皮埃尔和密克隆	sheng pi ai er he mi ke long	1
 生死有命富贵在天	sheng si you ming fu gui zai tian	1
 生物球粒亮晶灰岩	sheng wu qiu li liang jing hui yan	1
 生物球粒泥晶灰岩	sheng wu qiu li ni jing hui yan	1
 生于忧患死于安乐	sheng yu you huan si yu an le	1
+事不关己高高挂起	shi bu guan ji gao gao gua qi	1
+视而不见听而不闻	shi er bu jian ting er bu wen	1
 十二水磷酸氢二钠	shi er shui lin suan qing er na	5
 十二烷基苯磺酸钠	shi er wan ji ben huang suan na	1
 石斛醚碱石斛星碱	shi hu mi jian shi hu xing jian	1
 市价与账面值比率	shi jia yu zhang mian zhi bi lv	1
+十年树木百年树人	shi nian shu mu bai nian shu ren	1
 嗜酸性粒细胞比率	shi suan xing li xi bao bi lv	1
 食无求饱居无求安	shi wu qiu bao ju wu qiu an	1
+失之东隅收之桑榆	shi zhi dong yu shou zhi sang yu	1
 失之毫厘谬以千里	shi zhi hao li miu yi qian li	1
 狮子搏兔亦用全力	shi zi bo tu yi yong quan li	1
 瘦死的骆驼比马大	shou si de luo tuo bi ma da	1
@@ -200978,6 +201216,7 @@ sort: by_weight
 双锥错流进浆总管	shuang zhui cuo liu jin jiang zong guan	1
 水到渠成瓜熟蒂落	shui dao qu cheng gua shu di luo	1
 水可载舟亦可覆舟	shui ke zai zhou yi ke fu zhou	1
+水能载舟亦能覆舟	shui neng zai zhou yi neng fu zhou	1
 水文地球化学异常	shui wen di qiu hua xue yi chang	1
 顺天者昌逆天者亡	shun tian zhe chang ni tian zhe wang	1
 顺我者昌逆我者亡	shun wo zhe chang ni wo zhe wang	1
@@ -200987,6 +201226,7 @@ sort: by_weight
 四氟乙烯六氟丙烯	si fu yi xi liu fu bing xi	2
 思来想去寝食难安	si lai xiang qu qin shi nan an	1
 死生有命富贵在天	si sheng you ming fu gui zai tian	1
+四体不勤五谷不分	si ti bu qin wu gu bu fen	1
 松结合硫松卷纸卷	song jie he liu song juan zhi juan	1
 俗话说虎毒不食子	su hua shuo hu du bu shi zi	1
 俗话说万事开头难	su hua shuo wan shi kai tou nan	1
@@ -200996,8 +201236,11 @@ sort: by_weight
 酸性间胺黄偏糖酸	suan xing jian an huang pian tang suan	1
 酸岩反应静态试验	suan yan fan ying jing tai shi yan	2
 隧洞围岩质量指标	sui dong wei yan zhi liang zhi biao	1
+它山之石可以攻玉	ta shan zhi shi ke yi gong yu	1
 太平惠民和剂局方	tai ping hui min he ji ju fang	1
 碳酸碳酸盐碳化物	tan suan tan suan yan tan hua wu	1
+螳螂捕蝉黄雀在后	tang lang bu chan huang que zai hou	1
+桃李不言下自成蹊	tao li bu yan xia zi cheng xi	1
 特立尼达和多巴哥	te li ni da he duo ba ge	1
 天然纤维天然木素	tian ran xian wei tian ran mu su	1
 天外有天人上有人	tian wai you tian ren shang you ren	1
@@ -201010,6 +201253,7 @@ sort: by_weight
 同声相应同气相求	tong sheng xiang ying tong qi xiang qiu	1
 同造山期的岩浆酌	tong zao shan qi de yan jiang zhuo	1
 透射电子显微镜法	tou she dian zi xian wei jing fa	1
+头痛医头脚痛医脚	tou tong yi tou jiao tong yi jiao	1
 投之以桃报之以李	tou zhi yi tao bao zhi yi li	1
 完全类质同象系列	wan quan lei zhi tong xiang xi lie	1
 万事俱备只欠东风	wan shi ju bei zhi qian dong feng	1
@@ -201027,6 +201271,8 @@ sort: by_weight
 无甲烷碳氢化合物	wu jia wan tan qing hua he wu	1
 五水合硫代硫酸钠	wu shui he liu dai liu suan na	2
 无所不知无所不能	wu suo bu zhi wu suo bu neng	1
+物以类聚人以群分	wu yi lei ju ren yi qun fen	1
+无源之水无本之木	wu yuan zhi shui wu ben zhi mu	1
 西昌卫星发射中心	xi chang wei xing fa she zhong xin	1
 烯聚氯乙稀复合纸	xi ju lv yi xi fu he zhi	1
 吸湿的氢氟酸木素	xi shi de qing fu suan mu su	2
@@ -201036,6 +201282,7 @@ sort: by_weight
 线型低密度聚乙烯	xian xing di mi du ju yi xi	5
 限制性核酸内切酶	xian zhi xing he suan nei qie mei	1
 相对论性流体力学	xiang dui lun xing liu ti li xue	2
+项庄舞剑意在沛公	xiang zhuang wu jian yi zai pei gong	1
 小儿氨酚那敏颗粒	xiao er an fen na min ke li	1
 小儿氨酚烷胺颗粒	xiao er an fen wan an ke li	1
 小儿化痰止咳颗粒	xiao er hua tan zhi ke ke li	1
@@ -201044,12 +201291,14 @@ sort: by_weight
 心急吃不了热豆腐	xin ji chi bu liao re dou fu	1
 新年快乐阖家幸福	xin nian kuai le he jia xing fu	1
 行不更名坐不改姓	xing bu geng ming zuo bu gai xing	1
+星星之火可以燎原	xing xing zhi huo ke yi liao yuan	1
 迅雷不及掩耳盗铃	xun lei bu ji yan er dao ling	1
 迅雷不及掩耳之势	xun lei bu ji yan er zhi shi	1
 氩二氧化碳混合气	ya er yang hua tan hun he qi	1
 亚硫酸盐浆包装纸	ya liu suan yan jiang bao zhuang zhi	1
 雅鲁藏布江大峡谷	ya lu zang bu jiang da xia gu	1
 眼高手低好高骛远	yan gao shou di hao gao wu yuan	1
+眼观六路耳听八方	yan guan liu lu er ting ba fang	1
 眼见为实耳听为虚	yan jian wei shi er ting wei xu	1
 燕雀安知鸿鹄之志	yan que an zhi hong hu zhi zhi	1
 岩石动态弹性模量	yan shi dong tai tan xing mo liang	1
@@ -201076,6 +201325,7 @@ sort: by_weight
 乙二醇乙醚醋酸酯	yi er chun yi mi cu suan zhi	3
 一方水土养一方人	yi fang shui tu yang yi fang ren	1
 一分耕耘一分收获	yi fen geng yun yi fen shou huo	1
+一夫当关万夫莫开	yi fu dang guan wan fu mo kai	1
 异父异母的亲兄弟	yi fu yi mu de qin xiong di	1
 一个天上一个地下	yi ge tian shang yi ge di xia	1
 一甲基四氟代磷烷	yi jia ji si fu dai lin wan	2
@@ -201087,11 +201337,13 @@ sort: by_weight
 乙醚可溶物排风机	yi mi ke rong wu pai feng ji	1
 以其昏昏使人昭昭	yi qi hun hun shi ren zhao zhao	1
 一人得道鸡犬升天	yi ren de dao ji quan sheng tian	1
+一人之下万人之上	yi ren zhi xia wan ren zhi shang	1
 一日不见如隔三秋	yi ri bu jian ru ge san qiu	1
 乙酸乙烯脂共聚物	yi suan yi xi zhi gong ju wu	2
 已所不欲勿施于人	yi suo bu yu wu shi yu ren	1
 忆往昔峥嵘岁月稠	yi wang xi zheng rong sui yue chou	1
 议温明董卓叱丁原	yi wen ming dong zhuo chi ding yuan	1
+一文钱难倒英雄汉	yi wen qian nan dao ying xiong han	1
 乙烯丙烯二烃单体	yi xi bing xi er ting dan ti	1
 乙烯丙烯共怪物物	yi xi bing xi gong guai wu wu	2
 乙酰半胱氨酸颗粒	yi xian ban guang an suan ke li	1
@@ -201101,6 +201353,7 @@ sort: by_weight
 一叶障目不见泰山	yi ye zhang mu bu jian tai shan	1
 一着不慎满盘皆输	yi zhao bu shen man pan jie shu	1
 乙酯乙烯酯共聚物	yi zhi yi xi zhi gong ju wu	2
+以子之矛攻子之盾	yi zi zhi mao gong zi zhi dun	1
 银装素裹分外妖娆	yin zhuang su guo fen wai yao rao	1
 荧光检测圆二色性	ying guang jian ce yuan er se xing	1
 硬聚氯乙烯塑料管	ying ju lv yi xi su liao guan	1
@@ -201108,13 +201361,16 @@ sort: by_weight
 用人不疑疑人不用	yong ren bu yi yi ren bu yong	1
 用稀土金属储存氢	yong xi tu jin shu chu cun qing	1
 有法可依有章可循	you fa ke yi you zhang ke xun	1
+有福同享有难同当	you fu tong xiang you nan tong dang	1
 有极性非均一多糖	you ji xing fei jun yi duo tang	1
 有借有还再借不难	you jie you huan zai jie bu nan	1
 油气资源预测方法	you qi zi yuan yu ce fang fa	1
 幼吾幼以及人之幼	you wu you yi ji ren zhi you	1
+有则改之无则加勉	you ze gai zhi wu ze jia mian	1
 鱼和熊掌不可兼得	yu huo xiong zhang bu ke jian de	1
 欲加之罪何患无辞	yu jia zhi zui he huan wu ci	1
 鱼龙混杂泥沙俱下	yu long hun za ni sha ju xia	1
+与人方便自己方便	yu ren fang bian zi ji fang bian	1
 愚者千虑必有一得	yu zhe qian lv bi you yi de	1
 原始原子爆炸假说	yuan shi yuan zi bao zha jia shuo	1
 元素的集中和分散	yuan su de ji zhong he fen san	1
@@ -201132,10 +201388,12 @@ sort: by_weight
 正辛基异噻唑啉酮	zheng xin ji yi sai zuo lin tong	1
 睁一只眼闭一只眼	zheng yi zhi yan bi yi zhi yan	1
 值测浆料蒸煮硬度	zhi ce jiang liao zheng zhu ying du	1
+只此一家别无分店	zhi ci yi jia bie wu fen dian	1
 只此一家别无分号	zhi ci yi jia bie wu fen hao	1
 致富思源富而思进	zhi fu si yuan fu er si jin	1
 致化学发光化合物	zhi hua xue fa guang hua he wu	1
 只见树木不见森林	zhi jian shu mu bu jian sen lin	1
+只可意会不可言传	zhi ke yi hui bu ke yan chuan	1
 之前的努力都白费	zhi qian de nu li dou bai fei	1
 知无不言言无不尽	zhi wu bu yan yan wu bu jin	1
 植物营养物质污染	zhi wu ying yang wu zhi wu ran	1
@@ -201212,6 +201470,7 @@ sort: by_weight
 弱水三千只取一瓢饮	ruo shui san qian zhi qu yi piao yin	1
 双分子亲核取代反应	shuang fen zi qin he qu dai fan ying	1
 水印辊骨架二氧化锰	shui yin gun gu jia er yang hua meng	1
+司马昭之心路人皆知	si ma zhao zhi xin lu ren jie zhi	1
 斯莫卢霍夫斯基理论	si mo lu huo fu si ji li lun	1
 苏黎世联邦理工学院	su li shi lian bang li gong xue yuan	1
 特克斯和凯科斯群岛	te ke si he kai ke si qun dao	1
