@@ -3009,7 +3009,6 @@ sort: by_weight
 保住了性命	bao zhu le xing ming	1
 豹主战坦克	bao zhu zhan tan ke	1
 堡状层积云	bao zhuang ceng ji yun	1
-包装的很好	bao zhuang de hen hao	1
 包装得很好	bao zhuang de hen hao	1
 堡状高积云	bao zhuang gao ji yun	1
 包装和运输	bao zhuang he yun shu	1
@@ -5896,9 +5895,9 @@ sort: by_weight
 不断革命论	bu duan ge ming lun	1
 不断增长的	bu duan zeng zhang de	1
 部队办公室	bu dui ban gong shi	1
-不对称氢化	bu dui cheng qing hua	1
-不对称原子	bu dui cheng yuan zi	1
-不对称褶皱	bu dui cheng zhe zhou	1
+不对称氢化	bu dui chen qing hua	1
+不对称原子	bu dui chen yuan zi	1
+不对称褶皱	bu dui chen zhe zhou	1
 部队的生活	bu dui de sheng huo	1
 部队文工团	bu dui wen gong tuan	1
 部队战斗力	bu dui zhan dou li	1
@@ -7474,6 +7473,7 @@ sort: by_weight
 侧臣位通气	ce chen wei tong qi	1
 测地线旋进	ce di xian xuan jin	1
 测地坐标系	ce di zuo biao xi	1
+测度与概率	ce duo yu gai lv	1
 测辐射热计	ce fu she re ji	1
 策划和组织	ce hua he zu zhi	1
 侧滑全键盘	ce hua quan jian pan	1
@@ -10909,7 +10909,7 @@ sort: by_weight
 纯棉的材质	chun mian de cai zhi	1
 纯棉的面料	chun mian de mian liao	1
 春明梦余录	chun ming meng yu lu	1
-唇粘液囊肿	chun nian ye nang zhong	1
+唇黏液囊肿	chun nian ye nang zhong	1
 春暖花开季	chun nuan hua kai ji	1
 春暖花开日	chun nuan hua kai ri	1
 椿皮椿根皮	chun pi chun gen pi	1
@@ -11779,7 +11779,7 @@ sort: by_weight
 大败毒胶囊	da bai du jiao nang	1
 打败拦路虎	da bai lan lu hu	1
 大半壁江山	da ban bi jiang shan	1
-打扮的很潮	da ban de hen chao	1
+打扮得很潮	da ban de hen chao	1
 大半个世纪	da ban ge shi ji	1
 大般涅槃经	da ban nie pan jing	1
 搭伴式养老	da ban shi yang lao	1
@@ -15382,6 +15382,7 @@ sort: by_weight
 点击进入后	dian ji jin ru hou	1
 电机控制器	dian ji kong zhi qi	1
 电机驱动器	dian ji qu dong qi	1
+点击任意处	dian ji ren yi chu	1
 点集拓扑学	dian ji tuo pu xue	1
 电机与电器	dian ji yu dian qi	1
 奠基者效应	dian ji zhe xiao ying	1
@@ -16201,6 +16202,7 @@ sort: by_weight
 东方的传说	dong fang de chuan shuo	1
 东方福尔灵	dong fang fu er ling	1
 东方和西方	dong fang he xi fang	1
+东方红一号	dong fang hong yi hao	1
 洞房花烛夜	dong fang hua zhu ye	1
 东方活血膏	dong fang huo xue gao	1
 东方铠甲虾	dong fang kai jia xia	1
@@ -17097,6 +17099,7 @@ sort: by_weight
 断裂重接酶	duan lie zhong jie mei	1
 短路带磁通	duan lu dai ci tong	1
 端毛轮幼虫	duan mao lun you chong	1
+端面耦合器	duan mian ou he qi	1
 端明殿学士	duan ming dian xue shi	1
 断奶的孩子	duan nai de hai zi	1
 短篇鬼故事	duan pian gui gu shi	1
@@ -17109,7 +17112,7 @@ sort: by_weight
 短期的调整	duan qi de tiao zheng	1
 短期和长期	duan qi he chang qi	1
 短期与长期	duan qi yu chang qi	1
-煅烧的粘土	duan shao de nian tu	1
+煅烧的黏土	duan shao de nian tu	1
 锻烧高岭土	duan shao gao ling tu	1
 短射程粒子	duan she cheng li zi	1
 短时限反应	duan shi xian fan ying	1
@@ -18604,6 +18607,7 @@ sort: by_weight
 二进制反码	er jin zhi fan ma	1
 二进制枚举	er jin zhi mei ju	1
 二进制数系	er jin zhi shu xi	1
+二进制算术	er jin zhi suan shu	1
 二聚羟丁醛	er ju qiang ding quan	1
 二句三年得	er ju san nian de	1
 耳壳流痰病	er ke liu tan bing	1
@@ -21718,7 +21722,7 @@ sort: by_weight
 分枝杆菌病	fen zhi gan jun bing	1
 粉质很细腻	fen zhi hen xi ni	1
 分枝混合岩	fen zhi hun he yan	1
-粉质粘土层	fen zhi nian tu ceng	1
+粉质黏土层	fen zhi nian tu ceng	1
 分支式程序	fen zhi shi cheng xu	1
 焚纸闻墨香	fen zhi wen mo xiang	1
 分支限界法	fen zhi xian jie fa	1
@@ -24782,7 +24786,7 @@ sort: by_weight
 高龄化社会	gao ling hua she hui	1
 高领连衣裙	gao ling lian yi qun	1
 高灵敏度的	gao ling min du de	1
-高岭石粘土	gao ling shi nian tu	1
+高岭石黏土	gao ling shi nian tu	1
 高领针织衫	gao ling zhen zhi shan	1
 高硫低级煤	gao liu di ji mei	1
 高硫矾沥青	gao liu fan li qing	1
@@ -24818,7 +24822,7 @@ sort: by_weight
 高能粒子流	gao neng li zi liu	1
 高能磷酸键	gao neng lin suan jian	1
 高能手办团	gao neng shou ban tuan	1
-高粘稠血症	gao nian chou xue zheng	1
+高黏稠血症	gao nian chou xue zheng	1
 高粘滞血症	gao nian zhi xue zheng	1
 高浓度酒精	gao nong du jiu jing	1
 高浓度氧疗	gao nong du yang liao	1
@@ -25519,6 +25523,7 @@ sort: by_weight
 铬释放试验	ge shi fang shi yan	1
 哥是个传说	ge shi ge chuan shuo	1
 各施工单位	ge shi gong dan wei	1
+格式化成了	ge shi hua cheng le	1
 格式化回忆	ge shi hua hui yi	1
 隔世救未来	ge shi jiu wei lai	1
 纥石烈志宁	ge shi lie zhi ning	1
@@ -25535,7 +25540,7 @@ sort: by_weight
 歌手姚贝娜	ge shou yao bei na	1
 割双眼皮后	ge shuang yan pi hou	1
 个税和社保	ge shui he she bao	1
-隔水粘土层	ge shui nian tu ceng	1
+隔水黏土层	ge shui nian tu ceng	1
 各说各有理	ge shuo ge you li	1
 哥斯达黎加	ge si da li jia	1
 格思里试验	ge si li shi yan	1
@@ -26870,6 +26875,7 @@ sort: by_weight
 工作及生活	gong zuo ji sheng huo	1
 工作家庭党	gong zuo jia ting dang	1
 工作经验吧	gong zuo jing yan ba	1
+工作没意义	gong zuo mei yi yi	1
 工作任务重	gong zuo ren wu zhong	1
 工作人员称	gong zuo ren yuan cheng	1
 工作人员会	gong zuo ren yuan hui	1
@@ -28286,6 +28292,7 @@ sort: by_weight
 硅存储科技	gui cun chu ke ji	1
 鬼盗船魔咒	gui dao chuan mo zhou	1
 轨道飞行器	gui dao fei xing qi	1
+轨道角动量	gui dao jiao dong liang	1
 轨道鸳鸯站	gui dao yuan yang zhan	1
 归德府城墙	gui de fu cheng qiang	1
 归德节度使	gui de jie du shi	1
@@ -28862,6 +28869,7 @@ sort: by_weight
 国家或地区	guo jia huo di qu	1
 国家级大师	guo jia ji da shi	1
 国家及地区	guo jia ji di qu	1
+国家及地区	guo jia ji di qu	1
 国家级副职	guo jia ji fu zhi	1
 国家级工法	guo jia ji gong fa	1
 国家纪念区	guo jia ji nian qu	1
@@ -29294,6 +29302,7 @@ sort: by_weight
 海岸巡防署	hai an xun fang shu	1
 海岸岩溶型	hai an yan rong xing	1
 海巴青霉素	hai ba qing mei su	1
+海报和标志	hai bao he biao zhi	1
 海豹肢畸形	hai bao zhi ji xing	1
 海不可斗量	hai bu ke dou liang	1
 还不了解吗	hai bu liao jie ma	1
@@ -30330,7 +30339,7 @@ sort: by_weight
 喝个下午茶	he ge xia wu cha	1
 合工大附中	he gong da fu zhong	1
 核共振谱学	he gong zhen pu xue	1
-颌骨不对称	he gu bu dui cheng	1
+颌骨不对称	he gu bu dui chen	1
 颌骨骨髓炎	he gu gu sui yan	1
 颌骨间关系	he gu jian guan xi	1
 颌骨肉芽肿	he gu rou ya zhong	1
@@ -31133,6 +31142,7 @@ sort: by_weight
 很硬的男人	hen ying de nan ren	1
 很有趣的事	hen you qu de shi	1
 很有实力的	hen you shi li de	1
+很有文艺范	hen you wen yi fan	1
 很有诱惑力	hen you you huo li	1
 很与众不同	hen yu zhong bu tong	1
 很重要的事	hen zhong yao de shi	1
@@ -34978,6 +34988,7 @@ sort: by_weight
 季后赛席位	ji hou sai xi wei	1
 季后赛形势	ji hou sai xing shi	1
 季后赛以来	ji hou sai yi lai	1
+几乎看不见	ji hu kan bu jian	1
 计划单列市	ji hua dan lie shi	1
 计划的实施	ji hua de shi shi	1
 计划的制定	ji hua de zhi ding	1
@@ -36861,16 +36872,14 @@ sort: by_weight
 嘉年华三厢	jia nian hua san xiang	1
 嘉年华盛会	jia nian hua sheng hui	1
 颊黏膜脓肿	jia nian mo nong zhong	1
-假粘性流动	jia nian xing liu dong	1
+假黏性流动	jia nian xing liu dong	1
 嘉农棒球队	jia nong bang qiu dui	1
 家农贸市场	jia nong mao shi chang	1
 嘉诺撒医院	jia nuo sa yi yuan	1
 甲帕里公园	jia pa li gong yuan	1
 甲哌四环素	jia pai si huan su	1
 嘉佩乐酒店	jia pei le jiu dian	1
-迦毘罗卫城	jia pi luo wei cheng	1
 迦毗罗卫城	jia pi luo wei cheng	1
-迦毘罗卫国	jia pi luo wei guo	1
 迦毗罗卫国	jia pi luo wei guo	1
 甲泼尼龙片	jia po ni long pian	1
 甲浦号志站	jia pu hao zhi zhan	1
@@ -37947,7 +37956,7 @@ sort: by_weight
 睑内侧连合	jian nei ce lian he	1
 睑内侧韧带	jian nei ce ren dai	1
 睑内结石病	jian nei jie shi bing	1
-肩粘液囊炎	jian nian ye nang yan	1
+肩黏液囊炎	jian nian ye nang yan	1
 建瓯东岳庙	jian ou dong yue miao	1
 键盘和鼠标	jian pan he shu biao	1
 间硼氮六环	jian peng dan liu huan	1
@@ -43424,6 +43433,7 @@ sort: by_weight
 看着都难受	kan zhe dou nan shou	1
 看这篇文章	kan zhe pian wen zhang	1
 看着手中的	kan zhe shou zhong de	1
+看着也不像	kan zhe ye bu xiang	1
 堪折直须折	kan zhe zhi xu zhe	1
 看重的东西	kan zhong de dong xi	1
 抗阿米巴素	kang a mi ba su	1
@@ -46045,7 +46055,7 @@ sort: by_weight
 雷马二氏法	lei ma er shi fa	1
 雷米普利片	lei mi pu li pian	1
 雷姆斯定理	lei mu si ding li	1
-泪囊粘液溢	lei nang nian ye yi	1
+泪囊黏液溢	lei nang nian ye yi	1
 类脑计算机	lei nao ji suan ji	1
 蕾妮齐薇格	lei ni qi wei ge	1
 雷尼替丁片	lei ni ti ding pian	1
@@ -49213,6 +49223,7 @@ sort: by_weight
 陆地与海洋	lu di yu hai yang	1
 陆定一祖居	lu ding yi zu ju	1
 芦丁芸香苷	lu ding yun xiang gan	1
+路都铺好了	lu dou pu hao le	1
 路飞的实力	lu fei de shi li	1
 路飞的爷爷	lu fei de ye ye	1
 路飞和索隆	lu fei he suo long	1
@@ -49624,7 +49635,7 @@ sort: by_weight
 落木非落叶	luo mu fei luo ye	1
 洛哌丁胺片	luo pai ding an pian	1
 络气不和证	luo qi bu he zheng	1
-落球粘度计	luo qiu nian du ji	1
+落球黏度计	luo qiu nian du ji	1
 落日的黄昏	luo ri de huang hun	1
 落日的余晖	luo ri de yu hui	1
 落日归山海	luo ri gui shan hai	1
@@ -52823,7 +52834,7 @@ sort: by_weight
 默比乌斯带	mo bi wu si dai	1
 莫比乌斯环	mo bi wu si huan	1
 魔兵惊天录	mo bing jing tian lu	1
-膜不对称性	mo bu dui cheng xing	1
+膜不对称性	mo bu dui chen xing	1
 抹不去的伤	mo bu qu de shang	1
 摸不着边际	mo bu zhao bian ji	1
 摸不着头脑	mo bu zhao tou nao	1
@@ -54773,7 +54784,7 @@ sort: by_weight
 黏孢子虫纲	nian bao zi chong gang	1
 念彼观音力	nian bi guan yin li	1
 念斌投毒案	nian bin tou du an	1
-粘稠的东西	nian chou de dong xi	1
+黏稠的东西	nian chou de dong xi	1
 鲇川哲也奖	nian chuan zhe ye jiang	1
 年代向钱看	nian dai xiang qian kan	1
 年代用口径	nian dai yong kou jing	1
@@ -54850,14 +54861,14 @@ sort: by_weight
 念书的孩子	nian shu de hai zi	1
 年数总和法	nian shu zong he fa	1
 廿四节令鼓	nian si jie ling gu	1
-粘土质土壤	nian tu zhi tu rang	1
-粘性消失法	nian xing xiao shi fa	1
-粘液囊脓肿	nian ye nang nong zhong	1
-粘液粘稠病	nian ye nian chou bing	1
+黏土质土壤	nian tu zhi tu rang	1
+黏性消失法	nian xing xiao shi fa	1
+黏液囊脓肿	nian ye nang nong zhong	1
+黏液黏稠病	nian ye nian chou bing	1
 黏液脓性痰	nian ye nong xing tan	1
 黏液溶解剂	nian ye rong jie ji	1
-粘液腺囊肿	nian ye xian nang zhong	1
-粘液性水肿	nian ye xing shui zhong	1
+黏液腺囊肿	nian ye xian nang zhong	1
+黏液性水肿	nian ye xing shui zhong	1
 黏液样变性	nian ye yang bian xing	1
 廿一史弹词	nian yi shi tan ci	1
 年营业收入	nian ying ye shou ru	1
@@ -62701,9 +62712,8 @@ sort: by_weight
 韧性供应链	ren xing gong ying lian	1
 人形何首乌	ren xing he shou wu	1
 人行横道线	ren xing heng dao xian	1
-人型机器人	ren xing ji qi ren	1
 人形机器人	ren xing ji qi ren	1
-人型机械人	ren xing ji xie ren	1
+人形机械人	ren xing ji xie ren	1
 韧性剪切带	ren xing jian qie dai	1
 人形净琉璃	ren xing jing liu li	1
 人形浄瑠璃	ren xing jing liu li	1
@@ -66128,6 +66138,7 @@ sort: by_weight
 沈曾植故居	shen ceng zhi gu ju	1
 肾茶袋泡茶	shen cha dai pao cha	1
 审查调查室	shen cha diao cha shi	1
+审查和封锁	shen cha he feng suo	1
 审查和批准	shen cha he pi zhun	1
 审查用副本	shen cha yong fu ben	1
 神产巢日神	shen chan chao ri shen	1
@@ -67194,6 +67205,7 @@ sort: by_weight
 生活服务圈	sheng huo fu wu quan	1
 生活和爱情	sheng huo he ai qing	1
 生活和家庭	sheng huo he jia ting	1
+生活和时代	sheng huo he shi dai	1
 生活和事业	sheng huo he shi ye	1
 生活和思想	sheng huo he si xiang	1
 生活和艺术	sheng huo he yi shu	1
@@ -70771,7 +70783,7 @@ sort: by_weight
 首明山胶囊	shou ming shan jiao nang	1
 受命于危难	shou ming yu wei nan	1
 受男生欢迎	shou nan sheng huan ying	1
-手粘液囊炎	shou nian ye nang yan	1
+手黏液囊炎	shou nian ye nang yan	1
 受女生欢迎	shou nv sheng huan ying	1
 受女性欢迎	shou nv xing huan ying	1
 手帕口道口	shou pa kou dao kou	1
@@ -71282,7 +71294,7 @@ sort: by_weight
 书目分类法	shu mu fen lei fa	1
 树木年轮学	shu mu nian lun xue	1
 书目数据库	shu mu shu ju ku	1
-熟耐火粘土	shu nai huo nian tu	1
+熟耐火黏土	shu nai huo nian tu	1
 熟男我爱你	shu nan wo ai ni	1
 舒脑欣滴丸	shu nao xin di wan	1
 数年如一日	shu nian ru yi ri	1
@@ -71516,6 +71528,7 @@ sort: by_weight
 耍耍小脾气	shua shua xiao pi qi	1
 耍耍嘴皮子	shua shua zui pi zi	1
 刷新知识库	shua xin zhi shi ku	1
+刷牙刷出血	shua ya shua chu xie	1
 刷牙刷到吐	shua ya shua dao tu	1
 耍阴谋诡计	shua yin mou gui ji	1
 衰变曲线𫟷	shuai bian qu xian li	1
@@ -73584,6 +73597,7 @@ sort: by_weight
 酸式碳酸钾	suan shi tan suan jia	4
 酸式碳酸锂	suan shi tan suan li	1
 酸式碳酸钠	suan shi tan suan na	6
+算术平方根	suan shu ping fang gen	1
 算术平均数	suan shu ping jun shu	1
 算数平均数	suan shu ping jun shu	1
 酸水回流罐	suan shui hui liu guan	1
@@ -77616,6 +77630,7 @@ sort: by_weight
 拖出去斩了	tuo chu qu zhan le	1
 脱垂性内痔	tuo chui xing nei zhi	1
 脱垂性外痔	tuo chui xing wai zhi	1
+托大家的福	tuo da jia de fu	1
 托达罗模型	tuo da luo mo xing	1
 脱单的机会	tuo dan de ji hui	1
 脱氮鸟嘌呤	tuo dan niao piao ling	1
@@ -78584,6 +78599,7 @@ sort: by_weight
 王阳明全集	wang yang ming quan ji	1
 王阳明心学	wang yang ming xin xue	1
 网页的设计	wang ye de she ji	1
+网页浏览器	wang ye liu lan qi	1
 王翼马开局	wang yi ma kai ju	1
 网易闪电邮	wang yi shan dian you	1
 网友的猜测	wang you de cai ce	1
@@ -79663,6 +79679,7 @@ sort: by_weight
 胃左淋巴结	wei zuo lin ba jie	1
 胃左右动脉	wei zuo you dong mai	1
 纹斑巴非蛤	wen ban ba fei ha	1
+文本编辑器	wen ben bian ji qi	1
 文本编写器	wen ben bian xie qi	1
 文本到语音	wen ben dao yu yin	1
 闻不到异味	wen bu dao yi wei	1
@@ -81322,7 +81339,7 @@ sort: by_weight
 污泥脱水间	wu ni tuo shui jian	1
 五年级一班	wu nian ji yi ban	1
 五年看头年	wu nian kan tou nian	1
-无粘性流体	wu nian xing liu ti	1
+无黏性流体	wu nian xing liu ti	1
 五年制高职	wu nian zhi gao zhi	1
 武宁节度使	wu ning jie du shi	1
 无扭交换群	wu niu jiao huan qun	1
@@ -83621,6 +83638,7 @@ sort: by_weight
 现实和未来	xian shi he wei lai	1
 现实和虚拟	xian shi he xu ni	1
 显示和隐藏	xian shi he yin cang	1
+现实很骨感	xian shi hen gu gan	1
 现时汇率法	xian shi hui lv fa	1
 现实紧迫性	xian shi jin po xing	1
 现实可能性	xian shi ke neng xing	1
@@ -84228,7 +84246,7 @@ sort: by_weight
 橡胶密封件	xiang jiao mi feng jian	1
 橡胶密封圈	xiang jiao mi feng quan	1
 橡胶密封条	xiang jiao mi feng tiao	1
-橡胶粘合剂	xiang jiao nian he ji	1
+橡胶黏合剂	xiang jiao nian he ji	1
 橡胶软接头	xiang jiao ruan jie tou	1
 橡胶软连接	xiang jiao ruan lian jie	1
 橡胶填充油	xiang jiao tian chong you	1
@@ -85909,6 +85927,7 @@ sort: by_weight
 斜对称矩阵	xie dui chen ju zhen	1
 斜对称张量	xie dui chen zhang liang	1
 斜多项式环	xie duo xiang shi huan	1
+邪恶大小姐	xie e da xiao jie	1
 邪恶坏女巫	xie e huai nv wu	1
 邪遏卫气证	xie e wei qi zheng	1
 邪恶与疯狂	xie e yu feng kuang	1
@@ -86210,7 +86229,7 @@ sort: by_weight
 信访举报件	xin fang ju bao jian	1
 心房利钠肽	xin fang li na tai	1
 心房钠尿肽	xin fang na niao tai	1
-心房粘液瘤	xin fang nian ye liu	1
+心房黏液瘤	xin fang nian ye liu	1
 心房收缩期	xin fang shou suo qi	1
 心房晚电位	xin fang wan dian wei	1
 心房吻合支	xin fang wen he zhi	1
@@ -89757,7 +89776,7 @@ sort: by_weight
 岩木号列车	yan mu hao lie che	1
 岩木山龙太	yan mu shan long tai	1
 颜那亚文化	yan na ya wen hua	1
-咽粘液囊炎	yan nian ye nang yan	1
+咽黏液囊炎	yan nian ye nang yan	1
 咽旁隙感染	yan pang xi gan ran	1
 盐皮质激素	yan pi zhi ji su	1
 眼皮子底下	yan pi zi di xia	1
@@ -89873,7 +89892,7 @@ sort: by_weight
 言实出版社	yan shi chu ban she	1
 严师出高徒	yan shi chu gao tu	1
 岩石的海洋	yan shi de hai yang	1
-岩石的粘性	yan shi de nian xing	1
+岩石的黏性	yan shi de nian xing	1
 岩石地层法	yan shi di ceng fa	1
 岩石地层时	yan shi di ceng shi	1
 岩石地层学	yan shi di ceng xue	1
@@ -95641,6 +95660,7 @@ sort: by_weight
 有什么出路	you shen me chu lu	1
 有什么出息	you shen me chu xi	1
 有什么急事	you shen me ji shi	1
+有什么卵用	you shen me luan yong	1
 有什么难的	you shen me nan de	1
 有什么前兆	you shen me qian zhao	1
 有什么事啊	you shen me shi a	1
@@ -102979,7 +102999,7 @@ sort: by_weight
 周末夜现场	zhou mo ye xian chang	1
 周穆王八骏	zhou mu wang ba jun	1
 周年纪念集	zhou nian ji nian ji	1
-肘粘液囊炎	zhou nian ye nang yan	1
+肘黏液囊炎	zhou nian ye nang yan	1
 周平王东迁	zhou ping wang dong qian	1
 周平王迁都	zhou ping wang qian du	1
 周琦的表现	zhou qi de biao xian	1
@@ -104733,7 +104753,7 @@ sort: by_weight
 自旋再取向	zi xuan zai qu xiang	1
 自选作品辑	zi xuan zuo pin ji	1
 自学的能力	zi xue de neng li	1
-资讯不对称	zi xun bu dui cheng	1
+资讯不对称	zi xun bu dui chen	1
 资讯不对等	zi xun bu dui deng	1
 资讯不流通	zi xun bu liu tong	1
 咨询等服务	zi xun deng fu wu	1
@@ -109100,7 +109120,7 @@ sort: by_weight
 比内智力量表	bi nei zhi li liang biao	1
 必能裨补阙漏	bi neng bi bu que lou	1
 逼尿肌无反射	bi niao ji wu fan she	1
-比浓对数粘度	bi nong dui shu nian du	1
+比浓对数黏度	bi nong dui shu nian du	1
 比欧二氏贫血	bi ou er shi pin xue	1
 必欧沙伐定律	bi ou sha fa ding lv	1
 吡哌酸锌软膏	bi pai suan xin ruan gao	1
@@ -110066,12 +110086,12 @@ sort: by_weight
 不断开拓进取	bu duan kai tuo jin qu	1
 不断推陈出新	bu duan tui chen chu xin	1
 不断线不断链	bu duan xian bu duan lian	1
-不对称的偏位	bu dui cheng de pian wei	2
-不对称的设计	bu dui cheng de she ji	1
-不对称二苯肼	bu dui cheng er ben jing	3
-不对称联体儿	bu dui cheng lian ti er	1
-不对称射线图	bu dui cheng she xian tu	1
-不对称碳原子	bu dui cheng tan yuan zi	4
+不对称的偏位	bu dui chen de pian wei	2
+不对称的设计	bu dui chen de she ji	1
+不对称二苯肼	bu dui chen er ben jing	3
+不对称联体儿	bu dui chen lian ti er	1
+不对称射线图	bu dui chen she xian tu	1
+不对称碳原子	bu dui chen tan yuan zi	4
 布尔巴基学派	bu er ba ji xue pai	1
 布尔登气压计	bu er deng qi ya ji	1
 布尔纳维氏病	bu er na wei shi bing	1
@@ -113489,7 +113509,7 @@ sort: by_weight
 纯不可分扩张	chun bu ke fen kuo zhang	1
 纯不可分态射	chun bu ke fen tai she	1
 纯不可分元素	chun bu ke fen yuan su	1
-唇部粘液腺炎	chun bu nian ye xian yan	1
+唇部黏液腺炎	chun bu nian ye xian yan	1
 蠢蠢欲动的心	chun chun yu dong de xin	1
 纯蛋白衍生物	chun dan bai yan sheng wu	1
 醇的氧化反应	chun de yang hua fan ying	1
@@ -115472,20 +115492,13 @@ sort: by_weight
 德杜二氏麻醉	de du er shi ma zui	1
 德都红花七味	de du hong hua qi wei	1
 锝二甲苯双酸	de er jia ben shuang suan	1
-的二进制算术	de er jin zhi suan shu	1
 德尔卡斯蒂略	de er ka si di lve	1
 德福二氏试验	de fu er shi shi yan	1
 德弗里斯方程	de fu li si fang cheng	1
 的感觉更多的	de gan jue geng duo de	1
-的工作没意义	de gong zuo mei yi yi	1
 德国国家标准	de guo guo jia biao zhun	2
-的国家及地区	de guo jia ji di qu	1
 德哈特综合征	de ha te zong he zheng	1
 德哈维兰公司	de ha wei lan gong si	1
-的海报和标志	de hai bao he biao zhi	1
-的很有文艺范	de hen you wen yi fan	1
-的基础上采用	de ji chu shang cai yong	1
-得几乎看不见	de ji hu kan bu jian	1
 德甲多特蒙德	de jia duo te meng de	1
 德甲勒沃库森	de jia le wo ku sen	1
 德甲联赛冠军	de jia lian sai guan jun	1
@@ -115509,24 +115522,17 @@ sort: by_weight
 德勤关黄陈方	de qin guan huang chen fang	1
 德上高速公路	de shang gao su gong lu	1
 德商高速公路	de shang gao su gong lu	1
-的审查和封锁	de shen cha he feng suo	1
-的生活和时代	de sheng huo he shi dai	1
 得失安之于数	de shi an zhi yu shu	1
 德史二氏导管	de shi er shi dao guan	1
 德事商务中心	de shi shang wu zhong xin	1
 德属东非公司	de shu dong fei gong si	1
 德属东非战役	de shu dong fei zhan yi	1
 得似洋洋河水	de si yang yang he shui	1
-的算术平方根	de suan shu ping fang gen	1
 德索拉西翁岛	de suo la xi weng dao	1
-的托大家的福	de tuo da jia de fu	1
-的网页浏览器	de wang ye liu lan qi	1
 得卫特方程式	de wei te fang cheng shi	1
-的文本编辑器	de wen ben bian ji qi	1
 德婺高速公路	de wu gao su gong lu	1
 德乌里诺条约	de wu li nuo tiao yue	1
 得仙人之旧馆	de xian ren zhi jiu guan	1
-的邪恶大小姐	de xie e da xiao jie	1
 得以征服万物	de yi zheng fu wan wu	1
 得与王子同舟	de yu wang zi tong zhou	1
 得知此消息后	de zhi ci xiao xi hou	1
@@ -116345,6 +116351,7 @@ sort: by_weight
 电机控制系统	dian ji kong zhi xi tong	1
 典籍里的中国	dian ji li de zhong guo	1
 电机驱动系统	dian ji qu dong xi tong	1
+点击任意位置	dian ji ren yi wei zhi	1
 点击鼠标右键	dian ji shu biao you jian	1
 电机输出功率	dian ji shu chu gong lv	1
 电击小说大奖	dian ji xiao shuo da jiang	1
@@ -117000,7 +117007,7 @@ sort: by_weight
 动力精核糖苷	dong li jing he tang gan	3
 动力髁加压板	dong li ke jia ya ban	1
 动力髋加压板	dong li kuan jia ya ban	1
-动力粘度系数	dong li nian du xi shu	3
+动力黏度系数	dong li nian du xi shu	3
 动力软管卷盘	dong li ruan guan juan pan	2
 动力随叫随到	dong li sui jiao sui dao	1
 东丽体育中心	dong li ti yu zhong xin	1
@@ -117462,7 +117469,7 @@ sort: by_weight
 对称四极测深	dui chen si ji ce shen	1
 对称陀螺分子	dui chen tuo luo fen zi	1
 对称性的破坏	dui chen xing de po huai	1
-对称与不对称	dui chen yu bu dui cheng	1
+对称与不对称	dui chen yu bu dui chen	1
 对城市的轰炸	dui cheng shi de hong zha	1
 对冲基金经理	dui chong ji jin jing li	1
 对春晚的批评	dui chun wan de pi ping	1
@@ -121671,7 +121678,7 @@ sort: by_weight
 腹膜后血管瘤	fu mo hou xue guan liu	1
 腹膜后脂肪瘤	fu mo hou zhi fang liu	1
 腹膜会阴筋膜	fu mo hui yin jin mo	1
-腹膜假粘液瘤	fu mo jia nian ye liu	1
+腹膜假黏液瘤	fu mo jia nian ye liu	1
 腹膜间位器官	fu mo jian wei qi guan	1
 腹膜良性肿瘤	fu mo liang xing zhong liu	1
 腹膜内位器官	fu mo nei wei qi guan	1
@@ -123689,7 +123696,7 @@ sort: by_weight
 根管清洁糊剂	gen guan qing jie hu ji	1
 根管再治疗术	gen guan zai zhi liao shu	1
 跟很多人一样	gen hen duo ren yi yang	1
-跟腱粘液囊炎	gen jian nian ye nang yan	1
+跟腱黏液囊炎	gen jian nian ye nang yan	1
 根尖区喇叭口	gen jian qu la ba kou	1
 根尖无稀疏区	gen jian wu xi shu qu	1
 根尖下截骨术	gen jian xia jie gu shu	1
@@ -133520,7 +133527,7 @@ sort: by_weight
 进入千家万户	jin ru qian jia wan hu	1
 进入青春期后	jin ru qing chun qi hou	1
 进入人们视野	jin ru ren men shi ye	1
-浸入式粘度杯	jin ru shi nian du bei	1
+浸入式黏度杯	jin ru shi nian du bei	1
 进入我的视野	jin ru wo de shi ye	1
 进入下半年后	jin ru xia ban nian hou	1
 进入新世纪后	jin ru xin shi ji hou	1
@@ -136798,7 +136805,7 @@ sort: by_weight
 宽带去偶技术	kuan dai qu ou ji shu	1
 宽带隙半导体	kuan dai xi ban dao ti	1
 款冬花各三两	kuan dong hua ge san liang	1
-髋骨粘液囊炎	kuan gu nian ye nang yan	1
+髋骨黏液囊炎	kuan gu nian ye nang yan	1
 髋关节半脱位	kuan guan jie ban tuo wei	1
 髋关节不稳定	kuan guan jie bu wen ding	1
 髋关节假体柄	kuan guan jie jia ti bing	1
@@ -136826,7 +136833,7 @@ sort: by_weight
 狂暴专注之爪	kuang bao zhuan zhu zhi zhao	1
 狂奔的无尾熊	kuang ben de wu wei xiong	1
 狂奔的小蜗牛	kuang ben de xiao wo niu	1
-眶部粘液囊肿	kuang bu nian ye nang zhong	1
+眶部黏液囊肿	kuang bu nian ye nang zhong	1
 矿产资源勘查	kuang chan zi yuan kan cha	1
 矿床充水因素	kuang chuang chong shui yin su	1
 矿大南湖校区	kuang da nan hu xiao qu	1
@@ -137135,7 +137142,7 @@ sort: by_weight
 篮网球运动员	lan wang qiu yun dong yuan	1
 阑尾恶性肿瘤	lan wei e xing zhong liu	1
 阑尾良性肿瘤	lan wei liang xing zhong liu	1
-阑尾粘液囊肿	lan wei nian ye nang zhong	1
+阑尾黏液囊肿	lan wei nian ye nang zhong	1
 阑尾血吸虫病	lan wei xue xi chong bing	1
 阑尾炎伴脓肿	lan wei yan ban nong zhong	1
 阑尾周围脓肿	lan wei zhou wei nong zhong	1
@@ -139925,7 +139932,7 @@ sort: by_weight
 洛哌丁胺胶囊	luo pai ding an jiao nang	1
 洛哌丁胺颗粒	luo pai ding an ke li	1
 罗奇代尔理论	luo qi dai er li lun	1
-落球式粘度计	luo qiu shi nian du ji	4
+落球式黏度计	luo qiu shi nian du ji	4
 落球式止回阀	luo qiu shi zhi hui fa	3
 洛森重排反应	luo sen chong pai fan ying	1
 罗森蒙得还原	luo sen meng de huan yuan	3
@@ -140763,7 +140770,7 @@ sort: by_weight
 毛细管电泳法	mao xi guan dian yong fa	1
 毛细管检液仪	mao xi guan jian ye yi	3
 毛细管静电计	mao xi guan jing dian ji	3
-毛细管粘度计	mao xi guan nian du ji	5
+毛细管黏度计	mao xi guan nian du ji	5
 毛细淋巴管瘤	mao xi lin ba guan liu	1
 毛细淋巴管网	mao xi lin ba guan wang	1
 毛细血管搏动	mao xi xue guan bo dong	1
@@ -140801,7 +140808,7 @@ sort: by_weight
 贸易和工业部	mao yi he gong ye bu	1
 贸易及工业部	mao yi ji gong ye bu	1
 贸易摩擦加剧	mao yi mo ca jia ju	1
-毛源性粘液瘤	mao yuan xing nian ye liu	1
+毛源性黏液瘤	mao yuan xing nian ye liu	1
 毛源性纤维瘤	mao yuan xing xian wei liu	1
 毛泽东的故事	mao ze dong de gu shi	1
 茂湛高速公路	mao zhan gao su gong lu	1
@@ -142975,7 +142982,7 @@ sort: by_weight
 黏蛋白性脱发	nian dan bai xing tuo fa	1
 年底建成通车	nian di jian cheng tong che	1
 年度颁奖典礼	nian du ban jiang dian li	1
-粘度法聚合度	nian du fa ju he du	3
+黏度法聚合度	nian du fa ju he du	3
 年度风云人物	nian du feng yun ren wu	1
 年度工作会议	nian du gong zuo hui yi	1
 年度汇算清缴	nian du hui suan qing jiao	1
@@ -142992,7 +142999,7 @@ sort: by_weight
 年复合增长率	nian fu he zeng zhang lv	1
 年关就是廉关	nian guan jiu shi lian guan	1
 念观世音菩萨	nian guan shi yin pu sa	1
-粘合剂分散剂	nian he ji fen san ji	3
+黏合剂分散剂	nian he ji fen san ji	3
 年华是无效信	nian hua shi wu xiao xin	1
 粘胶法人造丝	nian jiao fa ren zao si	3
 粘胶石膏绷带	nian jiao shi gao beng dai	1
@@ -143024,17 +143031,17 @@ sort: by_weight
 年味越来越淡	nian wei yue lai yue dan	1
 年味越来越浓	nian wei yue lai yue nong	1
 碾压混凝土坝	nian ya hun ning tu ba	1
-粘液表皮样癌	nian ye biao pi yang ai	1
-粘液表皮样瘤	nian ye biao pi yang liu	1
-粘液肌肉肉瘤	nian ye ji rou rou liu	1
-粘液腱膜肉瘤	nian ye jian mo rou liu	1
-粘液囊钙沉着	nian ye nang gai chen zhuo	1
-粘液囊切开术	nian ye nang qie kai shu	1
-粘液性汗腺癌	nian ye xing han xian ai	1
-粘液性结肠炎	nian ye xing jie chang yan	1
-粘液性囊腺癌	nian ye xing nang xian ai	1
-粘液性囊腺瘤	nian ye xing nang xian liu	1
-粘液性中耳炎	nian ye xing zhong er yan	1
+黏液表皮样癌	nian ye biao pi yang ai	1
+黏液表皮样瘤	nian ye biao pi yang liu	1
+黏液肌肉肉瘤	nian ye ji rou rou liu	1
+黏液腱膜肉瘤	nian ye jian mo rou liu	1
+黏液囊钙沉着	nian ye nang gai chen zhuo	1
+黏液囊切开术	nian ye nang qie kai shu	1
+黏液性汗腺癌	nian ye xing han xian ai	1
+黏液性结肠炎	nian ye xing jie chang yan	1
+黏液性囊腺癌	nian ye xing nang xian ai	1
+黏液性囊腺瘤	nian ye xing nang xian liu	1
+黏液性中耳炎	nian ye xing zhong er yan	1
 年证券交易法	nian zheng quan jiao yi fa	1
 念珠菌膀胱炎	nian zhu jun pang guang yan	1
 念珠菌性擦烂	nian zhu jun xing ca lan	1
@@ -143288,10 +143295,9 @@ sort: by_weight
 牛痘性蔷薇疹	niu dou xing qiang wei zhen	1
 牛痘样水疱病	niu dou yang shui pao bing	1
 牛顿的棺材板	niu dun de guan cai ban	1
-牛顿剪切粘度	niu dun jian qie nian du	5
+牛顿剪切黏度	niu dun jian qie nian du	5
 牛顿莱布尼茨	niu dun lai bu ni ci	1
-牛顿粘度定律	niu dun nian du ding lv	1
-牛顿粘性定律	niu dun nian xing ding lv	1
+牛顿黏度定律	niu dun nian du ding lv	1
 牛顿黏性定律	niu dun nian xing ding lv	1
 牛顿式反射镜	niu dun shi fan she jing	1
 纽顿熟食中心	niu dun shu shi zhong xin	1
@@ -147174,7 +147180,7 @@ sort: by_weight
 全新一代天籁	quan xin yi dai tian lai	1
 全兴高速公路	quan xing gao su gong lu	1
 全学共斗会议	quan xue gong dou hui yi	1
-全血粘度测定	quan xue nian du ce ding	1
+全血黏度测定	quan xue nian du ce ding	1
 全血细胞计数	quan xue xi bao ji shu	1
 全颜面骨骨折	quan yan mian gu gu zhe	1
 犬夜叉和戈薇	quan ye cha he ge wei	1
@@ -147433,7 +147439,7 @@ sort: by_weight
 热夫雷尚贝坦	re fu lei shang bei tan	1
 热感清喷雾剂	re gan qing pen wu ji	1
 热高压分离器	re gao ya fen li qi	1
-热固性粘合剂	re gu xing nian he ji	3
+热固性黏合剂	re gu xing nian he ji	3
 热滚筒挤压场	re gun tong ji ya chang	1
 热锅上的蚂蚁	re guo shang de ma yi	1
 热化学方程式	re hua xue fang cheng shi	5
@@ -150563,7 +150569,7 @@ sort: by_weight
 神经内科医师	shen jing nei ke yi shi	1
 神经鞘骨磷脂	shen jing qiao gu lin zhi	1
 神经鞘膜瘤病	shen jing qiao mo liu bing	1
-神经鞘粘液瘤	shen jing qiao nian ye liu	1
+神经鞘黏液瘤	shen jing qiao nian ye liu	1
 神经鞘糖脂类	shen jing qiao tang zhi lei	1
 神经生理机制	shen jing sheng li ji zhi	1
 神经生理学家	shen jing sheng li xue jia	1
@@ -153294,7 +153300,7 @@ sort: by_weight
 寿命长等特点	shou ming chang deng te dian	1
 首末班车时间	shou mo ban che shi jian	1
 受母亲的影响	shou mu qin de ying xiang	1
-手粘液囊抽吸	shou nian ye nang chou xi	1
+手黏液囊抽吸	shou nian ye nang chou xi	1
 首农食品集团	shou nong shi pin ji tuan	1
 授牌命名活动	shou pai ming ming huo dong	1
 受气的小媳妇	shou qi de xiao xi fu	1
@@ -161377,7 +161383,7 @@ sort: by_weight
 相对论性质量	xiang dui lun xing zhi liang	4
 相对论宇宙论	xiang dui lun yu zhou lun	1
 相对论宇宙学	xiang dui lun yu zhou xue	1
-相对粘度增量	xiang dui nian du zeng liang	5
+相对黏度增量	xiang dui nian du zeng liang	5
 相对奇异同岛	xiang dui qi yi tong dao	1
 相对上同调群	xiang dui shang tong diao qun	1
 相对湿度控制	xiang dui shi du kong zhi	1
@@ -163960,7 +163966,7 @@ sort: by_weight
 学甲台盐铁道	xue jia tai yan tie dao	1
 血浆蛋白异常	xue jiang dan bai yi chang	1
 血浆蛋白组分	xue jiang dan bai zu fen	1
-血浆粘度测定	xue jiang nian du ce ding	1
+血浆黏度测定	xue jiang nian du ce ding	1
 血浆渗量试验	xue jiang shen liang shi yan	1
 血浆肾素活性	xue jiang shen su huo xing	1
 血浆铜蓝蛋白	xue jiang tong lan dan bai	1
@@ -164237,7 +164243,7 @@ sort: by_weight
 牙弓中线偏离	ya gong zhong xian pian li	1
 牙骨膜分离器	ya gu mo fen li qi	1
 压光机处理的	ya guang ji chu li de	1
-压合式粘合剂	ya he shi nian he ji	3
+压合式黏合剂	ya he shi nian he ji	3
 亚乎奴锡生藤	ya hu nu xi sheng teng	1
 雅虎奇摩知识	ya hu qi mo zhi shi	1
 吖黄素盐酸盐	ya huang su yan suan yan	3
@@ -164437,7 +164443,7 @@ sort: by_weight
 鸦有反哺之义	ya you fan bu zhi yi	1
 亚油酸甲酯度	ya you suan jia zhi du	3
 亚油酸乙酯钙	ya you suan yi zhi gai	1
-牙源性粘液瘤	ya yuan xing nian ye liu	1
+牙源性黏液瘤	ya yuan xing nian ye liu	1
 牙源性纤维瘤	ya yuan xing xian wei liu	1
 牙源性腺样瘤	ya yuan xing xian yang liu	1
 压榨辊真空室	ya zha gun zhen kong shi	1
@@ -168420,7 +168426,7 @@ sort: by_weight
 缨状微束模型	ying zhuang wei shu mo xing	5
 影子如影随行	ying zi ru ying sui xing	1
 影子武士系列	ying zi wu shi xi lie	1
-鹰嘴粘液囊炎	ying zui nian ye nang yan	1
+鹰嘴黏液囊炎	ying zui nian ye nang yan	1
 永安军节度使	yong an jun jie du shi	1
 永葆青春活力	yong bao qing chun huo li	1
 拥抱人工智能	yong bao ren gong zhi neng	1
@@ -170056,7 +170062,7 @@ sort: by_weight
 运动激发试验	yun dong ji fa shi yan	1
 运动激愤情绪	yun dong ji fen qing xu	1
 运动介质声学	yun dong jie zhi sheng xue	1
-运动粘度系数	yun dong nian du xi shu	3
+运动黏度系数	yun dong nian du xi shu	3
 运动神经元病	yun dong shen jing yuan bing	1
 运动心理选材	yun dong xin li xuan cai	1
 运动心理诊断	yun dong xin li zhen duan	1
@@ -170731,8 +170737,8 @@ sort: by_weight
 站在世界之巅	zhan zai shi jie zhi dian	1
 站在十字路口	zhan zai shi zi lu kou	1
 站在同一立场	zhan zai tong yi li chang	1
-站在同一战线	zhan zai tong yi zhan xian	1
 站在同一阵线	zhan zai tong yi zhen xian	1
+站在同一战线	zhan zai tong yi zhen ying	1
 站在宇宙之巅	zhan zai yu zhou zhi dian	1
 站在原地不动	zhan zai yuan di bu dong	1
 站着一动不动	zhan zhe yi dong bu dong	1
@@ -173616,7 +173622,7 @@ sort: by_weight
 周围循环衰竭	zhou wei xun huan shuai jie	1
 周围有很多人	zhou wei you hen duo ren	1
 轴向薄壁组织	zhou xiang bao bi zu zhi	1
-轴向不对称性	zhou xiang bu dui cheng xing	5
+轴向不对称性	zhou xiang bu dui chen xing	5
 轴向探察线图	zhou xiang tan cha xian tu	1
 周星驰的电影	zhou xing chi de dian ying	1
 周星驰的喜剧	zhou xing chi de xi ju	1
@@ -174293,7 +174299,7 @@ sort: by_weight
 专治疑难杂症	zhuan zhi yi nan za zheng	1
 专注力的培养	zhuan zhu li de pei yang	1
 专注做一件事	zhuan zhu zuo yi jian shi	1
-转子粘液囊炎	zhuan zi nian ye nang yan	1
+转子黏液囊炎	zhuan zi nian ye nang yan	1
 装备保障指挥	zhuang bei bao zhang zhi hui	1
 装裱修复技艺	zhuang biao xiu fu ji yi	1
 撞得头破血流	zhuang de tou po xue liu	1
@@ -174527,7 +174533,7 @@ sort: by_weight
 子宫颈口松弛	zi gong jing kou song chi	1
 子宫颈扩张术	zi gong jing kuo zhang shu	1
 子宫颈内膜炎	zi gong jing nei mo yan	1
-子宫颈粘液腺	zi gong jing nian ye xian	1
+子宫颈黏液腺	zi gong jing nian ye xian	1
 子宫颈膀胱瘘	zi gong jing pang guang lou	1
 子宫颈旁组织	zi gong jing pang zu zhi	1
 子宫颈切除术	zi gong jing qie chu shu	1
@@ -175608,7 +175614,7 @@ sort: by_weight
 坐骨大小切迹	zuo gu da xiao qie ji	1
 坐骨海绵体肌	zuo gu hai mian ti ji	1
 坐骨结节囊肿	zuo gu jie jie nang zhong	1
-坐骨粘液囊炎	zuo gu nian ye nang yan	1
+坐骨黏液囊炎	zuo gu nian ye nang yan	1
 坐骨神经痛丸	zuo gu shen jing tong wan	1
 坐骨直肠脓肿	zuo gu zhi chang nong zhong	1
 左硅油取出术	zuo gui you qu chu shu	1
@@ -176409,7 +176415,7 @@ sort: by_weight
 奥尔德氏综合征	ao er de shi zong he zheng	1
 奥尔泊氏综合征	ao er po shi zong he zheng	1
 奥芬溴铵注射液	ao fen xiu an zhu she ye	1
-奥福二氏粘度计	ao fu er shi nian du ji	1
+奥福二氏黏度计	ao fu er shi nian du ji	1
 奥弗二氏综合征	ao fu er shi zong he zheng	1
 奥弗曼重排反应	ao fu man chong pai fan ying	1
 奥吉二氏开睑器	ao ji er shi kai jian qi	1
@@ -178118,7 +178124,7 @@ sort: by_weight
 髌骨病损切除术	bin gu bing sun qie chu shu	1
 髌骨部分切除术	bin gu bu fen qie chu shu	1
 髌骨哆开性脱位	bin gu duo kai xing tuo wei	1
-髌骨前粘液囊炎	bin gu qian nian ye nang yan	1
+髌骨前黏液囊炎	bin gu qian nian ye nang yan	1
 髌骨全部切除术	bin gu quan bu qie chu shu	1
 髌骨软骨软化症	bin gu ruan gu ruan hua zheng	1
 髌骨脱位成形术	bin gu tuo wei cheng xing shu	1
@@ -178473,9 +178479,9 @@ sort: by_weight
 不断进取的精神	bu duan jin qu de jing shen	1
 不断开发新产品	bu duan kai fa xin chan pin	1
 不断提高的过程	bu duan ti gao de guo cheng	1
-不对称变形振动	bu dui cheng bian xing zhen dong	3
-不对称伸缩振动	bu dui cheng shen suo zhen dong	3
-不对称资讯理论	bu dui cheng zi xun li lun	1
+不对称变形振动	bu dui chen bian xing zhen dong	3
+不对称伸缩振动	bu dui chen shen suo zhen dong	3
+不对称资讯理论	bu dui chen zi xun li lun	1
 布尔德烯烃合成	bu er de xi ting he cheng	1
 不儿罕合勒敦山	bu er han he le dun shan	1
 布尔萨血红蛋白	bu er sa xue hong dan bai	1
@@ -181286,6 +181292,7 @@ sort: by_weight
 达洛亚血红蛋白	da luo ya xue hong dan bai	1
 大麦马铃薯病毒	da mai ma ling shu bing du	1
 大梅沙旅游中心	da mei sha lv you zhong xin	1
+达摩克里斯之剑	da mo ke li si zhi jian	1
 大脑半球切除术	da nao ban qiu qie chu shu	1
 大脑半球优势化	da nao ban qiu you shi hua	1
 大脑功能偏侧化	da nao gong neng pian ce hua	1
@@ -184737,7 +184744,7 @@ sort: by_weight
 飞行时间质谱仪	fei xing shi jian zhi pu yi	5
 飞行数据记录器	fei xing shu ju ji lu qi	1
 非选择性阻滞剂	fei xuan ze xing zu zhi ji	1
-费雪二氏粘度计	fei xue er shi nian du ji	1
+费雪二氏黏度计	fei xue er shi nian du ji	1
 费雪交换方程式	fei xue jiao huan fang cheng shi	1
 非血栓性肺栓塞	fei xue shuan xing fei shuan se	1
 非压缩半尾花介	fei ya suo ban wei hua jie	1
@@ -187918,7 +187925,7 @@ sort: by_weight
 故人南北一般春	gu ren nan bei yi ban chun	1
 古人惜别怜朋友	gu ren xi bie lian peng you	1
 骨软骨发育不良	gu ruan gu fa yu bu liang	1
-骨软骨粘液肉瘤	gu ruan gu nian ye rou liu	1
+骨软骨黏液肉瘤	gu ruan gu nian ye rou liu	1
 骨软骨营养不良	gu ruan gu ying yang bu liang	1
 古色古香的建筑	gu se gu xiang de jian zhu	1
 古色古香的味道	gu se gu xiang de wei dao	1
@@ -188574,7 +188581,7 @@ sort: by_weight
 颌下腺恶性肿瘤	he xia xian e xing zhong liu	1
 颌下腺良性增生	he xia xian liang xing zeng sheng	1
 颌下腺良性肿瘤	he xia xian liang xing zhong liu	1
-颌下腺粘液囊肿	he xia xian nian ye nang zhong	1
+颌下腺黏液囊肿	he xia xian nian ye nang zhong	1
 颌下肿瘤切除术	he xia zhong liu qie chu shu	1
 和谐新能源汽车	he xie xin neng yuan qi che	1
 核心抗体试剂抗	he xin kang ti shi ji kang	1
@@ -190284,7 +190291,7 @@ sort: by_weight
 经宫腔镜取环术	jing gong qiang jing qu huan shu	1
 胫骨病损切除术	jing gu bing sun qie chu shu	1
 胫骨部分切除术	jing gu bu fen qie chu shu	1
-胫骨侧粘液囊炎	jing gu ce nian ye nang yan	1
+胫骨侧黏液囊炎	jing gu ce nian ye nang yan	1
 胫骨粗隆皮下囊	jing gu cu long pi xia nang	1
 胫骨高位截骨术	jing gu gao wei jie gu shu	1
 胫骨骨母细胞瘤	jing gu gu mu xi bao liu	1
@@ -190385,7 +190392,7 @@ sort: by_weight
 胫前肌代跟腱术	jing qian ji dai gen jian shu	1
 经前紧张综合征	jing qian jin zhang zong he zheng	1
 颈前静脉结扎术	jing qian jing mai jie za shu	1
-胫前粘液性水肿	jing qian nian ye xing shui zhong	1
+胫前黏液性水肿	jing qian nian ye xing shui zhong	1
 景区最大承载量	jing qu zui da cheng zai liang	1
 经商容易度指数	jing shang rong yi du zhi shu	1
 精神错乱心因性	jing shen cuo luan xin yin xing	1
@@ -190669,7 +190676,9 @@ sort: by_weight
 君子不夺人所好	jun zi bu duo ren suo hao	1
 君子不立于危墙	jun zi bu li yu wei qiang	1
 君子以反身修德	jun zi yi fan shen xiu de	1
+君子以厚德载物	jun zi yi hou de zai wu	1
 君子以立不易方	jun zi yi li bu yi fang	1
+君子以自强不息	jun zi yi zi qiang bu xi	1
 君子以作事谋始	jun zi yi zuo shi mou shi	1
 君子忧道不忧贫	jun zi you dao bu you pin	1
 卡爱二氏缝合环	ka ai er shi feng he huan	1
@@ -191093,7 +191102,7 @@ sort: by_weight
 口腔黏膜白斑症	kou qiang nian mo bai ban zheng	1
 口腔黏膜肉芽肿	kou qiang nian mo rou ya zhong	1
 口腔黏膜移植术	kou qiang nian mo yi zhi shu	1
-口腔粘液腺囊肿	kou qiang nian ye xian nang zhong	1
+口腔黏液腺囊肿	kou qiang nian ye xian nang zhong	1
 口腔念珠菌感染	kou qiang nian zhu jun gan ran	1
 口腔前庭成形术	kou qiang qian ting cheng xing shu	1
 口腔体腔摄影机	kou qiang ti qiang she ying ji	1
@@ -192893,16 +192902,15 @@ sort: by_weight
 黏膜下浸润麻醉	nian mo xia jin run ma zui	1
 年平均日交通量	nian ping jun ri jiao tong liang	1
 年轻地球创造论	nian qing di qiu chuang zao lun	1
-粘液脓性宫颈炎	nian ye nong xing gong jing yan	1
-粘液脓性结膜炎	nian ye nong xing jie mo yan	1
-粘液水肿性肌病	nian ye shui zhong xing ji bing	1
-粘液水肿性苔藓	nian ye shui zhong xing tai xian	1
+黏液脓性宫颈炎	nian ye nong xing gong jing yan	1
+黏液脓性结膜炎	nian ye nong xing jie mo yan	1
+黏液水肿性肌病	nian ye shui zhong xing ji bing	1
 黏液水肿性苔藓	nian ye shui zhong xing tai xian	1
-粘液水肿性苔癣	nian ye shui zhong xing tai xuan	1
-粘液性水肿昏迷	nian ye xing shui zhong hun mi	1
-粘液性腺纤维瘤	nian ye xing xian xian wei liu	1
-粘液样软骨肉瘤	nian ye yang ruan gu rou liu	1
-粘液样脂肪肉瘤	nian ye yang zhi fang rou liu	1
+黏液水肿性苔癣	nian ye shui zhong xing tai xuan	1
+黏液性水肿昏迷	nian ye xing shui zhong hun mi	1
+黏液性腺纤维瘤	nian ye xing xian xian wei liu	1
+黏液样软骨肉瘤	nian ye yang ruan gu rou liu	1
+黏液样脂肪肉瘤	nian ye yang zhi fang rou liu	1
 年月日至年月日	nian yue ri zhi nian yue ri	1
 念珠菌系统鉴定	nian zhu jun xi tong jian ding	1
 念珠菌性败血症	nian zhu jun xing bai xue zheng	1
@@ -192927,7 +192935,7 @@ sort: by_weight
 尿道会阴造口术	niao dao hui yin zao kou shu	1
 尿道会阴造瘘术	niao dao hui yin zao lou shu	1
 尿道口处女膜病	niao dao kou chu nv mo bing	1
-尿道口粘液囊肿	niao dao kou nian ye nang zhong	1
+尿道口黏液囊肿	niao dao kou nian ye nang zhong	1
 尿道括约肌测压	niao dao kuo yue ji ce ya	1
 尿道裂伤缝合术	niao dao lie shang feng he shu	1
 尿道瘘管闭和术	niao dao lou guan bi he shu	1
@@ -195751,7 +195759,7 @@ sort: by_weight
 受激布里渊散射	shou ji bu li yuan san she	1
 手机清洗注油机	shou ji qing xi zhu you ji	1
 手交界恶性肿瘤	shou jiao jie e xing zhong liu	1
-手粘液囊切开术	shou nian ye nang qie kai shu	1
+手黏液囊切开术	shou nian ye nang qie kai shu	1
 受虐配偶综合征	shou nve pei ou zong he zheng	1
 首杞补肾口服液	shou qi bu shen kou fu ye	1
 受试者期望效应	shou shi zhe qi wang xiao ying	1
@@ -196384,7 +196392,7 @@ sort: by_weight
 同步激发光谱学	tong bu ji fa guang pu xue	1
 统筹发展和安全	tong chou fa zhan he an quan	1
 通风良好的地方	tong feng liang hao de di fang	1
-痛风性粘液囊炎	tong feng xing nian ye nang yan	1
+痛风性黏液囊炎	tong feng xing nian ye nang yan	1
 通过业务看大局	tong guo ye wu kan da ju	1
 酮互变异构现象	tong hu bian yi gou xian xiang	3
 痛经调理口服液	tong jing tiao li kou fu ye	1
@@ -197154,7 +197162,7 @@ sort: by_weight
 先天性胸骨畸形	xian tian xing xiong gu ji xing	1
 先天性纵隔囊肿	xian tian xing zong ge nang zhong	1
 纤维鼻咽镜检查	xian wei bi yan jing jian cha	1
-纤维蛋白粘合剂	xian wei dan bai nian he ji	1
+纤维蛋白黏合剂	xian wei dan bai nian he ji	1
 纤维蛋白溶解酶	xian wei dan bai rong jie mei	1
 纤维蛋白溶解药	xian wei dan bai rong jie yao	1
 纤维蛋白溶解症	xian wei dan bai rong jie zheng	1
@@ -197171,7 +197179,7 @@ sort: by_weight
 纤维结肠镜检查	xian wei jie chang jing jian cha	1
 纤维结缔组织炎	xian wei jie di zu zhi yan	1
 纤维囊性乳腺炎	xian wei nang xing ru xian yan	1
-纤维粘液脂肪瘤	xian wei nian ye zhi fang liu	1
+纤维黏液脂肪瘤	xian wei nian ye zhi fang liu	1
 纤维食管镜检查	xian wei shi guan jing jian cha	1
 纤维性海绵体炎	xian wei xing hai mian ti yan	1
 纤维性甲状腺炎	xian wei xing jia zhuang xian yan	1
@@ -197185,7 +197193,7 @@ sort: by_weight
 涎腺管口扩大术	xian xian guan kou kuo da shu	1
 涎腺瘘管闭合术	xian xian lou guan bi he shu	1
 涎腺囊肿切除术	xian xian nang zhong qie chu shu	1
-涎腺粘液腺囊肿	xian xian nian ye xian nang zhong	1
+涎腺黏液腺囊肿	xian xian nian ye xian nang zhong	1
 涎腺切开引流术	xian xian qie kai yin liu shu	1
 涎腺肿瘤切除术	xian xian zhong liu qie chu shu	1
 弦小紧者下之差	xian xiao jin zhe xia zhi cha	1
@@ -198035,8 +198043,8 @@ sort: by_weight
 血吸附抑制试验	xue xi fu yi zhi shi yan	1
 血纤维蛋白溶酶	xue xian wei dan bai rong mei	1
 血小板钙流测定	xue xiao ban gai liu ce ding	1
-血小板粘性降低	xue xiao ban nian xing jiang di	1
-血小板粘性升高	xue xiao ban nian xing sheng gao	1
+血小板黏性降低	xue xiao ban nian xing jiang di	1
+血小板黏性升高	xue xiao ban nian xing sheng gao	1
 血小板释放试验	xue xiao ban shi fang shi yan	1
 血小板寿命测定	xue xiao ban shou ming ce ding	1
 血氧饱和度监测	xue yang bao he du jian ce	1
@@ -198080,7 +198088,7 @@ sort: by_weight
 牙齿感觉过敏症	ya chi gan jue guo min zheng	1
 牙齿脱落综合征	ya chi tuo luo zong he zheng	1
 牙齿硬组织疾病	ya chi ying zu zhi ji bing	1
-牙齿源性粘液瘤	ya chi yuan xing nian ye liu	1
+牙齿源性黏液瘤	ya chi yuan xing nian ye liu	1
 牙齿源性纤维瘤	ya chi yuan xing xian wei liu	1
 蚜虫巴克纳氏菌	ya chong ba ke na shi jun	1
 鸦胆子油口服乳	ya dan zi you kou fu ru	1
@@ -199279,7 +199287,7 @@ sort: by_weight
 阴茎裂伤缝合术	yin jing lie shang feng he shu	1
 阴茎鳞状细胞癌	yin jing lin zhuang xi bao ai	1
 阴茎囊肿切除术	yin jing nang zhong qie chu shu	1
-阴茎粘液样囊肿	yin jing nian ye yang nang zhong	1
+阴茎黏液样囊肿	yin jing nian ye yang nang zhong	1
 阴茎皮肤撕脱伤	yin jing pi fu si tuo shang	1
 阴茎皮脂腺囊肿	yin jing pi zhi xian nang zhong	1
 阴茎头恶性肿瘤	yin jing tou e xing zhong liu	1
@@ -199354,7 +199362,7 @@ sort: by_weight
 婴儿健脾口服液	ying er jian pi kou fu ye	1
 婴儿痉挛性癫痫	ying er jing luan xing dian xian	1
 婴儿闷热综合征	ying er men re zong he zheng	1
-婴儿粘液性水肿	ying er nian ye xing shui zhong	1
+婴儿黏液性水肿	ying er nian ye xing shui zhong	1
 婴儿丘疹性皮炎	ying er qiu zhen xing pi yan	1
 婴儿手足搐搦症	ying er shou zu chu nuo zheng	1
 婴儿爽身粉省立	ying er shuang shen fen sheng li	1
@@ -199588,7 +199596,7 @@ sort: by_weight
 宇宙大爆炸理论	yu zhou da bao zha li lun	1
 宇宙大统一理论	yu zhou da tong yi li lun	1
 玉竹甘花共合方	yu zhu gan hua gong he fang	1
-圆椎平板粘度计	yuan chui ping ban nian du ji	1
+圆椎平板黏度计	yuan chui ping ban nian du ji	1
 鸢都寒痹药酒料	yuan dou han bi yao jiu liao	1
 远端脾肾分流术	yuan duan pi shen fen liu shu	1
 远端胰腺切除术	yuan duan yi xian qie chu shu	1
@@ -200301,7 +200309,7 @@ sort: by_weight
 转移性低钾血症	zhuan yi xing di jia xue zheng	1
 转移性低钠血症	zhuan yi xing di na xue zheng	1
 转移性高钾血症	zhuan yi xing gao jia xue zheng	1
-转移性粘液腺癌	zhuan yi xing nian ye xian ai	1
+转移性黏液腺癌	zhuan yi xing nian ye xian ai	1
 转移性乳头状癌	zhuan yi xing ru tou zhuang ai	1
 转移性脂肪肉瘤	zhuan yi xing zhi fang rou liu	1
 转移一下注意力	zhuan yi yi xia zhu yi li	1
