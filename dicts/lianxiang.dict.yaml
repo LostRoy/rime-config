@@ -28113,7 +28113,7 @@ sort: by_weight
 光明与磊落	guang ming yu lei luo	100
 光明与希望	guang ming yu xi wang	100
 光明照耀的	guang ming zhao yao de	100
-光明正大地	guang ming zheng da di	100
+光明正大地	guang ming zheng da de	100
 光南大批发	guang nan da pi fa	100
 光年的距离	guang nian de ju li	100
 广平王李俶	guang ping wang li chu	100
@@ -28401,6 +28401,7 @@ sort: by_weight
 龟井胜一郎	gui jing sheng yi lang	100
 鬼臼毒素酊	gui jiu du su ding	100
 鬼臼根树脂	gui jiu gen shu zhi	100
+贵就贵点吧	gui jiu gui dian ba	100
 鬼臼乙叉苷	gui jiu yi cha gan	100
 归来的少年	gui lai de shao nian	100
 归来仍少年	gui lai reng shao nian	100
@@ -42296,7 +42297,7 @@ sort: by_weight
 俱乐部经理	ju le bu jing li	100
 俱乐部欠薪	ju le bu qian xin	100
 聚乐第行幸	ju le di xing xing	100
-举了个例子	ju le ge li zi	100
+举了个例子	ju le ge li zi	120
 举了个栗子	ju le ge li zi	100
 菊乐宁降压	ju le ning jiang ya	100
 居里博物馆	ju li bo wu guan	100
@@ -67814,6 +67815,8 @@ sort: by_weight
 是不是人了	shi bu shi ren le	100
 是不是傻啊	shi bu shi sha a	100
 是不是傻了	shi bu shi sha le	100
+是不是想起	shi bu shi xiang qi	120
+时不时想起	shi bu shi xiang qi	100
 是不是想死	shi bu shi xiang si	100
 是不实在的	shi bu shi zai de	100
 是不是长了	shi bu shi zhang le	100
@@ -69493,7 +69496,7 @@ sort: by_weight
 事实和证据	shi shi he zheng ju	100
 什什基夫卡	shi shi ji fu ka	100
 什什基夫齐	shi shi ji fu qi	100
-实实际际地	shi shi ji ji di	100
+实实际际地	shi shi ji ji de	100
 实时计算机	shi shi ji suan ji	100
 师氏剑齿象	shi shi jian chi xiang	100
 时时刻刻都	shi shi ke ke dou	100
@@ -87513,6 +87516,7 @@ sort: by_weight
 行为实施地	xing wei shi shi di	100
 行为型模式	xing wei xing mo shi	100
 性味与归经	xing wei yu gui jing	100
+醒悟的一天	xing wu de yi tian	100
 星系的演化	xing xi de yan hua	100
 星系际尘埃	xing xi ji chen ai	100
 星系际恒星	xing xi ji heng xing	100
@@ -104897,6 +104901,7 @@ sort: by_weight
 自愿供骨者	zi yuan gong gu zhe	100
 自愿供肾者	zi yuan gong shen zhe	100
 资源共享的	zi yuan gong xiang de	100
+资源管理器	zi yuan guan li qi	100
 资源和环境	zi yuan he huan jing	100
 资源和能源	zi yuan he neng yuan	100
 资源和人脉	zi yuan he ren mai	100
@@ -104916,7 +104921,6 @@ sort: by_weight
 紫月幽魔灵	zi yue you mo ling	100
 自在不成人	zi zai bu cheng ren	100
 自在的花开	zi zai de hua kai	100
-仔仔细细地	zi zai xi xi de	100
 自责和内疚	zi ze he nei jiu	100
 自责失分率	zi ze shi fen lv	100
 资政大夫祠	zi zheng da fu ci	100
@@ -104994,6 +104998,7 @@ sort: by_weight
 自转旋翼机	zi zhuan xuan yi ji	100
 自准直谱仪	zi zhun zhi pu yi	100
 孜孜不倦地	zi zi bu juan de	100
+仔仔细细地	zi zi xi xi de	100
 子自旋转动	zi zi xuan zhuan dong	100
 孜孜以求者	zi zi yi qiu zhe	100
 自作多情了	zi zuo duo qing le	100
@@ -113206,6 +113211,7 @@ sort: by_weight
 出于某种原因	chu yu mou zhong yuan yin	100
 出于人道主义	chu yu ren dao zhu yi	100
 处于弱势地位	chu yu ruo shi di wei	100
+出于什么考虑	chu yu shen me kao lv	100
 出于什么目的	chu yu shen me mu di	100
 处于失业状态	chu yu shi ye zhuang tai	100
 处于同一水平	chu yu tong yi shui ping	100
@@ -149541,200 +149547,10 @@ sort: by_weight
 上鼓室冲洗术	shang gu shi chong xi shu	100
 上古十大神器	shang gu shi da shen qi	100
 上古石器时代	shang gu shi qi shi dai	100
-上海巴士二汽	shang hai ba shi er qi	100
-上海巴士六汽	shang hai ba shi liu qi	100
-上海巴士三汽	shang hai ba shi san qi	100
-上海巴士实业	shang hai ba shi shi ye	100
-上海巴士四汽	shang hai ba shi si qi	100
-上海巴士新新	shang hai ba shi xin xin	100
-上海巴士一汽	shang hai ba shi yi qi	100
-上海百代唱片	shang hai bai dai chang pian	100
-上海半岛酒店	shang hai ban dao jiu dian	100
-上海宝冶集团	shang hai bao ye ji tuan	100
-上海博击长空	shang hai bo ji chang kong	100
-上海踩踏事件	shang hai cai ta shi jian	100
-上海柴油机厂	shang hai chai you ji chang	100
-上海城开集团	shang hai cheng kai ji tuan	100
-上海城投水务	shang hai cheng tou shui wu	100
-上海船舶工业	shang hai chuan bo gong ye	100
-上海大场机场	shang hai da chang ji chang	100
-上海达龙科技	shang hai da long ke ji	100
-上海达内科技	shang hai da nei ke ji	100
-上海大屯煤电	shang hai da tun mei dian	100
-上海大学校史	shang hai da xue xiao shi	100
-上海大众公用	shang hai da zhong gong yong	100
-上海打字机厂	shang hai da zi ji chang	100
-上海第一生化	shang hai di yi sheng hua	100
-上海电机学院	shang hai dian ji xue yuan	100
-上海电力大学	shang hai dian li da xue	100
-上海电力公司	shang hai dian li gong si	100
-上海电力学院	shang hai dian li xue yuan	100
-上海电气公司	shang hai dian qi gong si	100
-上海电气集团	shang hai dian qi ji tuan	100
-上海电视节的	shang hai dian shi jie de	100
-上海动物园站	shang hai dong wu yuan zhan	100
-上海都市菜园	shang hai du shi cai yuan	100
-上海多媒体谷	shang hai duo mei ti gu	100
-上海法国学校	shang hai fa guo xue xiao	100
-上海法政大学	shang hai fa zheng da xue	100
-上海纺织工业	shang hai fang zhi gong ye	100
-上海纺织集团	shang hai fang zhi ji tuan	100
-上海奉贤巴士	shang hai feng xian ba shi	100
-上海佛学书局	shang hai fo xue shu ju	100
-上海复旦大学	shang hai fu dan da xue	100
-上海复旦张江	shang hai fu dan zhang jiang	100
-上海高速公路	shang hai gao su gong lu	100
-上海格致中学	shang hai ge zhi zhong xue	100
-上海公共租界	shang hai gong gong zu jie	100
-上海公兴搬场	shang hai gong xing ban chang	100
-上海公用事业	shang hai gong yong shi ye	100
-上海孤岛时期	shang hai gu dao shi qi	100
-上海古籍书店	shang hai gu ji shu dian	100
-上海冠生园队	shang hai guan sheng yuan dui	100
-上海广电大厦	shang hai guang dian da sha	100
-上海广电集团	shang hai guang dian ji tuan	100
-上海广方言馆	shang hai guang fang yan guan	100
-上海光华大学	shang hai guang hua da xue	100
-上海硅酸盐所	shang hai gui suan yan suo	100
-上海国际花展	shang hai guo ji hua zhan	100
-上海国际影展	shang hai guo ji ying zhan	100
-上海海事大学	shang hai hai shi da xue	100
-上海海事法院	shang hai hai shi fa yuan	100
-上海汉霸机电	shang hai han ba ji dian	100
-上海和黄白猫	shang hai he huang bai mao	100
-上海华峰超纤	shang hai hua feng chao xian	100
-上海华信证券	shang hai hua xin zheng quan	100
-上海华谊集团	shang hai hua yi ji tuan	100
-上海环贸广场	shang hai huan mao guang chang	100
-上海火车北站	shang hai huo che bei zhan	100
-上海机电股份	shang hai ji dian gu fen	100
-上海基督教史	shang hai ji du jiao shi	100
-上海级护卫艇	shang hai ji hu wei ting	100
-上海暨南大学	shang hai ji nan da xue	100
-上海集优机械	shang hai ji you ji xie	100
-上海嘉定城发	shang hai jia ding cheng fa	100
-上海佳豪船舶	shang hai jia hao chuan bo	100
-上海家化品牌	shang hai jia hua pin pai	100
-伤害减到最小	shang hai jian dao zui xiao	100
-上海建桥学院	shang hai jian qiao xue yuan	100
 伤害降到最低	shang hai jiang dao zui di	100
-上海江湾机场	shang hai jiang wan ji chang	100
-上海交大附中	shang hai jiao da fu zhong	100
-上海交大排名	shang hai jiao da pai ming	100
-上海锦江饭店	shang hai jin jiang fan dian	100
-上海锦江酒店	shang hai jin jiang jiu dian	100
-上海金茂大厦	shang hai jin mao da sha	100
-上海静安大火	shang hai jing an da huo	100
-上海久联证券	shang hai jiu lian zheng quan	100
-上海久事大厦	shang hai jiu shi da sha	100
-上海久事公司	shang hai jiu shi gong si	100
-上海久事集团	shang hai jiu shi ji tuan	100
 伤害就是伤害	shang hai jiu shi shang hai	100
-上海均瑶集团	shang hai jun yao ji tuan	100
-上海军医大学	shang hai jun yi da xue	100
-上海砍人事件	shang hai kan ren shi jian	100
-上海科技馆站	shang hai ke ji guan zhan	100
-上海科技人物	shang hai ke ji ren wu	100
-上海力宝广场	shang hai li bao guang chang	100
-上海立达学院	shang hai li da xue yuan	100
-上海丽都花园	shang hai li du hua yuan	100
-上海联影医疗	shang hai lian ying yi liao	100
-上海良友集团	shang hai liang you ji tuan	100
-上海烈士陵园	shang hai lie shi ling yuan	100
-上海龙华庙会	shang hai long hua miao hui	100
-上海路立交桥	shang hai lu li jiao qiao	100
-上海轮胎橡胶	shang hai lun tai xiang jiao	100
-上海绿地申花	shang hai lv di shen hua	100
-上海绿谷制药	shang hai lv gu zhi yao	100
-上海旅游景点	shang hai lv you jing dian	100
-上海美术大展	shang hai mei shu da zhan	100
-上海沐瞳科技	shang hai mu tong ke ji	100
-上海南北高架	shang hai nan bei gao jia	100
-上海南洋大学	shang hai nan yang da xue	100
-上海南洋公学	shang hai nan yang gong xue	100
-上海南洋中学	shang hai nan yang zhong xue	100
-上海农商银行	shang hai nong shang yin hang	100
-上海女子图鉴	shang hai nv zi tu jian	100
-上海牌照拍卖	shang hai pai zhao pai mai	100
-上海浦东中邦	shang hai pu dong zhong bang	100
-上海钱业公会	shang hai qian ye gong hui	100
-上海绕城高速	shang hai rao cheng gao su	100
-上海仁济医院	shang hai ren ji yi yuan	100
-上海如心文化	shang hai ru xin wen hua	100
-上海三联书店	shang hai san lian shu dian	100
-上海三枪集团	shang hai san qiang ji tuan	100
-上海杉达学院	shang hai shan da xue yuan	100
-上海商科大学	shang hai shang ke da xue	100
-上海尚世影业	shang hai shang shi ying ye	100
-上海商务中心	shang hai shang wu zhong xin	100
-上海申迪集团	shang hai shen di ji tuan	100
-上海申花历史	shang hai shen hua li shi	100
-上海申花联盛	shang hai shen hua lian sheng	100
-上海申花球员	shang hai shen hua qiu yuan	100
-上海申花数据	shang hai shen hua shu ju	100
 伤害身体健康	shang hai shen ti jian kang	100
-上海申鑫球员	shang hai shen xin qiu yuan	100
-上海圣三一堂	shang hai sheng san yi tang	100
-上海师范大学	shang hai shi fan da xue	100
-上海师范学院	shang hai shi fan xue yuan	100
-上海石化总厂	shang hai shi hua zong chang	100
-上海世纪出版	shang hai shi ji chu ban	100
-上海世纪大道	shang hai shi ji da dao	100
-上海世纪广场	shang hai shi ji guang chang	100
-上海世贸商城	shang hai shi mao shang cheng	100
-上海食品公司	shang hai shi pin gong si	100
-上海实业集团	shang hai shi ye ji tuan	100
-上海实业控股	shang hai shi ye kong gu	100
-上海石油化工	shang hai shi you hua gong	100
 伤害输出能力	shang hai shu chu neng li	100
-上海四季酒店	shang hai si ji jiu dian	100
-上海体育馆站	shang hai ti yu guan zhan	100
-上海天玑科技	shang hai tian ji ke ji	100
-上海天主教堂	shang hai tian zhu jiao tang	100
-上海同济医院	shang hai tong ji yi yuan	100
-上海同仁医院	shang hai tong ren yi yuan	100
-上海同文书院	shang hai tong wen shu yuan	100
-上海通轩实业	shang hai tong xuan shi ye	100
-上海图书馆站	shang hai tu shu guan zhan	100
-上海外环高速	shang hai wai huan gao su	100
-上海万国公墓	shang hai wan guo gong mu	100
-上海万国商团	shang hai wan guo shang tuan	100
-上海宛平剧院	shang hai wan ping ju yuan	100
-上海维西公司	shang hai wei xi gong si	100
-上海文广演艺	shang hai wen guang yan yi	100
-上海文明书局	shang hai wen ming shu ju	100
-上海无轨电车	shang hai wu gui dian che	100
-上海西岸开发	shang hai xi an kai fa	100
-上海西郊宾馆	shang hai xi jiao bin guan	100
-上海西郊公园	shang hai xi jiao gong yuan	100
-上海小红楼案	shang hai xiao hong lou an	100
-上海刑事案件	shang hai xing shi an jian	100
-上海兴伟学院	shang hai xing wei xue yuan	100
-上海延安饭店	shang hai yan an fan dian	100
-上海姚记扑克	shang hai yao ji pu ke	100
-上海耀皮玻璃	shang hai yao pi bo li	100
-上海仪电电子	shang hai yi dian dian zi	100
-上海仪电控股	shang hai yi dian kong gu	100
-伤害已经造成	shang hai yi jing zao cheng	100
-上海医科大学	shang hai yi ke da xue	100
-上海异人娼馆	shang hai yi ren chang guan	100
-上海一网通办	shang hai yi wang tong ban	100
-上海影评人奖	shang hai ying ping ren jiang	100
-上海永福园陵	shang hai yong fu yuan ling	100
-上海永利带业	shang hai yong li dai ye	100
-上海邮电医院	shang hai you dian yi yuan	100
-上海邮通科技	shang hai you tong ke ji	100
-上海有线电视	shang hai you xian dian shi	100
-上海游泳馆站	shang hai you yong guan zhan	100
-上海源甲餐饮	shang hai yuan jia can yin	100
-上海远洋宾馆	shang hai yuan yang bin guan	100
-上海振华重工	shang hai zhen hua zhong gong	100
-上海针织九厂	shang hai zhen zhi jiu chang	100
-上海政法学院	shang hai zheng fa xue yuan	100
-上海置地广场	shang hai zhi di guang chang	100
-上海支援全国	shang hai zhi yuan quan guo	100
-上海中国画院	shang hai zhong guo hua yuan	100
-上海中学东校	shang hai zhong xue dong xiao	100
 伤寒和副伤寒	shang han he fu shang han	100
 伤寒沙门氏菌	shang han sha men shi jun	100
 伤寒十居其七	shang han shi ju qi qi	100
@@ -158951,8 +158767,8 @@ sort: by_weight
 我竟无言以对	wo jing wu yan yi dui	100
 我就是青岛人	wo jiu shi qing dao ren	100
 我就云淡风轻	wo jiu yun dan feng qing	100
+我举一个例子	wo ju yi ge li zi	120
 我举一个栗子	wo ju yi ge li zi	100
-我举一个例子	wo ju yi ge li zi	100
 我看见的世界	wo kan jian de shi jie	100
 我看见三只船	wo kan jian san zhi chuan	100
 我看你就是傻	wo kan ni jiu shi sha	100
@@ -166644,6 +166460,7 @@ sort: by_weight
 一阶必要条件	yi jie bi yao tiao jian	100
 一届不如一届	yi jie bu ru yi jie	100
 一介凡夫俗子	yi jie fan fu su zi	100
+一阶反转曲线	yi jie fan zhuan qu xian	100
 以结婚为前提	yi jie hun wei qian ti	100
 以解燃眉之急	yi jie ran mei zhi ji	100
 一阶算术系统	yi jie suan shu xi tong	100
@@ -171518,6 +171335,7 @@ sort: by_weight
 蒸汽机的发明	zheng qi ji de fa ming	100
 蒸汽凝结速率	zheng qi ning jie su lv	120
 蒸气杀人实验	zheng qi sha ren shi yan	100
+政企数据泄露	zheng qi shu ju xie lou	100
 蒸汽吸入损伤	zheng qi xi ru sun shang	100
 蒸气压力曲线	zheng qi ya li qu xian	100
 蒸气压缩制冷	zheng qi ya suo zhi leng	100
@@ -181286,7 +181104,6 @@ sort: by_weight
 打开天窗说亮话	da kai tian chuang shuo liang hua	100
 打开网络适配器	da kai wang luo shi pei qi	100
 打开新世界大门	da kai xin shi jie da men	100
-打开资源管理器	da kai zi yuan guan li qi	100
 达克二氏颅骨钳	da ke er shi lu gu qian	100
 大颗粒淋巴细胞	da ke li lin ba xi bao	100
 达克罗宁胶浆剂	da ke luo ning jiao jiang ji	100
@@ -184832,7 +184649,6 @@ sort: by_weight
 肺组织胞浆菌病	fei zu zhi bao jiang jun bing	100
 肺组织黏性阻力	fei zu zhi nian xing zu li	100
 非最小相位系统	fei zui xiao xiang wei xi tong	100
-肺І核初Н涂阳	fei І he chu Н tu yang	100
 粪便微生物移植	fen bian wei sheng wu yi zhi	100
 分别善恶报应经	fen bie shan e bao ying jing	100
 奋不顾身的爱情	fen bu gu shen de ai qing	100
