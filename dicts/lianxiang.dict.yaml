@@ -9,8 +9,6 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
-燃料铀	ran liao you	124
-燃料棒铀	ran liao bang you	144
 阿巴科群岛	a ba ke qun dao	100
 阿贝比长仪	a bei bi chang yi	100
 阿贝不变量	a bei bu bian liang	100
@@ -20058,6 +20056,7 @@ sort: by_weight
 赋予的权利	fu yu de quan li	100
 馥郁的香气	fu yu de xiang qi	100
 馥郁滇丁香	fu yu dian ding xiang	100
+夫宇淀粉肠	fu yu dian fen chang	100
 富余劳动力	fu yu lao dong li	100
 赋予了生命	fu yu le sheng ming	100
 付与他人可	fu yu ta ren ke	100
@@ -21751,8 +21750,6 @@ sort: by_weight
 各学校教师	ge xue xiao jiao shi	100
 个沿海省份	ge yan hai sheng fen	100
 歌谣大祝祭	ge yao da zhu ji	100
-革叶华蟹甲	ge ye hua xie jia	100
-革叶马兜铃	ge ye ma dou ling	100
 各业务部室	ge ye wu bu shi	100
 各业务条线	ge ye wu tiao xian	100
 各医疗单位	ge yi liao dan wei	100
@@ -29906,6 +29903,7 @@ sort: by_weight
 吉崩岗拉康	ji beng gang la kang	100
 基比亚战役	ji bi ya zhan yi	100
 极边第一城	ji bian di yi cheng	100
+奇变偶不变	ji bian ou bu bian	100
 激变前双星	ji bian qian shuang xing	100
 姬鳖甲蜗牛	ji bie jia wo niu	100
 疾病缠身的	ji bing chan shen de	100
@@ -41175,6 +41173,7 @@ sort: by_weight
 林忠四郎线	lin zhong si lang xian	100
 鳞柱交接部	lin zhu jiao jie bu	100
 岭澳核电站	ling ao he dian zhan	100
+灵宝大法师	ling bao da fa shi	21
 灵宝护心丹	ling bao hu xin dan	100
 岭北三路站	ling bei san lu zhan	100
 领鞭毛虫纲	ling bian mao chong gang	100
@@ -45446,6 +45445,7 @@ sort: by_weight
 幕后主使者	mu hou zhu shi zhe	100
 木花开耶姬	mu hua kai ye ji	100
 木花咲耶姬	mu hua xiao ye ji	100
+穆皇后吴氏	mu huang hou wu shi	1
 沐火村村长	mu huo cun cun zhang	100
 木火土金水	mu huo tu jin shui	100
 母鸡带小鸭	mu ji dai xiao ya	100
@@ -56494,10 +56494,8 @@ sort: by_weight
 沈吕九方程	shen lv jiu fang cheng	100
 什么程度才	shen me cheng du cai	100
 什么东西呀	shen me dong xi ya	100
-什么都不干	shen me dou bu gan	100
 什么都不精	shen me dou bu jing	100
 什么都不图	shen me dou bu tu	100
-什么都不问	shen me dou bu wen	100
 什么都没学	shen me dou mei xue	100
 什么都是错	shen me dou shi cuo	100
 什么反应的	shen me fan ying de	100
@@ -58765,6 +58763,8 @@ sort: by_weight
 世茂世界湾	shi mao shi jie wan	100
 世贸中心站	shi mao zhong xin zhan	100
 什么都不搭	shi me dou bu da	100
+什么都不干	shi me dou bu gan	100
+什么都不问	shi me dou bu wen	100
 时美百服咛	shi mei bai fu ning	100
 饰美叉丝壳	shi mei cha si ke	100
 十美分硬币	shi mei fen ying bi	100
@@ -63165,7 +63165,6 @@ sort: by_weight
 他们的福气	ta men de fu qi	100
 他们的故事	ta men de gu shi	100
 她们的故事	ta men de gu shi	100
-他们的故事	ta men de gu shi	100
 她们的孩子	ta men de hai zi	100
 她们的话说	ta men de hua shuo	100
 她们的阶级	ta men de jie ji	100
@@ -66624,7 +66623,7 @@ sort: by_weight
 玩忽职守罪	wan hu zhi shou zui	100
 万花丛中过	wan hua cong zhong guo	100
 弯花醉鱼木	wan hua zui yu mu	100
-挽回不了的	wan hui bu le de	100
+挽回不了的	wan hui bu liao de	100
 挽回的余地	wan hui de yu di	100
 万辉国际城	wan hui guo ji cheng	100
 挽回男朋友	wan hui nan peng you	100
@@ -68652,7 +68651,6 @@ sort: by_weight
 我们的青春	wo men de qing chun	100
 我们的时代	wo men de shi dai	100
 我们的世代	wo men de shi dai	100
-我们的时代	wo men de shi dai	100
 我们的师父	wo men de shi fu	100
 我们的世纪	wo men de shi ji	100
 我们的世界	wo men de shi jie	100
@@ -70560,6 +70558,7 @@ sort: by_weight
 膝关节正位	xi guan jie zheng wei	100
 习惯性脱位	xi guan xing tuo wei	100
 嘻哈壹笑堂	xi ha yi xiao tang	100
+西汉前少帝	xi han qian shao di
 洗好的衣服	xi hao de yi fu	100
 西红花多甙	xi hong hua duo dai	100
 戏红人不红	xi hong ren bu hong	100
@@ -83845,7 +83844,7 @@ sort: by_weight
 运输与物流	yun shu yu wu liu	100
 运算符重载	yun suan fu chong zai	100
 运算子重载	yun suan zi zhong zai	100
-芸苔素内酯	yun tai su nei zhi	100
+芸薹素内酯	yun tai su nei zhi	100
 运维检修部	yun wei jian xiu bu	100
 运维自动化	yun wei zi dong hua	100
 云县公安局	yun xian gong an ju	100
@@ -91490,7 +91489,6 @@ sort: by_weight
 爱泼斯坦小结	ai po si tan xiao jie	100
 爱泼斯坦之死	ai po si tan zhi si	100
 埃奇沃思框图	ai qi wo si kuang tu	100
-埃奇沃斯框图	ai qi wo si kuang tu	100
 爱情不分年龄	ai qing bu fen nian ling	100
 爱情两好三坏	ai qing liang hao san huai	100
 爱情没有终点	ai qing mei you zhong dian	100
@@ -91508,8 +91506,6 @@ sort: by_weight
 爱上一匹野马	ai shang yi pi ye ma	100
 爱上有妇之夫	ai shang you fu zhi fu	100
 爱生活的艺术	ai sheng huo de yi shu	100
-矮生长蒴苣苔	ai sheng zhang shuo ju tai	100
-矮生紫背金盘	ai sheng zi bei jin pan	100
 爱时代少年团	ai shi dai shao nian tuan	100
 爱是点点滴滴	ai shi dian dian di di	100
 爱是久处不厌	ai shi jiu chu bu yan	100
@@ -91683,10 +91679,8 @@ sort: by_weight
 安德里卡猜想	an de li ka cai xiang	100
 安得列多项式	an de lie duo xiang shi	100
 安的列斯群岛	an de lie si qun dao	100
-安迪基西拉岛	an di ji xi la dao	100
 安蒂基西拉岛	an di ji xi la dao	100
 安蒂科斯蒂岛	an di ke si di dao	100
-安地列斯群岛	an di lie si qun dao	100
 安蒂特姆战役	an di te mu zhan yi	100
 按地域划分的	an di yu hua fen de	100
 氨二泥压榨机	an er ni ya zha ji	120
@@ -91897,19 +91891,14 @@ sort: by_weight
 敖特根巴特尔	ao te gen ba te er	100
 奥特兰克山脉	ao te lan ke shan mai	100
 奥瓦二氏现象	ao wa er shi xian xiang	100
-奥硝唑葡萄糖	ao xiao zuo pu tao tang	100
-奥硝唑阴道栓	ao xiao zuo yin dao shuan	100
 澳亚航空公司	ao ya hang kong gong si	100
 澳岩缝男事件	ao yan feng nan shi jian	100
 傲游云浏览器	ao you yun liu lan qi	100
-澳洲有袋超目	ao zhou you dai chao mu	100
-澳洲有袋总目	ao zhou you dai zong mu	100
 八八舰队计划	ba ba jian dui ji hua	100
 八八式侦察机	ba ba shi zhen cha ji	100
 八百万种死法	ba bai wan zhong si fa	100
 把悲伤看透时	ba bei shang kan tou shi	100
 八臂哪吒项充	ba bi ne zha xiang chong	100
-巴比内补偿器	ba bi nei bu chang qi	100
 巴比涅补偿器	ba bi nie bu chang qi	100
 芭比之天鹅湖	ba bi zhi tian e hu	100
 巴宾斯基反射	ba bin si ji fan she	100
@@ -91925,14 +91914,10 @@ sort: by_weight
 坝道工程医院	ba dao gong cheng yi yuan	100
 霸道总裁范儿	ba dao zong cai fan er	100
 巴登号铁甲舰	ba deng hao tie jia jian	100
-巴蒂二氏产钳	ba di er shi chan qian	100
 八点半的星光	ba dian ban de xing guang	100
 八点钟的太阳	ba dian zhong de tai yang	100
 扒钉基本雪压	ba ding ji ben xue ya	100
 八丁堀停留场	ba ding ku ting liu chang	100
-巴恩二氏小体	ba en er shi xiao ti	100
-巴尔比亚尼环	ba er bi ya ni huan	100
-巴尔干肾病变	ba er gan shen bing bian	100
 八放珊瑚亚纲	ba fang shan hu ya gang	100
 八分钟的温暖	ba fen zhong de wen nuan	100
 八竿子打不着	ba gan zi da bu zhao	100
@@ -92176,36 +92161,10 @@ sort: by_weight
 白胡椒粉少许	bai hu jiao fen shao xu	100
 白胡椒粉适量	bai hu jiao fen shi liang	100
 白花草袋泡茶	bai hua cao dai pao cha	100
-白花长白棘豆	bai hua chang bai ji dou	100
-白花重瓣木槿	bai hua chong ban mu jin	100
-白花大苞苣苔	bai hua da bao ju tai	100
-白花大野豌豆	bai hua da ye wan dou	100
-白花单瓣木槿	bai hua dan ban mu jin	100
-白花东北堇菜	bai hua dong bei jin cai	100
-白花伏地杜鹃	bai hua fu di du juan	100
-白花甘青黄耆	bai hua gan qing huang qi	100
 百花公园东门	bai hua gong yuan dong men	100
-白花荷包牡丹	bai hua he bao mu dan	100
-白花黑环罂粟	bai hua hei huan ying su	100
 白花花的大腿	bai hua hua de da tui	100
 白花花的一片	bai hua hua de yi pian	100
-白花华山黄耆	bai hua hua shan huang qi	100
-白花金盏苣苔	bai hua jin zhan ju tai	100
-白花梨果寄生	bai hua li guo ji sheng	100
-白花卵叶杜鹃	bai hua luan ye du juan	100
-白花拟万代兰	bai hua ni wan dai lan	100
 百花齐放运动	bai hua qi fang yun dong	100
-白花前胡甲素	bai hua qian hu jia su	100
-白花砂珍棘豆	bai hua sha zhen ji dou	100
-白花山野豌豆	bai hua shan ye wan dou	100
-白花什锦丁香	bai hua shi jin ding xiang	100
-白花松潘乌头	bai hua song pan wu tou	100
-白滑苔黑心舌	bai hua tai hei xin she	100
-白花西南鸢尾	bai hua xi nan yuan wei	100
-白花小红门兰	bai hua xiao hong men lan	100
-白花肖头蕊兰	bai hua xiao tou rui lan	100
-白花异叶苣苔	bai hua yi ye ju tai	100
-白花紫苞鸢尾	bai hua zi bao yuan wei	100
 百济复国运动	bai ji fu guo yun dong	100
 百佳超级市场	bai jia chao ji shi chang	100
 摆架式卸纸台	bai jia shi xie zhi tai	100
@@ -92561,9 +92520,6 @@ sort: by_weight
 半圆形摄谱仪	ban yuan xing she pu yi	100
 半月状抱子体	ban yue zhuang bao zi ti	100
 班哲希利公园	ban zhe xi li gong yuan	100
-斑疹伤寒腹型	ban zhen shang han fu xing	100
-斑疹伤寒鼠型	ban zhen shang han shu xing	100
-斑疹伤寒小结	ban zhen shang han xiao jie	100
 半直接民主制	ban zhi jie min zhu zhi	100
 斑状变晶结构	ban zhuang bian jing jie gou	100
 斑状淀粉样变	ban zhuang dian fen yang bian	100
@@ -92598,7 +92554,6 @@ sort: by_weight
 宝安国际机场	bao an guo ji ji chang	100
 宝安鸿基地产	bao an hong ji di chan	100
 宝安体育中心	bao an ti yu zhong xin	100
-豹斑状白癜风	bao ban zhuang bai dian feng	100
 宝宝辅食食谱	bao bao fu shi shi pu	100
 宝宝辅食添加	bao bao fu shi tian jia	100
 宝宝刚出生时	bao bao gang chu sheng shi	100
@@ -93499,16 +93454,12 @@ sort: by_weight
 比得哥什条约	bi de ge shi tiao yue	100
 毕德氏症候群	bi de shi zheng hou qun	100
 逼得走投无路	bi de zou tou wu lu	100
-吡啶偶氮萘酚	bi ding ou dan nai fen	100
-吡啶𬭩阳离子	bi ding weng yang li zi	100
 鼻窦穿剌冲洗	bi dou chuan la chong xi	100
 鼻额部脑膨出	bi e bu nao peng chu	100
 彼尔姆科米语	bi er mu ke mi yu	100
 臂肺时间测定	bi fei shi jian ce ding	100
 避风港安全套	bi feng gang an quan tao	100
 笔凤梨苹果笔	bi feng li ping guo bi	100
-吡呋氨卡西林	bi fu an ka xi lin	100
-吡咯并喹啉醌	bi ge bing kui lin kun	100
 鼻根部脑膨出	bi gen bu nao peng chu	100
 鼻骨骨折修补	bi gu gu zhe xiu bu	100
 壁挂式新风机	bi gua shi xin feng ji	100
@@ -93658,7 +93609,6 @@ sort: by_weight
 编程语言列表	bian cheng yu yan lie biao	100
 编程语言语义	bian cheng yu yan yu yi	100
 鞭笞者苏萨斯	bian chi zhe su sa si	100
-扁虫动物总门	bian chong dong wu zong men	100
 边带不稳定性	bian dai bu wen ding xing	100
 编导艺考培训	bian dao yi kao pei xun	100
 变得成熟稳重	bian de cheng shu wen zhong	100
@@ -93830,7 +93780,7 @@ sort: by_weight
 表现主义音乐	biao xian zhu yi yin yue	100
 表现主义作家	biao xian zhu yi zuo jia	100
 表现主义作品	biao xian zhu yi zuo pin	100
-表芸苔素内酯	biao yun tai su nei zhi	100
+表芸薹素内酯	biao yun tai su nei zhi	100
 表彰先进典型	biao zhang xian jin dian xing	100
 标志性的建筑	biao zhi xing de jian zhu	100
 标志性的笑容	biao zhi xing de xiao rong	100
@@ -93979,12 +93929,6 @@ sort: by_weight
 丙级低重要度	bing ji di zhong yao du	100
 丙级高重要度	bing ji gao zhong yao du	100
 冰激凌烤布丁	bing ji ling kao bu ding	100
-冰激凌烤补丁	bing ji ling kao bu ding	100
-丙基巯脲嘧啶	bing ji qiu niao mi ding	100
-丙基去氧尼苷	bing ji qu yang ni gan	100
-丙基去氧尿苷	bing ji qu yang niao gan	100
-丙基脱氧尿苷	bing ji tuo yang niao gan	100
-丙基溴化吡啶	bing ji xiu hua bi ding	100
 丙级中重要度	bing ji zhong zhong yao du	100
 兵家必争之地	bing jia bi zheng zhi di	100
 兵库北的微笑	bing ku bei de wei xiao	100
@@ -96669,21 +96613,6 @@ sort: by_weight
 驰放气分离器	chi fang qi fen li qi	120
 驰放气加热器	chi fang qi jia re qi	120
 吃干煸四季豆	chi gan bian si ji dou	100
-尺肱关节脱位	chi gong guan jie tuo wei	100
-耻骨弓状韧带	chi gu gong zhuang ren dai	100
-尺骨骨干骨折	chi gu gu gan gu zhe	100
-尺骨滑车切迹	chi gu hua che qie ji	100
-尺骨近端骨折	chi gu jin duan gu zhe	100
-尺骨茎突骨折	chi gu jing tu gu zhe	100
-耻骨联合分离	chi gu lian he fen li	100
-耻骨联合松懈	chi gu lian he song xie	100
-耻骨前列腺肌	chi gu qian lie xian ji	100
-耻骨切开助产	chi gu qie kai zhu chan	100
-尺骨上端骨折	chi gu shang duan gu zhe	100
-尺骨上端截骨	chi gu shang duan jie gu	100
-尺骨下端骨折	chi gu xia duan gu zhe	100
-尺骨鹰嘴骨折	chi gu ying zui gu zhe	100
-尺骨远端脱位	chi gu yuan duan tuo wei	100
 齿辊式破碎机	chi gun shi po sui ji	100
 吃过我做的饭	chi guo wo zuo de fan	100
 吃好喝好睡好	chi hao he hao shui hao	100
@@ -97231,24 +97160,6 @@ sort: by_weight
 创纪录的水平	chuang ji lu de shui ping	100
 创纪之城五期	chuang ji zhi cheng wu qi	100
 创金合信基金	chuang jin he xin ji jin	100
-创伤后骨萎缩	chuang shang hou gu wei suo	100
-创伤破坏强度	chuang shang po huai qiang du	100
-创伤性白内障	chuang shang xing bai nei zhang	100
-创伤性臂切断	chuang shang xing bi qie duan	100
-创伤性肝破裂	chuang shang xing gan po lie	100
-创伤性膈破裂	chuang shang xing ge po lie	100
-创伤性脑出血	chuang shang xing nao chu xie	100
-创伤性脑梗塞	chuang shang xing nao geng se	100
-创伤性脑受压	chuang shang xing nao shou ya	100
-创伤性脑损伤	chuang shang xing nao sun shang	100
-创伤性尿道瘘	chuang shang xing niao dao lou	100
-创伤性脾破裂	chuang shang xing pi po lie	100
-创伤性青光眼	chuang shang xing qing guang yan	100
-创伤性胃穿孔	chuang shang xing wei chuan kong	100
-创伤性血气胸	chuang shang xing xue qi xiong	100
-创伤性牙折断	chuang shang xing ya zhe duan	100
-创伤用骶骨板	chuang shang yong di gu ban	100
-创伤用骶骨棒	chuang shang yong di gu bang	100
 创神网络科技	chuang shen wang luo ke ji	100
 创圣的大天使	chuang sheng de da tian shi	100
 创圣机械天使	chuang sheng ji xie tian shi	100
@@ -119145,7 +119056,6 @@ sort: by_weight
 名字倒过来念	ming zi dao guo lai nian	100
 名字有几个字	ming zi you ji ge zi	100
 名足球运动员	ming zu qiu yun dong yuan	100
-默哀大于心死	mo ai da yu xin si	100
 末班发车时间	mo ban fa che shi jian	100
 漠北回鹘汗国	mo bei hui hu han guo	100
 莫比乌斯变换	mo bi wu si bian huan	100
@@ -122835,6 +122745,7 @@ sort: by_weight
 轻型自卸货车	qing xing zi xie huo che	100
 情绪大起大落	qing xu da qi da luo	100
 清虚道德真君	qing xu dao de zhen jun	100
+清虚道德真君	qing xu dao de zhen jun	15
 情绪的不稳定	qing xu de bu wen ding	100
 情绪极不稳定	qing xu ji bu wen ding	100
 情绪起伏不定	qing xu qi fu bu ding	100
@@ -132808,6 +132719,7 @@ sort: by_weight
 温肾助阳药酒	wen shen zhu yang yao jiu	100
 温室大棚种植	wen shi da peng zhong zhi	100
 温氏食品集团	wen shi shi pin ji tuan	100
+文殊广法天尊	wen shu guang fa tian zun	17
 文殊说般若经	wen shu shuo bo re jing	100
 温水洗净便座	wen shui xi jing bian zuo	100
 问松我醉何如	wen song wo zui he ru	100
@@ -132897,7 +132809,6 @@ sort: by_weight
 沃拉斯顿棱镜	wo la si dun leng jing	120
 我老公的朋友	wo lao gong de peng you	100
 我老婆唔够秤	wo lao po wu gou cheng	100
-我了个去专属	wo le ge qu zhuan shu	100
 窝了一肚子火	wo le yi du zi huo	100
 我理一下思路	wo li yi xia si lu	100
 我恋爱的一切	wo lian ai de yi qie	100
@@ -146488,7 +146399,7 @@ sort: by_weight
 左不变平均值	zuo bu bian ping jun zhi	100
 做不到的承诺	zuo bu dao de cheng nuo	100
 做不到的事情	zuo bu dao de shi qing	100
-做不了的事情	zuo bu le de shi qing	100
+做不了的事情	zuo bu liao de shi qing	100
 做不完的家务	zuo bu wan de jia wu	100
 做不完的事情	zuo bu wan de shi qing	100
 做不完的作业	zuo bu wan de zuo ye	100
@@ -146916,7 +146827,6 @@ sort: by_weight
 爱育黎拔力八达	ai yu li ba li ba da	100
 爱与欲望之学园	ai yu yu wang zhi xue yuan	100
 爱在别乡的季节	ai zai bie xiang de ji jie	100
-爱在基吧的日子	ai zai ji ba de ri zi	100
 爱在记忆中找你	ai zai ji yi zhong zhao ni	100
 爱在刻骨铭心时	ai zai ke gu ming xin shi	100
 爱在黎明破晓前	ai zai li ming po xiao qian	100
@@ -148381,7 +148291,6 @@ sort: by_weight
 濒危野生动植物	bin wei ye sheng dong zhi wu	100
 宾夕法尼亚大道	bin xi fa ni ya da dao	100
 宾夕法尼亚大学	bin xi fa ni ya da xue	100
-宾夕凡尼亚大学	bin xi fan ni ya da xue	100
 鬓云欲度香腮雪	bin yun yu du xiang sai xue	100
 槟州华人大会堂	bin zhou hua ren da hui tang	100
 丙氨酰氨裂解酶	bing an xian an lie jie mei	100
@@ -160703,6 +160612,7 @@ sort: by_weight
 植物体细胞杂交	zhi wu ti xi bao za jiao	100
 直线缝合器钉仓	zhi xian feng he qi ding cang	100
 直线切割缝合器	zhi xian qie ge feng he qi	100
+知小礼而无大义	zhi xiao li er wu da yi	100
 致泻性大肠杆菌	zhi xie xing da chang gan jun	100
 直型钢板不锈钢	zhi xing gang ban bu xiu gang	100
 直型钢板钛合金	zhi xing gang ban tai he jin	100
