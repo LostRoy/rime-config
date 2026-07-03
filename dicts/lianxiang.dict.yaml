@@ -127,6 +127,8 @@ sort: by_weight
 爱巴鸟尾蛤	ai ba niao wei ha	10
 爱比克泰德	ai bi ke tai de	10
 爱彼女皇杯	ai bi nv huang bei	10
+爱不爱我吧	ai bu ai wo ba	10
+爱不爱我吗	ai bu ai wo ma	10
 爱不再回来	ai bu zai hui lai	10
 爱吃的零食	ai chi de ling shi	10
 爱吃的食物	ai chi de shi wu	10
@@ -163,8 +165,8 @@ sort: by_weight
 爱的面包魂	ai de mian bao hun	10
 爱的木莓寮	ai de mu mei liao	10
 爱德生试验	ai de sheng shi yan	10
+爱的同位素	ai de tong wei su	12
 砹的同位素	ai de tong wei su	10
-爱的同位素	ai de tong wei su	10
 爱德万测试	ai de wan ce shi	10
 爱的万物论	ai de wan wu lun	10
 爱得威建设	ai de wei jian she	10
@@ -361,7 +363,6 @@ sort: by_weight
 爱斯基摩犬	ai si ji mo quan	10
 爱斯基摩人	ai si ji mo ren	10
 爱斯基摩族	ai si ji mo zu	10
-爱丝梅拉达	ai si mei la da	10
 爱斯梅拉达	ai si mei la da	10
 爱他还是我	ai ta hai shi wo	10
 矮塔斜拉桥	ai ta xie la qiao	10
@@ -531,6 +532,7 @@ sort: by_weight
 案件的侦破	an jian de zhen po	10
 案件的真相	an jian de zhen xiang	10
 案件发生后	an jian fa sheng hou	10
+按键记录器	an jian ji lu qi	10
 案件审理室	an jian shen li shi	10
 案件审理中	an jian shen li zhong	10
 案件受理费	an jian shou li fei	10
@@ -855,6 +857,7 @@ sort: by_weight
 八百里洞庭	ba bai li dong ting	10
 八百里秦川	ba bai li qin chuan	10
 拔白旗运动	ba bai qi yun dong	10
+八百五十八	ba bai wu shi ba	10
 八百屋于七	ba bai wu yu qi	10
 八百媳妇国	ba bai xi fu guo	10
 八百一十八	ba bai yi shi ba	10
@@ -1500,6 +1503,7 @@ sort: by_weight
 白塞尔维亚	bai sai er wei ya	10
 白伞盖佛顶	bai san gai fo ding	10
 百色闭壳龟	bai se bi ke gui	10
+白色长筒袜	bai se chang tong wa	10
 白色的背景	bai se de bei jing	10
 白色的橱柜	bai se de chu gui	10
 白色的大衣	bai se de da yi	10
@@ -1714,6 +1718,7 @@ sort: by_weight
 半步不退让	ban bu bu tui rang	10
 办不成的事	ban bu cheng de shi	10
 办不到的事	ban bu dao de shi	10
+办不好的事	ban bu hao de shi	10
 板材的厚度	ban cai de hou du	10
 半参数回归	ban can shu hui gui	10
 半参数模型	ban can shu mo xing	10
@@ -1744,6 +1749,8 @@ sort: by_weight
 半导体整流	ban dao ti zheng liu	10
 半导体制程	ban dao ti zhi cheng	10
 半岛无核化	ban dao wu he hua	10
+办得不好啊	ban de bu hao a	10
+办得很好呀	ban de hen hao ya	10
 办的那些事	ban de na xie shi	1000
 斑点比基尼	ban dian bi ji ni	10
 斑点叉尾𫚔	ban dian cha wei hui	10
@@ -1885,6 +1892,7 @@ sort: by_weight
 板球运动员	ban qiu yun dong yuan	10
 班全体同学	ban quan ti tong xue	10
 半人半马怪	ban ren ban ma guai	10
+半人马队长	ban ren ma dui zhang	10
 半人马星协	ban ren ma xing xie	10
 办人民满意	ban ren min man yi	10
 半乳聚糖类	ban ru ju tang lei	10
@@ -1969,7 +1977,7 @@ sort: by_weight
 半有界算子	ban you jie suan zi	10
 半圆头螺钉	ban yuan tou luo ding	10
 半圆形后殿	ban yuan xing hou dian	10
-坂垣征四郎	ban yuan zheng si lang	10
+板垣征四郎	ban yuan zheng si lang	10
 半月瓣弧缘	ban yue ban hu yuan	10
 半月板疾患	ban yue ban ji huan	10
 半月瓣小结	ban yue ban xiao jie	10
@@ -2913,6 +2921,7 @@ sort: by_weight
 被雷电击中	bei lei dian ji zhong	10
 蓓蕾幼儿园	bei lei you er yuan	10
 贝利埃公司	bei li ai gong si	10
+倍立方问题	bei li fang wen ti	10
 北理莫斯科	bei li mo si ke	10
 被历史淘汰	bei li shi tao tai	10
 贝里斯条约	bei li si tiao yue	10
@@ -3009,6 +3018,7 @@ sort: by_weight
 被群众举报	bei qun zhong ju bao	10
 被热水烫伤	bei re shui tang shang	10
 被人发现时	bei ren fa xian shi	10
+被人砍下来	bei ren kan xia lai	10
 被人们熟知	bei ren men shu zhi	10
 被人们遗忘	bei ren men yi wang	10
 北人民大街	bei ren min da jie	10
@@ -3348,6 +3358,7 @@ sort: by_weight
 本经序疏要	ben jing xu shu yao	10
 本经选穴法	ben jing xuan xue fa	10
 本科和大专	ben ke he da zhuan	10
+本来就是吗	ben lai jiu shi ma	10
 本来无一物	ben lai wu yi wu	10
 本立而道生	ben li er dao sheng	10
 本李二氏法	ben li er shi fa	10
@@ -3546,6 +3557,7 @@ sort: by_weight
 比甲主教练	bi jia zhu jiao lian	10
 比较并交换	bi jiao bing jiao huan	10
 比较的方法	bi jiao de fang fa	10
+比较好奇啊	bi jiao hao qi a	10
 比较和选择	bi jiao he xuan ze	10
 比较判别法	bi jiao pan bie fa	10
 比较清楚地	bi jiao qing chu de	10
@@ -3553,7 +3565,8 @@ sort: by_weight
 比较审敛法	bi jiao shen lian fa	10
 币交易平台	bi jiao yi ping tai	10
 比较用级数	bi jiao yong ji shu	10
-比较值钱的	bi jiao zhi qian de	10
+比较值钱的	bi jiao zhi qian de	12
+比较之前的	bi jiao zhi qian de	10
 彼节者有间	bi jie zhe you jian	10
 比科尔半岛	bi ke er ban dao	10
 鼻颏位投照	bi ke wei tou zhao	10
@@ -3669,6 +3682,7 @@ sort: by_weight
 比斯科群岛	bi si ke qun dao	10
 闭锁性阑尾	bi suo xing lan wei	10
 闭锁症候群	bi suo zheng hou qun	10
+比他更凶残	bi ta geng xiong can	10
 笔谈女公关	bi tan nv gong guan	10
 比特币暴涨	bi te bi bao zhang	10
 彼特拉科夫	bi te la ke fu	10
@@ -4106,6 +4120,7 @@ sort: by_weight
 别扯犊子了	bie che du zi le	10
 别出心裁地	bie chu xin cai de	10
 别大惊小怪	bie da jing xiao guai	10
+憋得不行了	bie de bu xing le	10
 别得寸进尺	bie de cun jin chi	10
 别动不动就	bie dong bu dong jiu	10
 别多管闲事	bie duo guan xian shi	10
@@ -4296,6 +4311,7 @@ sort: by_weight
 并没有大碍	bing mei you da ai	10
 并没有交集	bing mei you jiao ji	10
 并没有理会	bing mei you li hui	10
+并没有伤害	bing mei you shang hai	10
 并没有提及	bing mei you ti ji	10
 并没有统一	bing mei you tong yi	10
 并没有同意	bing mei you tong yi	10
@@ -4595,8 +4611,6 @@ sort: by_weight
 步兵战斗团	bu bing zhan dou tuan	10
 步兵装甲车	bu bing zhuang jia che	10
 步步赶不上	bu bu gan bu shang	10
-步步惊心里	bu bu jing xin li	10
-步步惊心中	bu bu jing xin zhong	10
 步步生莲花	bu bu sheng lian hua	10
 不布置作业	bu bu zhi zuo ye	10
 不操这个心	bu cao zhe ge xin	10
@@ -4864,6 +4878,7 @@ sort: by_weight
 不敢稍逾约	bu gan shao yu yue	10
 不干涉主义	bu gan she zhu yi	10
 布干维尔岛	bu gan wei er dao	10
+不敢相信他	bu gan xiang xin ta	10
 不干也不湿	bu gan ye bu shi	10
 不干预主义	bu gan yu zhu yi	10
 不高也不低	bu gao ye bu di	10
@@ -5026,6 +5041,7 @@ sort: by_weight
 不久将来的	bu jiu jiang lai de	10
 不久于人世	bu jiu yu ren shi	10
 不具约束力	bu ju yue shu li	10
+不觉得好笑	bu jue de hao xiao	10
 不均衡系数	bu jun heng xi shu	10
 不均匀沉陷	bu jun yun chen xian	10
 不均匀系数	bu jun yun xi shu	10
@@ -5180,6 +5196,7 @@ sort: by_weight
 布林值模型	bu lin zhi mo xing	10
 不令人满意	bu ling ren man yi	10
 不令人意外	bu ling ren yi wai	10
+不留行了吗	bu liu xing le ma	10
 不流于形式	bu liu yu xing shi	10
 布隆堡条约	bu long bao tiao yue	10
 布隆斯公式	bu long si gong shi	10
@@ -5296,6 +5313,7 @@ sort: by_weight
 不确定性大	bu que ding xing da	10
 不确定性中	bu que ding xing zhong	10
 不确定知识	bu que ding zhi shi	10
+不让出小区	bu rang chu xiao qu	10
 不让自己哭	bu rang zi ji ku	10
 不忍人之心	bu ren ren zhi xin	10
 不忍心伤害	bu ren xin shang hai	10
@@ -5527,7 +5545,7 @@ sort: by_weight
 不祥的感觉	bu xiang de gan jue	10
 不祥的预感	bu xiang de yu gan	10
 不祥的预兆	bu xiang de yu zhao	10
-不详的征兆	bu xiang de zheng zhao	10
+不祥的征兆	bu xiang de zheng zhao	10
 不想负责任	bu xiang fu ze ren	10
 不相干成象	bu xiang gan cheng xiang	10
 不相干谬误	bu xiang gan miu wu	10
@@ -5557,7 +5575,7 @@ sort: by_weight
 不小的资金	bu xiao de zi jin	10
 不肖子定理	bu xiao zi ding li	10
 不屑的表情	bu xie de biao qing	10
-不懈地努力	bu xie de nu li	10
+不懈的努力	bu xie de nu li	10
 不屑的眼神	bu xie de yan shen	10
 不协调褶皱	bu xie diao zhe zhou	10
 不协和音程	bu xie he yin cheng	10
@@ -5646,6 +5664,7 @@ sort: by_weight
 不要去伤害	bu yao qu shang hai	10
 不要式合同	bu yao shi he tong	10
 不要式行为	bu yao shi xing wei	10
+不要耍个性	bu yao shua ge xing	10
 不要停止的	bu yao ting zhi de	10
 不要忘了是	bu yao wang le shi	10
 不要妄想了	bu yao wang xiang le	10
@@ -5656,6 +5675,7 @@ sort: by_weight
 不要再等待	bu yao zai deng dai	10
 不要再喝了	bu yao zai he le	10
 不要再看了	bu yao zai kan le	10
+不要再玩儿	bu yao zai wan er	10
 不要再玩了	bu yao zai wan le	10
 不要再找我	bu yao zai zhao wo	10
 不要这样嘛	bu yao zhe yang ma	10
@@ -5805,6 +5825,7 @@ sort: by_weight
 不知者无畏	bu zhi zhe wu wei	10
 不知者无罪	bu zhi zhe wu zui	10
 不止这一处	bu zhi zhe yi chu	10
+不知这一项	bu zhi zhe yi xiang	10
 不忠的女人	bu zhong de nv ren	10
 不重男轻女	bu zhong nan qing nv	10
 不忠选举人	bu zhong xuan ju ren	10
@@ -5919,6 +5940,7 @@ sort: by_weight
 菜就是原罪	cai jiu shi yuan zui	10
 采掘工作面	cai jue gong zuo mian	10
 裁军委员会	cai jun wei yuan hui	10
+才可以得到	cai ke yi de dao	10
 采空区充填	cai kong qu chong tian	10
 才懒得管你	cai lan de guan ni	10
 蔡澜逛菜栏	cai lan guang cai lan	10
@@ -6007,6 +6029,7 @@ sort: by_weight
 财园信贷通	cai yuan xin dai tong	10
 彩云国物语	cai yun guo wu yu	10
 踩在棉花上	cai zai mian hua shang	10
+才真正懂得	cai zhen zheng dong de	10
 财政部大厦	cai zheng bu da sha	10
 财政和金融	cai zheng he jin rong	10
 财政与金融	cai zheng yu jin rong	10
@@ -6372,6 +6395,7 @@ sort: by_weight
 叉背金线魮	cha bei jin xian pi	10
 差别阈限法	cha bie yu xian fa	10
 差不多得了	cha bu duo de le	10
+差不多得嘞	cha bu duo de lei	10
 插翅虎雷横	cha chi hu lei heng	10
 叉唇钗子股	cha chun chai zi gu	10
 叉唇对叶兰	cha chun dui ye lan	10
@@ -6468,6 +6492,7 @@ sort: by_weight
 茶叶的种类	cha ye de zhong lei	10
 茶业改良场	cha ye gai liang chang	10
 查也没查过	cha ye mei cha guo	10
+差一点点儿	cha yi dian dian er	10
 差一点儿就	cha yi dian er jiu	10
 差异化打法	cha yi hua da fa	10
 差异化卖点	cha yi hua mai dian	10
@@ -7066,6 +7091,7 @@ sort: by_weight
 场效电晶体	chang xiao dian jing ti	10
 长效干扰素	chang xiao gan rao su	10
 肠消化不良	chang xiao hua bu liang	10
+长效化机制	chang xiao hua ji zhi	10
 长效胰岛素	chang xiao yi dao su	10
 长信中短债	chang xin zhong duan zhai	10
 长袖的设计	chang xiu de she ji	10
@@ -7490,6 +7516,7 @@ sort: by_weight
 车船使用税	che chuan shi yong shui	10
 车窗击破器	che chuang ji po qi	10
 扯淡的人生	che dan de ren sheng	10
+车道沟桥西	che dao gou qiao xi	10
 车道内停车	che dao nei ting che	10
 车道内行驶	che dao nei xing shi	10
 车灯的设计	che deng de she ji	10
@@ -8234,7 +8261,11 @@ sort: by_weight
 迟到一分钟	chi dao yi fen zhong	10
 赤道与北极	chi dao yu bei ji	10
 赤道坐标系	chi dao zuo biao xi	10
+吃得不好啊	chi de bu hao a	10
 吃得更健康	chi de geng jian kang	10
+吃得很好啊	chi de hen hao a	10
+吃得很好吧	chi de hen hao ba	10
+吃得很好呀	chi de hen hao ya	10
 吃得很开心	chi de hen kai xin	10
 吃得苦中苦	chi de ku zhong ku	10
 吃得太多了	chi de tai duo le	10
@@ -8501,6 +8532,7 @@ sort: by_weight
 冲量和动量	chong liang he dong liang	10
 崇陵传信录	chong ling chuan xin lu	10
 重楼解毒酊	chong lou jie du ding	10
+充满爱心地	chong man ai xin di	10
 充满了敌意	chong man le di yi	10
 充满了斗志	chong man le dou zhi	10
 充满了欢乐	chong man le huan le	10
@@ -8512,7 +8544,7 @@ sort: by_weight
 充满力量的	chong man li liang de	10
 充满热情的	chong man re qing de	10
 充满热情地	chong man re qing de	10
-充满想像力	chong man xiang xiang li	10
+充满想象力	chong man xiang xiang li	10
 充满信心的	chong man xin xin de	10
 充满信心地	chong man xin xin de	10
 充满一次电	chong man yi ci dian	10
@@ -8604,6 +8636,7 @@ sort: by_weight
 重新报下名	chong xin bao xia ming	10
 重新的定义	chong xin de ding yi	10
 重新的开始	chong xin de kai shi	10
+重新发一遍	chong xin fa yi bian	10
 重新书写的	chong xin shu xie de	10
 重新装一下	chong xin zhuang yi xia	10
 虫形陈氏介	chong xing chen shi jie	10
@@ -9211,6 +9244,7 @@ sort: by_weight
 穿越火线中	chuan yue huo xian zhong	10
 穿越时空之	chuan yue shi kong zhi	10
 船越英一郎	chuan yue ying yi lang	10
+串在一起了	chuan zai yi qi le	10
 船长的大副	chuan zhang de da fu	10
 穿着的衣服	chuan zhe de yi fu	10
 传真和扫描	chuan zhen he sao miao	10
@@ -9732,6 +9766,7 @@ sort: by_weight
 此刻尽丝滑	ci ke jin si hua	10
 刺客聂隐娘	ci ke nie yin niang	10
 刺客伍六七	ci ke wu liu qi	10
+此刻在哪里	ci ke zai na li	10
 次空间曲线	ci kong jian qu xian	10
 磁控溅射法	ci kong jian she fa	10
 磁库仑定律	ci ku lun ding lv	12
@@ -9967,6 +10002,7 @@ sort: by_weight
 从科学角度	cong ke xue jiao du	10
 从空中俯视	cong kong zhong fu shi	10
 从空中落下	cong kong zhong luo xia	10
+从来没有想	cong lai mei you xiang	10
 从两个方面	cong liang ge fang mian	10
 丛林守护者	cong lin shou hu zhe	10
 丛林有情狼	cong lin you qing lang	10
@@ -10106,6 +10142,7 @@ sort: by_weight
 粗犷的线条	cu guang de xian tiao	10
 醋磺内酯钾	cu huang nei zhi jia	10
 粗基毛管蚜	cu ji mao guan ya	10
+促甲状腺素	cu jia zhuang xian su	10
 促进和保护	cu jin he bao hu	10
 促进和保障	cu jin he bao zhang	10
 粗茎早熟禾	cu jing zao shu he	10
@@ -10190,6 +10227,7 @@ sort: by_weight
 催吐鲫鱼藤	cui tu ji yu teng	10
 催胃液素人	cui wei ye su ren	10
 翠竹泣墨痕	cui zhu qi mo hen	10
+存不存在啦	cun bu cun zai la	10
 存不确定性	cun bu que ding xing	10
 存出保证金	cun chu bao zheng jin	10
 存储的数据	cun chu de shu ju	10
@@ -10296,6 +10334,7 @@ sort: by_weight
 打不出来字	da bu chu lai zi	10
 打不出伤害	da bu chu shang hai	10
 打不打得过	da bu da de guo	10
+打不打卡啦	da bu da ka la	10
 打不打疫苗	da bu da yi miao	10
 打不打游戏	da bu da you xi	10
 打不到车啊	da bu dao che a	10
@@ -10584,6 +10623,7 @@ sort: by_weight
 大甲郡大字	da jia jun da zi	10
 大家来找碴	da jia lai zhao cha	10
 大家来找茬	da jia lai zhao cha	10
+大家乐超市	da jia le chao shi	10
 大驾卤簿图	da jia lu bu tu	10
 大甲妈祖宫	da jia ma zu gong	10
 大甲铁砧山	da jia tie zhen shan	10
@@ -10819,6 +10859,7 @@ sort: by_weight
 大蒜的味道	da suan de wei dao	10
 大蒜和生姜	da suan he sheng jiang	10
 大蒜和洋葱	da suan he yang cong	10
+打算买什么	da suan mai shen me	10
 大蒜切成末	da suan qie cheng mo	10
 大蒜是个宝	da suan shi ge bao	10
 大唐不夜城	da tang bu ye cheng	10
@@ -11015,6 +11056,7 @@ sort: by_weight
 代表人或其	dai biao ren huo qi	10
 代表性景点	dai biao xing jing dian	10
 代表性人物	dai biao xing ren wu	10
+戴不戴帽子	dai bu dai mao zi	10
 待不下去了	dai bu xia qu le	10
 带叉电瓶车	dai cha dian ping che	10
 待春暖花开	dai chun nuan hua kai	10
@@ -11321,6 +11363,7 @@ sort: by_weight
 淡定与从容	dan ding yu cong rong	10
 单斗挖掘机	dan dou wa jue ji	10
 单独关税区	dan du guan shui qu	10
+单独写一行	dan du xie yi hang	10
 疸而不渴者	dan er bu ke zhe	10
 单发或多发	dan fa huo duo fa	10
 单发型地震	dan fa xing di zhen	10
@@ -11389,6 +11432,7 @@ sort: by_weight
 但苦喘短气	dan ku chuan duan qi	10
 单块效果器	dan kuai xiao guo qi	10
 淡蓝的天空	dan lan de tian kong	10
+淡蓝色的心	dan lan se de xin	10
 蛋佬的棉袄	dan lao de mian ao	10
 单了几十年	dan le ji shi nian	10
 丹李二氏法	dan li er shi fa	10
@@ -11686,6 +11730,7 @@ sort: by_weight
 当全职妈妈	dang quan zhi ma ma	10
 当全职太太	dang quan zhi tai tai	10
 党群工作部	dang qun gong zuo bu	10
+当然不会再	dang ran bu hui zai	10
 荡然无存了	dang ran wu cun le	10
 当茹瓦积分	dang ru wa ji fen	10
 当上皇帝后	dang shang huang di hou	10
@@ -11939,6 +11984,8 @@ sort: by_weight
 倒卖文物罪	dao mai wen wu zui	10
 倒霉的事情	dao mei de shi qing	10
 倒霉的一天	dao mei de yi tian	10
+倒没问题啊	dao mei wen ti a	10
+倒没有多少	dao mei you duo shao	10
 道咪卑利士	dao mi bei li shi	10
 道明会教堂	dao ming hui jiao tang	10
 到明珠广场	dao ming zhu guang chang	10
@@ -12227,6 +12274,7 @@ sort: by_weight
 的恋爱物语	de lian ai wu yu	10
 德鲁德模型	de lu de mo xing	10
 的漫画续集	de man hua xu ji	10
+得没得到呀	de mei de dao ya	10
 的美国悲剧	de mei guo bei ju	10
 的美妙人生	de mei miao ren sheng	10
 的没完没了	de mei wan mei liao	10
@@ -12363,6 +12411,7 @@ sort: by_weight
 的自然环境	de zi ran huan jing	10
 的自由内容	de zi you nei rong	10
 的最后警告	de zui hou jing gao	10
+得做点什么	de zuo dian shen me	10
 的作品非常	de zuo pin fei chang	10
 的作用加强	de zuo yong jia qiang	10
 的作者问题	de zuo zhe wen ti	10
@@ -12554,10 +12603,12 @@ sort: by_weight
 第八路军第	di ba lu jun di	10
 第八日的蝉	di ba ri de chan	10
 第八十二回	di ba shi er hui	10
+第八十二集	di ba shi er ji	10
 第八十九回	di ba shi jiu hui	10
 第八十六回	di ba shi liu hui	10
 第八十七回	di ba shi qi hui	10
 第八十四回	di ba shi si hui	10
+第八十四集	di ba shi si ji	10
 第八十五回	di ba shi wu hui	10
 第八十一回	di ba shi yi hui	10
 狄百瑞教授	di bai rui jiao shou	10
@@ -12669,6 +12720,7 @@ sort: by_weight
 第二十二章	di er shi er zhang	10
 第二十九回	di er shi jiu hui	10
 第二十九集	di er shi jiu ji	10
+第二十九届	di er shi jiu jie	10
 第二十九军	di er shi jiu jun	10
 第二十六回	di er shi liu hui	10
 第二十六集	di er shi liu ji	10
@@ -12687,9 +12739,11 @@ sort: by_weight
 第二十四章	di er shi si zhang	10
 第二十五回	di er shi wu hui	10
 第二十五章	di er shi wu zhang	10
+第二十一层	di er shi yi ceng	10
 第二十一回	di er shi yi hui	10
 第二十一集	di er shi yi ji	10
 第二十一季	di er shi yi ji	10
+第二十一轮	di er shi yi lun	10
 第二十一章	di er shi yi zhang	10
 第二手来源	di er shou lai yuan	10
 第二手资料	di er shou zi liao	10
@@ -12763,11 +12817,13 @@ sort: by_weight
 低阶无穷小	di jie wu qiong xiao	10
 涤锦复合丝	di jin fu he si	10
 狄金森学院	di jin sen xue yuan	10
+低筋小麦粉	di jin xiao mai fen	10
 帝京景物略	di jing jing wu lve	10
 第九大行星	di jiu da xing xing	10
 第九颗行星	di jiu ke xing xing	10
 第九世班禅	di jiu shi ban chan	10
 第九十二回	di jiu shi er hui	10
+第九十二期	di jiu shi er qi	10
 第九十九回	di jiu shi jiu hui	10
 第九十六回	di jiu shi liu hui	10
 第九十七回	di jiu shi qi hui	10
@@ -13016,6 +13072,7 @@ sort: by_weight
 第三十二章	di san shi er zhang	10
 第三十九回	di san shi jiu hui	10
 第三十九集	di san shi jiu ji	10
+第三十九届	di san shi jiu jie	10
 第三十六回	di san shi liu hui	10
 第三十六集	di san shi liu ji	10
 第三十六届	di san shi liu jie	10
@@ -13029,6 +13086,7 @@ sort: by_weight
 第三十王朝	di san shi wang chao	10
 第三十五回	di san shi wu hui	10
 第三十五章	di san shi wu zhang	10
+第三十一层	di san shi yi ceng	10
 第三十一次	di san shi yi ci	10
 第三十一回	di san shi yi hui	10
 第三十一集	di san shi yi ji	10
@@ -13106,6 +13164,7 @@ sort: by_weight
 第四任妻子	di si ren qi zi	10
 第四十八章	di si shi ba zhang	10
 第四十二回	di si shi er hui	10
+第四十二届	di si shi er jie	10
 第四十二章	di si shi er zhang	10
 第四十九回	di si shi jiu hui	10
 第四十九集	di si shi jiu ji	10
@@ -13115,6 +13174,7 @@ sort: by_weight
 第四十六章	di si shi liu zhang	10
 第四十七回	di si shi qi hui	10
 第四十七集	di si shi qi ji	10
+第四十七篇	di si shi qi pian	10
 第四十三章	di si shi san zhang	10
 第四十四回	di si shi si hui	10
 第四十四期	di si shi si qi	10
@@ -13180,6 +13240,7 @@ sort: by_weight
 第五人格中	di wu ren ge zhong	10
 地无三尺平	di wu san chi ping	10
 地无三里平	di wu san li ping	10
+第五十八届	di wu shi ba jie	10
 第五十二回	di wu shi er hui	10
 第五十二集	di wu shi er ji	10
 第五适合者	di wu shi he zhe	10
@@ -13295,6 +13356,7 @@ sort: by_weight
 第一范畴集	di yi fan chou ji	10
 第一房间孔	di yi fang jian kong	10
 第一感觉就	di yi gan jue jiu	10
+第一个字儿	di yi ge zi er	10
 第一和第三	di yi he di san	10
 第一级产业	di yi ji chan ye	10
 第一集封面	di yi ji feng mian	10
@@ -13309,6 +13371,7 @@ sort: by_weight
 第一金刚队	di yi jin gang dui	10
 第一局输了	di yi ju shu le	10
 第一颗扣子	di yi ke kou zi	10
+第一颗氢弹	di yi ke qing dan	10
 第一颗行星	di yi ke xing xing	10
 第一类尖点	di yi lei jian dian	10
 第一类相变	di yi lei xiang bian	10
@@ -14528,6 +14591,7 @@ sort: by_weight
 东西方文明	dong xi fang wen ming	10
 东西方艺术	dong xi fang yi shu	10
 东西方中心	dong xi fang zhong xin	10
+东西十二区	dong xi shi er qu	10
 东下冯遗址	dong xia feng yi zhi	10
 东邪黄药师	dong xie huang yao shi	10
 洞穴震积岩	dong xue zhen ji yan	10
@@ -14577,6 +14641,7 @@ sort: by_weight
 都不是个事	dou bu shi ge shi	10
 都不是善茬	dou bu shi shan cha	10
 都不太说话	dou bu tai shuo hua	10
+都不要见了	dou bu yao jian le	10
 都不愿意出	dou bu yuan yi chu	10
 都不在话下	dou bu zai hua xia	10
 都曾经有过	dou ceng jing you guo	10
@@ -14657,6 +14722,7 @@ sort: by_weight
 都罗展望台	dou luo zhan wang tai	10
 都马粗安岩	dou ma cu an yan	10
 都没地方花	dou mei di fang hua	10
+都没有获得	dou mei you huo de	10
 都没有交集	dou mei you jiao ji	10
 都弥足珍贵	dou mi zu zhen gui	10
 都乃河勇人	dou nai he yong ren	10
@@ -15384,15 +15450,13 @@ sort: by_weight
 对数坐标纸	dui shu zuo biao zhi	10
 对睡眠不好	dui shui mian bu hao	10
 对他的称呼	dui ta de cheng hu	10
-对她的承诺	dui ta de cheng nuo	10
+对他的承诺	dui ta de cheng nuo	10
 对他的了解	dui ta de liao jie	10
-对她的了解	dui ta de liao jie	10
-对她的评价	dui ta de ping jia	10
+对他的评价	dui ta de ping jia	10
 对他的期望	dui ta de qi wang	10
 对他的态度	dui ta de tai du	10
 对他的信任	dui ta de xin ren	10
 对他的依赖	dui ta de yi lai	10
-对她的依赖	dui ta de yi lai	10
 对他们不利	dui ta men bu li	10
 对外关系部	dui wai guan xi bu	10
 对外关系史	dui wai guan xi shi	10
@@ -15482,6 +15546,7 @@ sort: by_weight
 多波段摄象	duo bo duan she xiang	10
 多波段遥感	duo bo duan yao gan	10
 躲不过十五	duo bu guo shi wu	10
+躲不了一世	duo bu liao yi shi	10
 多部门协作	duo bu men xie zuo	10
 多布纳反应	duo bu na fan ying	10
 多部未华子	duo bu wei hua zi	10
@@ -16331,6 +16396,7 @@ sort: by_weight
 二十分钟后	er shi fen zhong hou	10
 二十国集团	er shi guo ji tuan	10
 二十几岁时	er shi ji sui shi	10
+二十几条街	er shi ji tiao jie	10
 儿时记忆里	er shi ji yi li	10
 儿时记忆中	er shi ji yi zhong	10
 二十进代码	er shi jin dai ma	10
@@ -16342,32 +16408,43 @@ sort: by_weight
 二十里铺站	er shi li pu zhan	10
 二时临斋仪	er shi lin zhai yi	10
 二十六进制	er shi liu jin zhi	10
+二十六秒钟	er shi liu miao zhong	10
 二十六岁了	er shi liu sui le	10
 二十面体的	er shi mian ti de	10
 二式内火艇	er shi nei huo ting	10
 二十七杯酒	er shi qi bei jiu	10
+二十七分钟	er shi qi fen zhong	10
 二十七画生	er shi qi hua sheng	10
 二十七面体	er shi qi mian ti	10
 二十七星宿	er shi qi xing xiu	10
+二十三点钟	er shi san dian zhong	10
+二十三秒钟	er shi san miao zhong	10
+二十三小时	er shi san xiao shi	10
 二十世纪末	er shi shi ji mo	10
 尔时世尊告	er shi shi zun gao	10
 二十四胞体	er shi si bao ti	10
 二十四边形	er shi si bian xing	10
 二十四城记	er shi si cheng ji	10
 二十四道拐	er shi si dao guai	10
+二十四分钟	er shi si fen zhong	10
 二十四个字	er shi si ge zi	10
 二十四面体	er shi si mian ti	10
+二十四秒钟	er shi si miao zhong	10
 二十四诗品	er shi si shi pin	10
 二十四孝图	er shi si xiao tu	10
 二十味沉香	er shi wei chen xiang	10
 二十味疏肝	er shi wei shu gan	10
 二十五别史	er shi wu bie shi	10
 二十五岁时	er shi wu sui shi	10
+二十五小时	er shi wu xiao shi	10
 二是要强化	er shi yao qiang hua	10
 二是要严格	er shi yao yan ge	10
+二十一点钟	er shi yi dian zhong	10
 二十一度母	er shi yi du mu	10
+二十一秒钟	er shi yi miao zhong	10
 二十一世纪	er shi yi shi ji	10
 二十一岁时	er shi yi sui shi	10
+二十一小时	er shi yi xiao shi	10
 二十一种人	er shi yi zhong ren	10
 二式战斗机	er shi zhan dou ji	10
 二手车估价	er shou che gu jia	10
@@ -16427,6 +16504,7 @@ sort: by_weight
 而为人所知	er wei ren suo zhi	10
 耳蜗植入物	er wo zhi ru wu	10
 二酰基甘油	er xian ji gan you	10
+二仙桥北路	er xian qiao bei lu	10
 二相抽样法	er xiang chou yang fa	10
 二项式系数	er xiang shi xi shu	10
 二项展开式	er xiang zhan kai shi	10
@@ -16442,6 +16520,7 @@ sort: by_weight
 二样本问题	er yang ben wen ti	10
 耳药物烧灼	er yao wu shao zhuo	10
 二叶亭四迷	er ye ting si mi	10
+二一四九年	er yi si jiu nian	10
 二一添作五	er yi tian zuo wu	10
 二亿五千万	er yi wu qian wan	10
 二因子交配	er yin zi jiao pei	10
@@ -16460,6 +16539,8 @@ sort: by_weight
 二原子气体	er yuan zi qi ti	10
 二月的胜者	er yue de sheng zhe	10
 二月二十八	er yue er shi ba	10
+二月十二号	er yue shi er hao	10
+二月十一号	er yue shi yi hao	10
 二杂种系统	er za zhong xi tong	10
 二者病郁冒	er zhe bing yu mao	10
 二者的关系	er zhe de guan xi	10
@@ -17528,6 +17609,7 @@ sort: by_weight
 防晒和隔离	fang shai he ge li	10
 房山城关站	fang shan cheng guan zhan	10
 方山定林寺	fang shan ding lin si	10
+房山东大桥	fang shan dong da qiao	10
 房山区区长	fang shan qu qu zhang	10
 房山线北延	fang shan xian bei yan	10
 方山玄武岩	fang shan xuan wu yan	10
@@ -17802,6 +17884,7 @@ sort: by_weight
 非常不利的	fei chang bu li de	10
 非常不实用	fei chang bu shi yong	10
 非常不现实	fei chang bu xian shi	10
+非常不智能	fei chang bu zhi neng	10
 非肠道给药	fei chang dao gei yao	10
 非常地感动	fei chang de gan dong	10
 非常地开心	fei chang de kai xin	10
@@ -17830,6 +17913,7 @@ sort: by_weight
 非常女会长	fei chang nv hui zhang	10
 非常清晰地	fei chang qing xi de	10
 非常索凸务	fei chang suo tu wu	10
+非常小心地	fei chang xiao xin de	10
 非常幸运地	fei chang xing yun de	10
 非常迅速地	fei chang xun su de	10
 非常异视界	fei chang yi shi jie	10
@@ -19616,7 +19700,7 @@ sort: by_weight
 涪陵体育场	fu ling ti yu chang	10
 复六方双锥	fu liu fang shuang zhui	10
 服六戊气法	fu liu wu qi fa	10
-福禄寿禧财	fu lu shou xi cai	10
+福禄寿喜财	fu lu shou xi cai	10
 富伦多尔夫	fu lun duo er fu	10
 弗洛登战役	fu luo deng zhan yi	10
 弗罗厄德角	fu luo e de jiao	10
@@ -20051,6 +20135,7 @@ sort: by_weight
 服用的药物	fu yong de yao wu	10
 阜永路口西	fu yong lu kou xi	10
 服用优甲乐	fu yong you jia le	10
+富有爱心地	fu you ai xin di	10
 妇幼保健所	fu you bao jian suo	10
 妇幼保健院	fu you bao jian yuan	10
 妇幼保健站	fu you bao jian zhan	10
@@ -20118,9 +20203,7 @@ sort: by_weight
 腹中的胎儿	fu zhong de tai er	10
 府中三人众	fu zhong san ren zhong	10
 抚州采茶戏	fu zhou cai cha xi	10
-抚州高新区	fu zhou gao xin qu	10
 覆舟山之战	fu zhou shan zhi zhan	10
-抚州市政府	fu zhou shi zheng fu	10
 腹主动脉丛	fu zhu dong mai cong	10
 辅助分类账	fu zhu fen lei zhang	10
 辅助分类帐	fu zhu fen lei zhang	10
@@ -20389,9 +20472,12 @@ sort: by_weight
 赶到现场后	gan dao xian chang hou	10
 赶到现场时	gan dao xian chang shi	10
 干得不错啊	gan de bu cuo a	10
+干得不错吗	gan de bu cuo ma	10
+干得不好啊	gan de bu hao a	10
 甘德怀事件	gan de huai shi jian	10
 干的那些事	gan de na xie shi	1000
 干得怎么样	gan de zen me yang	10
+干得真棒啊	gan de zhen bang a	10
 甘地诞辰日	gan di dan chen ri	10
 干地黄十两	gan di huang shi liang	10
 甘地纪念馆	gan di ji nian guan	10
@@ -20463,7 +20549,6 @@ sort: by_weight
 柑橘大实蝇	gan ju da shi ying	10
 甘桔防风汤	gan ju fang feng tang	10
 甘菊荆芥汤	gan ju jing jie tang	10
-柑桔全爪螨	gan ju quan zhao man	10
 肝巨噬细胞	gan ju shi xi bao	10
 柑橘味香气	gan ju wei xiang qi	10
 柑桔研究所	gan ju yan jiu suo	10
@@ -20471,6 +20556,7 @@ sort: by_weight
 感觉不到爱	gan jue bu dao ai	10
 感觉不到累	gan jue bu dao lei	10
 感觉传导路	gan jue chuan dao lu	10
+感觉很心酸	gan jue hen xin suan	10
 感觉接收器	gan jue jie shou qi	10
 感觉接受器	gan jue jie shou qi	10
 干绝热过程	gan jue re guo cheng	10
@@ -20503,6 +20589,8 @@ sort: by_weight
 干了件大事	gan le jian da shi	10
 干了些什么	gan le xie shen me	10
 干了一天活	gan le yi tian huo	10
+干了一晚上	gan le yi wan shang	12
+肝了一晚上	gan le yi wan shang	10
 甘李根白皮	gan li gen bai pi	10
 干练的发型	gan lian de fa xing	10
 肝镰状韧带	gan lian zhuang ren dai	10
@@ -20528,6 +20616,7 @@ sort: by_weight
 赣南行政区	gan nan xing zheng qu	10
 赣南医学院	gan nan yi xue yuan	10
 肝内外胆管	gan nei wai dan guan	10
+干你妈逼的	gan ni ma bi de	10
 敢怒不敢言	gan nu bu gan yan	10
 干呕而利者	gan ou er li zhe	10
 甘前岩遗址	gan qian yan yi zhi	10
@@ -20995,12 +21084,14 @@ sort: by_weight
 高阶膜法师	gao jie mo fa shi	10
 高阶偏导数	gao jie pian dao shu	10
 高阶无穷小	gao jie wu qiong xiao	10
+高筋小麦粉	gao jin xiao mai fen	10
 高精度乘法	gao jing du cheng fa	10
 高精度磁法	gao jing du ci fa	10
 高精度加法	gao jing du jia fa	10
 高井麻巳子	gao jing ma si zi	10
 高净值人士	gao jing zhi ren shi	10
 高聚金葡素	gao ju jin pu su	10
+高开衩设计	gao kai cha she ji	10
 高亢的歌声	gao kang de ge sheng	10
 高亢的声音	gao kang de sheng yin	10
 高考的成绩	gao kao de cheng ji	10
@@ -21835,6 +21926,7 @@ sort: by_weight
 给母亲的信	gei mu qin de xin	10
 给你表演个	gei ni biao yan ge	10
 给你点提示	gei ni dian ti shi	10
+给你发电话	gei ni fa dian hua	10
 给你更好的	gei ni geng hao de	10
 给你哈音乐	gei ni ha yin yue	10
 给你面子的	gei ni mian zi de	10
@@ -21872,6 +21964,7 @@ sort: by_weight
 根本的问题	gen ben de wen ti	10
 根本的原因	gen ben de yuan yin	10
 根本就不听	gen ben jiu bu ting	10
+根本就不想	gen ben jiu bu xiang	10
 根本没有路	gen ben mei you lu	10
 根本性变革	gen ben xing bian ge	10
 根本攒不下	gen ben zan bu xia	10
@@ -21928,6 +22021,7 @@ sort: by_weight
 跟模特似的	gen mo te shi de	10
 根内固位体	gen nei gu wei ti	10
 跟你很熟吗	gen ni hen shu ma	10
+跟你一样快	gen ni yi yang kuai	10
 跟女人聊天	gen nv ren liao tian	10
 跟女人似的	gen nv ren shi de	10
 跟女生聊天	gen nv sheng liao tian	10
@@ -21951,6 +22045,7 @@ sort: by_weight
 跟往年一样	gen wang nian yi yang	10
 根文件系统	gen wen jian xi tong	10
 跟我们似的	gen wo men shi de	10
+跟我一个班	gen wo yi ge ban	10
 跟膝胫试验	gen xi jing shi yan	10
 跟洗澡似的	gen xi zao shi de	10
 跟下雨似的	gen xia yu shi de	10
@@ -22302,6 +22397,7 @@ sort: by_weight
 更可怕的事	geng ke pa de shi	10
 更科信号场	geng ke xin hao chang	10
 更宽的视野	geng kuan de shi ye	10
+更亮一点点	geng liang yi dian dian	10
 更难的事情	geng nan de shi qing	10
 更年安胶蘘	geng nian an jiao rang	10
 更年期癫痫	geng nian qi dian xian	10
@@ -22480,6 +22576,7 @@ sort: by_weight
 公共借阅权	gong gong jie yue quan	10
 恭恭敬敬的	gong gong jing jing de	10
 恭恭敬敬地	gong gong jing jing de	10
+公共汽车道	gong gong qi che dao	10
 公共汽电车	gong gong qi dian che	10
 公共事务室	gong gong shi wu shi	10
 公共卫生史	gong gong wei sheng shi	10
@@ -22991,6 +23088,7 @@ sort: by_weight
 工作室声明	gong zuo shi sheng ming	10
 工作与时日	gong zuo yu shi ri	10
 工作站机群	gong zuo zhan ji qun	10
+够不够大吧	gou bu gou da ba	10
 狗不嫌家贫	gou bu xian jia pin	10
 构成的威胁	gou cheng de wei xie	10
 钩翅弄蝶族	gou chi nong die zu	10
@@ -23123,7 +23221,6 @@ sort: by_weight
 古城墙遗址	gu cheng qiang yi zhi	10
 古城寨城址	gu cheng zhai cheng zhi	10
 古虫动物门	gu chong dong wu men	10
-谷川登志夫	gu chuan deng zhi fu	10
 骨脆性增加	gu cui xing zeng jia	10
 古代彩虹兽	gu dai cai hong shou	10
 古代大懒兽	gu dai da lan shou	10
@@ -23802,7 +23899,6 @@ sort: by_weight
 官园威惠庙	guan yuan wei hui miao	10
 管乐器技法	guan yue qi ji fa	10
 观月亚里莎	guan yue ya li sha	10
-观月亚里沙	guan yue ya li sha	10
 官越做越大	guan yue zuo yue da	10
 观枝干植物	guan zhi gan zhi wu	10
 关中城市群	guan zhong cheng shi qun	10
@@ -24619,6 +24715,7 @@ sort: by_weight
 国际广告节	guo ji guang gao jie	10
 国际光之年	guo ji guang zhi nian	10
 国际海关日	guo ji hai guan ri	10
+国际航空港	guo ji hang kong gang	10
 国际和平局	guo ji he ping ju	10
 国际和平年	guo ji he ping nian	10
 国际合作节	guo ji he zuo jie	10
@@ -24671,6 +24768,7 @@ sort: by_weight
 国际收支帐	guo ji shou zhi zhang	10
 国际数学日	guo ji shu xue ri	10
 国际水协会	guo ji shui xie hui	10
+国际司法学	guo ji si fa xue	10
 国际私法学	guo ji si fa xue	10
 国际素食日	guo ji su shi ri	10
 过集体生活	guo ji ti sheng huo	10
@@ -24751,6 +24849,7 @@ sort: by_weight
 国家侦察局	guo jia zhen cha ju	10
 国家主权说	guo jia zhu quan shuo	10
 国家自由日	guo jia zi you ri	10
+国家最高权	guo jia zui gao quan	10
 过减速带时	guo jian su dai shi	10
 国脚级球员	guo jiao ji qiu yuan	10
 果胶纤维素	guo jiao xian wei su	10
@@ -24810,6 +24909,8 @@ sort: by_weight
 过滤式分析	guo lv shi fen xi	10
 过滤网清洗	guo lv wang qing xi	10
 郭麦二氏法	guo mai er shi fa	10
+过没过来啊	guo mei guo lai a	10
+过没过来呀	guo mei guo lai ya	10
 郭美美事件	guo mei mei shi jian	10
 国棉十七厂	guo mian shi qi chang	10
 国民保健署	guo min bao jian shu	10
@@ -25113,8 +25214,10 @@ sort: by_weight
 海岸巡防署	hai an xun fang shu	10
 海岸岩溶型	hai an yan rong xing	10
 海报和标志	hai bao he biao zhi	10
+害不害怕啊	hai bu hai pa a	10
 海不可斗量	hai bu ke dou liang	10
 还不了解吗	hai bu liao jie ma	10
+还不明白吧	hai bu ming bai ba	10
 还不一定呢	hai bu yi ding ne	10
 海藏五饮汤	hai cang wu yin tang	10
 还差得很远	hai cha de hen yuan	10
@@ -25124,6 +25227,10 @@ sort: by_weight
 害处大无边	hai chu da wu bian	10
 海德公园角	hai de gong yuan jiao	10
 氦的同位素	hai de tong wei su	10
+还得是你呀	hai dei shi ni ya	10
+还得是他们	hai dei shi ta men	10
+还得是我们	hai dei shi wo men	10
+还得是我呀	hai dei shi wo ya	10
 还等什么呢	hai deng shen me ne	10
 海底二万里	hai di er wan li	10
 海底黑烟囱	hai di hei yan cong	10
@@ -25134,6 +25241,7 @@ sort: by_weight
 海淀区公司	hai dian qu gong si	10
 海淀区组织	hai dian qu zu zhi	10
 还躲不起吗	hai duo bu qi ma	10
+还发不发货	hai fa bu fa huo	10
 海防办事处	hai fang ban shi chu	10
 海分枝杆菌	hai fen zhi gan jun	10
 海更士原理	hai geng shi yuan li	10
@@ -25176,8 +25284,10 @@ sort: by_weight
 海陆空三栖	hai lu kong san qi	10
 海马回钩疝	hai ma hui gou shan	10
 海马香草酒	hai ma xiang cao jiu	10
+还没打到这	hai mei da dao zhe	10
 还没发现呢	hai mei fa xian ne	10
 还没开始吃	hai mei kai shi chi	10
+还没聊到这	hai mei liao dao zhe	10
 还没起床呢	hai mei qi chuang ne	10
 还没同意我	hai mei tong yi wo	10
 还没下班呢	hai mei xia ban ne	10
@@ -25224,8 +25334,11 @@ sort: by_weight
 海上田园站	hai shang tian yuan zhan	10
 海蛇天麻酒	hai she tian ma jiu	10
 海事等部门	hai shi deng bu men	10
+还是和你吗	hai shi he ni ma	12
+还适合你吗	hai shi he ni ma	10
 还是可乐好	hai shi ke le hao	10
 还是那个名	hai shi na ge ming	10
+还是那个你	hai shi na ge ni	10
 还是那句话	hai shi na ju hua	10
 还是武汉的	hai shi wu han de	10
 还是有优势	hai shi you you shi	10
@@ -25288,7 +25401,9 @@ sort: by_weight
 还有天理吗	hai you tian li ma	10
 还有王法吗	hai you wang fa ma	10
 还有一段呢	hai you yi duan ne	10
+还有一个包	hai you yi ge bao	10
 还有一个分	hai you yi ge fen	10
+还有一下午	hai you yi xia wu	10
 还有意义吗	hai you yi yi ma	10
 还有印象吗	hai you yin xiang ma	10
 海原大地震	hai yuan da di zhen	10
@@ -25601,6 +25716,11 @@ sort: by_weight
 毫不动摇地	hao bu dong yao de	10
 毫不费力地	hao bu fei li de	10
 毫不含糊地	hao bu han hu de	10
+好不好喝吗	hao bu hao he ma	10
+好不好使吧	hao bu hao shi ba	10
+好不好使吗	hao bu hao shi ma	10
+好不好笑吧	hao bu hao xiao ba	10
+好不好笑啦	hao bu hao xiao la	10
 毫不怀疑地	hao bu huai yi de	10
 毫不客气地	hao bu ke qi de	10
 毫不夸张地	hao bu kua zhang de	10
@@ -25849,6 +25969,7 @@ sort: by_weight
 好想对你说	hao xiang dui ni shuo	10
 好想告诉你	hao xiang gao su ni	10
 好想好想你	hao xiang hao xiang ni	10
+好像没有哦	hao xiang mei you o	10
 号香山居士	hao xiang shan ju shi	10
 好想谈恋爱	hao xiang tan lian ai	10
 好想养一只	hao xiang yang yi zhi	10
@@ -25973,7 +26094,13 @@ sort: by_weight
 何不秉烛游	he bu bing zhu you	10
 何不吃肉糜	he bu chi rou mi	10
 合不合得来	he bu he de lai	10
+喝不喝酒啊	he bu he jiu a	10
+喝不喝酒吧	he bu he jiu ba	10
+喝不喝酒吗	he bu he jiu ma	10
+喝不喝酒呀	he bu he jiu ya	10
+合不合理吧	he bu he li ba	10
 合不合适啊	he bu he shi a	10
+合不合适吧	he bu he shi ba	10
 合步楼公司	he bu lou gong si	10
 何不食蛋糕	he bu shi dan gao	10
 何不食肉糜	he bu shi rou mi	10
@@ -27199,6 +27326,7 @@ sort: by_weight
 弘毅国学社	hong yi guo xue she	10
 红一军团第	hong yi jun tuan di	10
 鸿毅旅行社	hong yi lv xing she	10
+红衣男孩儿	hong yi nan hai er	10
 红印花邮票	hong yin hua you piao	10
 红缨幼儿园	hong ying you er yuan	10
 红缨子高粱	hong ying zi gao liang	10
@@ -27849,6 +27977,7 @@ sort: by_weight
 画倒是画过	hua dao shi hua guo	10
 华德福教育	hua de fu jiao yu	10
 华德福学校	hua de fu xue xiao	10
+画得很好吧	hua de hen hao ba	10
 华灯初上时	hua deng chu shang shi	10
 花地文学榜	hua di wen xue bang	10
 花点儿时间	hua dian er shi jian	10
@@ -28401,6 +28530,7 @@ sort: by_weight
 焕发新生机	huan fa xin sheng ji	10
 环法自行车	huan fa zi xing che	10
 换个角度想	huan ge jiao du xiang	10
+还给我迟到	huan gei wo chi dao	10
 幻鬼三叠杀	huan gui san die sha	10
 缓过劲儿来	huan guo jin er lai	10
 缓过一口气	huan guo yi kou qi	10
@@ -28569,6 +28699,7 @@ sort: by_weight
 还书的时候	huan shu de shi hou	10
 幻书启世录	huan shu qi shi lu	10
 环塔拉力赛	huan ta la li sai	10
+还他妈说话	huan ta ma shuo hua	10
 环太平洋带	huan tai ping yang dai	10
 环太平洋的	huan tai ping yang de	10
 换汤不换药	huan tang bu huan yao	10
@@ -29389,6 +29520,7 @@ sort: by_weight
 灰婴症候群	hui ying zheng hou qun	10
 回油过滤器	hui you guo lv qi	10
 会有好运的	hui you hao yun de	10
+会有空指针	hui you kong zhi zhen	10
 会有矛盾的	hui you mao dun de	10
 回游式庭园	hui you shi ting yuan	10
 洄游性鱼类	hui you xing yu lei	10
@@ -29396,6 +29528,7 @@ sort: by_weight
 会源源不断	hui yuan yuan bu duan	10
 会越来越好	hui yue lai yue hao	10
 会越来越难	hui yue lai yue nan	10
+毁在你这里	hui zai ni zhe li	10
 慧择保险网	hui ze bao xian wang	10
 会泽大地缝	hui ze da di feng	10
 会泽正志斋	hui ze zheng zhi zhai	10
@@ -29418,6 +29551,7 @@ sort: by_weight
 回转椭圆面	hui zhuan tuo yuan mian	10
 会自行消失	hui zi xing xiao shi	10
 回族十三姓	hui zu shi san xing	10
+会做出什么	hui zuo chu shen me	10
 会作何反应	hui zuo he fan ying	10
 会作何感想	hui zuo he gan xiang	10
 混不下去了	hun bu xia qu le	10
@@ -29625,6 +29759,7 @@ sort: by_weight
 活得还不错	huo de hai bu cuo	10
 活得好好的	huo de hao hao de	10
 活的好好的	huo de hao hao de	10
+活得很好呀	huo de hen hao ya	10
 活得很潇洒	huo de hen xiao sa	10
 活得很辛苦	huo de hen xin ku	10
 活得很滋润	huo de hen zi run	10
@@ -31125,6 +31260,7 @@ sort: by_weight
 季亚科诺娃	ji ya ke nuo wa	10
 极压润滑油	ji ya run hua you	10
 集压缩映射	ji ya suo ying she	10
+挤压在一起	ji ya zai yi qi	10
 基岩地质图	ji yan di zhi tu	10
 集研发设计	ji yan fa she ji	10
 基岩反应谱	ji yan fan ying pu	10
@@ -32768,6 +32904,7 @@ sort: by_weight
 蒋大为老师	jiang da wei lao shi	10
 姜大一鸟奥	jiang da yi niao ao	10
 讲倒是讲过	jiang dao shi jiang guo	10
+讲得不好啊	jiang de bu hao a	10
 讲得太好了	jiang de tai hao le	10
 将抵达终点	jiang di da zhong dian	10
 奖电视大奖	jiang dian shi da jiang	10
@@ -33061,6 +33198,7 @@ sort: by_weight
 交待的工作	jiao dai de gong zuo	10
 交代深熔岩	jiao dai shen rong yan	10
 胶带输送机	jiao dai shu song ji	10
+交待在这儿	jiao dai zai zhe er	10
 角蛋白微丝	jiao dan bai wei si	10
 角蛋白小体	jiao dan bai xiao ti	10
 交到好朋友	jiao dao hao peng you	10
@@ -33140,6 +33278,7 @@ sort: by_weight
 矫健的身手	jiao jian de shen shou	10
 矫健的身影	jiao jian de shen ying	10
 矫健的身姿	jiao jian de shen zi	10
+椒江大酒店	jiao jiang da jiu dian	10
 皎皎者易污	jiao jiao zhe yi wu	10
 角接触轴承	jiao jie chu zhou cheng	10
 皎洁的明月	jiao jie de ming yue	10
@@ -33230,7 +33369,7 @@ sort: by_weight
 教你们做人	jiao ni men zuo ren	10
 教你在家做	jiao ni zai jia zuo	10
 叫你做什么	jiao ni zuo shen me	10
-胶粘剂产品	jiao nian ji chan pin	10
+胶黏剂产品	jiao nian ji chan pin	10
 焦浓重淡清	jiao nong zhong dan qing	10
 教弩台旧址	jiao nu tai jiu zhi	10
 交配的季节	jiao pei de ji jie	10
@@ -34483,7 +34622,8 @@ sort: by_weight
 津田健次郎	jin tian jian ci lang	10
 今天开始魔	jin tian kai shi mo	10
 今天是除夕	jin tian shi chu xi	10
-今天是几号	jin tian shi ji hao	10
+今天是几号	jin tian shi ji hao	12
+今天试机号	jin tian shi ji hao	10
 今天是七夕	jin tian shi qi xi	10
 津田塾大学	jin tian shu da xue	10
 今天推明天	jin tian tui ming tian	10
@@ -34497,6 +34637,7 @@ sort: by_weight
 近铁奈良站	jin tie nai liang zhan	10
 近铁难波站	jin tie nan bo zhan	10
 近铁蟹江站	jin tie xie jiang zhan	10
+紧贴着他们	jin tie zhe ta men	10
 金铁主义说	jin tie zhu yi shuo	10
 近听水无声	jin ting shui wu sheng	10
 尽头的风穴	jin tou de feng xue	10
@@ -34550,6 +34691,7 @@ sort: by_weight
 进销差价率	jin xiao cha jia lv	10
 今宵多珍重	jin xiao duo zhen zhong	10
 进销货台账	jin xiao huo tai zhang	10
+近些年的事	jin xie nian de shi	10
 近心点幅角	jin xin dian fu jiao	10
 近心点经度	jin xin dian jing du	10
 进行客户的	jin xing ke hu de	10
@@ -34947,7 +35089,9 @@ sort: by_weight
 经济适用房	jing ji shi yong fang	10
 经济适用男	jing ji shi yong nan	10
 经济适用女	jing ji shi yong nv	10
-经济适用型	jing ji shi yong xing	1002
+经济适用型	jing ji shi yong xing	12
+经济实用型	jing ji shi yong xing	11
+经济实用性	jing ji shi yong xing	10
 经济师职称	jing ji shi zhi cheng	10
 径迹探测器	jing ji tan ce qi	10
 京极堂系列	jing ji tang xi lie	10
@@ -35179,7 +35323,7 @@ sort: by_weight
 精确的分析	jing que de fen xi	10
 精确的数据	jing que de shu ju	10
 惊人的美貌	jing ren de mei mao	10
-惊人地相似	jing ren de xiang si	10
+惊人的相似	jing ren de xiang si	10
 惊人的一致	jing ren de yi zhi	10
 惊人的真相	jing ren de zhen xiang	10
 精锐的部队	jing rui de bu dui	10
@@ -35322,6 +35466,7 @@ sort: by_weight
 敬文图书馆	jing wen tu shu guan	10
 警务保障室	jing wu bao zhang shi	10
 景婺常高速	jing wu chang gao su	10
+警务处处长	jing wu chu chu zhang	10
 景物的描写	jing wu de miao xie	10
 警务化管理	jing wu hua guan li	10
 景婺黄高速	jing wu huang gao su	10
@@ -35615,6 +35760,7 @@ sort: by_weight
 九百二十八	jiu bai er shi ba	10
 九百九十八	jiu bai jiu shi ba	10
 九百七十八	jiu bai qi shi ba	10
+九百七十万	jiu bai qi shi wan	10
 旧白云机场	jiu bai yun ji chang	10
 旧保守主义	jiu bao shou zhu yi	10
 酒包装设计	jiu bao zhuang she ji	10
@@ -35750,6 +35896,7 @@ sort: by_weight
 酒精温度计	jiu jing wen du ji	10
 酒精消毒液	jiu jing xiao du ye	10
 酒精依赖症	jiu jing yi lai zheng	10
+究竟有多糟	jiu jing you duo zao	10
 酒精与健康	jiu jing yu jian kang	10
 九九八十一	jiu jiu ba shi yi	10
 久久必身𥆧	jiu jiu bi shen run	10
@@ -35814,6 +35961,7 @@ sort: by_weight
 就那几个人	jiu na ji ge ren	10
 救难小英雄	jiu nan xiao ying xiong	10
 就能实现的	jiu neng shi xian de	10
+就你妈离谱	jiu ni ma li pu	10
 酒酿小圆子	jiu niang xiao yuan zi	10
 就怕己不正	jiu pa ji bu zheng	10
 九品官人法	jiu pin guan ren fa	10
@@ -35831,6 +35979,7 @@ sort: by_weight
 九七式鱼雷	jiu qi shi yu lei	10
 九千二百万	jiu qian er bai wan	10
 九千六百万	jiu qian liu bai wan	10
+九千七百万	jiu qian qi bai wan	10
 九千五百万	jiu qian wu bai wan	10
 久强脑立清	jiu qiang nao li qing	10
 九腔十八调	jiu qiang shi ba diao	10
@@ -35865,6 +36014,7 @@ sort: by_weight
 就石沉大海	jiu shi chen da hai	10
 酒是陈的香	jiu shi chen de xiang	10
 救世基督像	jiu shi ji du xiang	10
+九十几块钱	jiu shi ji kuai qian	10
 九十九道拐	jiu shi jiu dao guai	10
 九十九度中	jiu shi jiu du zhong	10
 九十九里滨	jiu shi jiu li bin	10
@@ -35996,6 +36146,7 @@ sort: by_weight
 酒越喝越暖	jiu yue he yue nuan	10
 九月九的酒	jiu yue jiu de jiu	10
 九月少年蓝	jiu yue shao nian lan	10
+九月十二号	jiu yue shi er hao	10
 九月四日站	jiu yue si ri zhan	10
 旧扎戈拉州	jiu zha ge la zhou	10
 九寨千古情	jiu zhai qian gu qing	10
@@ -36256,6 +36407,7 @@ sort: by_weight
 举全市之力	ju quan shi zhi li	10
 举全院之力	ju quan yuan zhi li	10
 举全镇之力	ju quan zhen zhi li	10
+居然没理会	ju ran mei li hui	10
 巨热力学势	ju re li xue shi	10
 巨人的花园	ju ren de hua yuan	10
 巨人的肩膀	ju ren de jian bang	10
@@ -36454,6 +36606,7 @@ sort: by_weight
 卷烟统税处	juan yan tong shui chu	10
 捐赠的物资	juan zeng de wu zi	10
 决不会产生	jue bu hui chan sheng	10
+绝不可使其	jue bu ke shi qi	10
 绝不能错过	jue bu neng cuo guo	10
 决不能错过	jue bu neng cuo guo	10
 决不能放弃	jue bu neng fang qi	10
@@ -36782,12 +36935,13 @@ sort: by_weight
 开搏通试验	kai bo tong shi yan	10
 开不得玩笑	kai bu de wan xiao	10
 凯布二氏夹	kai bu er shi jia	10
+开不开放吧	kai bu kai fang ba	10
+开不开会吧	kai bu kai hui ba	10
 凯布瑞尔岩	kai bu rui er yan	10
 开采方式为	kai cai fang shi wei	10
 开采块段法	kai cai kuai duan fa	10
 开采试验法	kai cai shi yan fa	10
-开叉的裙摆	kai cha de qun bai	10
-开叉的设计	kai cha de she ji	10
+开衩的裙摆	kai cha de qun bai	10
 开衩的设计	kai cha de she ji	10
 开车的感觉	kai che de gan jue	10
 开车的朋友	kai che de peng you	10
@@ -37198,6 +37352,7 @@ sort: by_weight
 砍十里桃花	kan shi li tao hua	10
 看水不是水	kan shui bu shi shui	10
 看谁在尖叫	kan shui zai jian jiao	10
+看似挺吃亏	kan si ting chi kui	10
 坎塔布利亚	kan ta bu li ya	10
 坎塔布里亚	kan ta bu li ya	10
 坎塔夫里亚	kan ta fu li ya	10
@@ -37211,6 +37366,7 @@ sort: by_weight
 看网络小说	kan wang luo xiao shuo	10
 看望慰问驻	kan wang wei wen zhu	10
 看我碧霄中	kan wo bi xiao zhong	10
+看我们笑话	kan wo men xiao hua	10
 看细水长流	kan xi shui chang liu	10
 看新闻联播	kan xin wen lian bo	10
 看也没看过	kan ye mei kan guo	10
@@ -37469,6 +37625,10 @@ sort: by_weight
 克卜勒猜想	ke bo le cai xiang	10
 克卜勒定律	ke bo le ding lv	10
 科布登主义	ke bu deng zhu yi	10
+可不仅是这	ke bu jin shi zhe	10
+可不可以吧	ke bu ke yi ba	10
+可不可以啦	ke bu ke yi la	10
+可不可以哇	ke bu ke yi wa	10
 科布罗尔岛	ke bu luo er dao	10
 可不知为何	ke bu zhi wei he	10
 克仓特罗膜	ke cang te luo mo	10
@@ -37800,6 +37960,7 @@ sort: by_weight
 克纳尔方法	ke na er fang fa	10
 科拿米公司	ke na mi gong si	10
 科纳提群岛	ke na ti qun dao	10
+可难得多了	ke nan de duo le	10
 壳内囊出血	ke nei nang chu xie	10
 可能是遗传	ke neng shi yi chuan	10
 可能喜欢她	ke neng xi huan ta	10
@@ -38006,6 +38167,7 @@ sort: by_weight
 可移动文物	ke yi dong wen wu	10
 刻意而为之	ke yi er wei zhi	10
 可以付款吗	ke yi fu kuan ma	10
+可以改地址	ke yi gai di zhi	10
 可以结婚不	ke yi jie hun bu	10
 可以经常喝	ke yi jing chang he	10
 可以看得出	ke yi kan de chu	10
@@ -38019,6 +38181,7 @@ sort: by_weight
 可以算的上	ke yi suan de shang	10
 可以投稿的	ke yi tou gao de	10
 可以选择从	ke yi xuan ze cong	10
+可以再改改	ke yi zai gai gai	10
 可以在家做	ke yi zai jia zuo	10
 可以再见嘛	ke yi zai jian ma	10
 可以再小点	ke yi zai xiao dian	10
@@ -38185,7 +38348,8 @@ sort: by_weight
 空气变形丝	kong qi bian xing si	10
 空气的湿度	kong qi de shi du	10
 空气电离室	kong qi dian li shi	10
-空气干燥基	kong qi gan zao ji	10
+空气干燥基	kong qi gan zao ji	12
+空气干燥机	kong qi gan zao ji	10
 空气还原法	kong qi huan yuan fa	10
 空气净化机	kong qi jing hua ji	10
 空气净化剂	kong qi jing hua ji	10
@@ -38494,6 +38658,8 @@ sort: by_weight
 跨专业联动	kua zhuan ye lian dong	10
 跨宗教婚姻	kua zong jiao hun yin	10
 跨座式单轨	kua zuo shi dan gui	10
+快不快乐啊	kuai bu kuai le a	10
+快不快乐啦	kuai bu kuai le la	10
 快差不多了	kuai cha bu duo le	10
 快刀洪吉童	kuai dao hong ji tong	10
 快到碗里去	kuai dao wan li qu	10
@@ -38906,6 +39072,7 @@ sort: by_weight
 拉韦齐群岛	la wei qi qun dao	10
 拉央拉央岛	la yang la yang dao	10
 腊月二十八	la yue er shi ba	10
+腊月十七号	la yue shi qi hao	10
 拉着她的手	la zhe ta de shou	10
 拉着他的手	la zhe ta de shou	10
 蜡烛的历史	la zhu de li shi	10
@@ -38913,6 +39080,7 @@ sort: by_weight
 拉住她的手	la zhu ta de shou	10
 辣子蒜羊血	la zi suan yang xue	10
 来巴彦淖尔	lai ba yan nao er	10
+来帮你查查	lai bang ni cha cha	10
 来帮助我们	lai bang zhu wo men	10
 来抱抱我吧	lai bao bao wo ba	10
 来啵儿一个	lai bo er yi ge	10
@@ -38921,6 +39089,7 @@ sort: by_weight
 来倒是来过	lai dao shi lai guo	10
 来岛又兵卫	lai dao you bing wei	10
 来的都是客	lai de dou shi ke	10
+来得太快啦	lai de tai kuai la	10
 来得太快了	lai de tai kuai le	10
 铼的同位素	lai de tong wei su	10
 来得这么快	lai de zhe me kuai	10
@@ -38988,7 +39157,9 @@ sort: by_weight
 来吸引顾客	lai xi yin gu ke	10
 来下路支援	lai xia lu zhi yuan	10
 来香格里拉	lai xiang ge li la	10
+来一根儿烟	lai yi gen er yan	10
 赖因哈特域	lai yin ha te yu	10
+赖在你这儿	lai zai ni zhe er	10
 来找我玩了	lai zhao wo wan le	10
 来这么一个	lai zhe me yi ge	10
 濑之本久史	lai zhi ben jiu shi	10
@@ -39186,6 +39357,7 @@ sort: by_weight
 老兵的回忆	lao bing de hui yi	10
 烙饼摊鸡蛋	lao bing tan ji dan	10
 劳勃狄尼洛	lao bo di ni luo	10
+老不老实吧	lao bu lao shi ba	10
 老长时间了	lao chang shi jian le	10
 老抽和生抽	lao chou he sheng chou	10
 捞出前一丁	lao chu qian yi ding	10
@@ -40478,7 +40650,7 @@ sort: by_weight
 连接已断开	lian jie yi duan kai	10
 连接有问题	lian jie you wen ti	10
 连接在一起	lian jie zai yi qi	12
-连结在一起	lian jie zai yi qi	10
+联结在一起	lian jie zai yi qi	10
 连接字符串	lian jie zi fu chuan	10
 炼金模拟器	lian jin mo ni qi	10
 炼金实验室	lian jin shi yan shi	10
@@ -40561,7 +40733,8 @@ sort: by_weight
 莲生桂子花	lian sheng gui zi hua	10
 链式前向星	lian shi qian xiang xing	10
 链束植物门	lian shu zhi wu men	10
-连说带比划	lian shuo dai bi hua	10
+连说带比划	lian shuo dai bi hua	12
+连说带比画	lian shuo dai bi hua	10
 连死都不怕	lian si dou bu pa	10
 连锁铜缺乏	lian suo tong que fa	10
 莲塘乳鸭图	lian tang ru ya tu	10
@@ -40978,7 +41151,8 @@ sort: by_weight
 辽阔的大海	liao kuo de da hai	10
 辽阔的海洋	liao kuo de hai yang	10
 辽阔的疆域	liao kuo de jiang yu	10
-辽阔的天空	liao kuo de tian kong	10
+辽阔的天空	liao kuo de tian kong	12
+寥廓的天空	liao kuo de tian kong	10
 辽阔的土地	liao kuo de tu di	10
 聊了会儿天	liao le hui er tian	10
 撩了下头发	liao le xia tou fa	10
@@ -41404,6 +41578,7 @@ sort: by_weight
 陵阳河遗址	ling yang he yi zhi	10
 菱叶捕鱼木	ling ye bu yu mu	10
 灵异彼岸花	ling yi bi an hua	10
+另一边远处	ling yi bian yuan chu	10
 另一道风景	ling yi dao feng jing	10
 灵异第六感	ling yi di liu gan	10
 另一段爱情	ling yi duan ai qing	10
@@ -41412,6 +41587,7 @@ sort: by_weight
 另一番景象	ling yi fan jing xiang	10
 另一个国度	ling yi ge guo du	10
 另一个老师	ling yi ge lao shi	10
+另一个天地	ling yi ge tian di	10
 另一个我吧	ling yi ge wo ba	10
 另一个现实	ling yi ge xian shi	10
 另一个伊甸	ling yi ge yi dian	10
@@ -41492,6 +41668,7 @@ sort: by_weight
 留德科尔斯	liu de ke er si	10
 柳德尼科夫	liu de ni ke fu	10
 留得青山在	liu de qing shan zai	10
+硫的同位素	liu de tong wei su	12
 镏的同位素	liu de tong wei su	10
 六等星之夜	liu deng xing zhi ye	10
 柳丁搁来乱	liu ding ge lai luan	10
@@ -41817,6 +41994,7 @@ sort: by_weight
 留与子孙耕	liu yu zi sun geng	10
 刘元瑄公馆	liu yuan xuan gong guan	10
 六月二十八	liu yue er shi ba	10
+六月十二号	liu yue shi er hao	10
 六月停战令	liu yue ting zhan ling	10
 六运湖农场	liu yun hu nong chang	10
 榴云细斑岩	liu yun xi ban yan	10
@@ -42362,7 +42540,7 @@ sort: by_weight
 洛克鲁姆岛	luo ke lu mu dao	10
 罗兰多骨折	luo lan duo gu zhe	10
 落泪的冲动	luo lei de chong dong	10
-萝莉塔风格	luo li ta feng ge	10
+洛丽塔风格	luo li ta feng ge	10
 瘰疬性苔藓	luo li xing tai xian	10
 裸露的岩石	luo lu de yan shi	10
 裸露型岩溶	luo lu xing yan rong	10
@@ -42392,6 +42570,7 @@ sort: by_weight
 落日的余晖	luo ri de yu hui	10
 落日归山海	luo ri gui shan hai	10
 落山的太阳	luo shan de tai yang	10
+落实到个人	luo shi dao ge ren	10
 洛施密特数	luo shi mi te shu	10
 螺施运输机	luo shi yun shu ji	10
 螺栓和螺母	luo shuan he luo mu	10
@@ -42442,6 +42621,7 @@ sort: by_weight
 落叶漫天飞	luo ye man tian fei	10
 落叶满天飞	luo ye man tian fei	10
 落英神剑掌	luo ying shen jian zhang	10
+落在她手里	luo zai ta shou li	10
 裸者与死者	luo zhe yu si zhe	10
 洛中洛外图	luo zhong luo wai tu	10
 螺洲古镇站	luo zhou gu zhen zhan	10
@@ -42862,6 +43042,8 @@ sort: by_weight
 卖到全世界	mai dao quan shi jie	10
 买倒是买过	mai dao shi mai guo	10
 卖得非常好	mai de fei chang hao	10
+卖得很好啊	mai de hen hao a	10
+卖得很好呀	mai de hen hao ya	10
 买的里八剌	mai de li ba la	10
 迈德年斯基	mai de nian si ji	10
 卖的什么药	mai de shen me yao	10
@@ -43581,6 +43763,7 @@ sort: by_weight
 美出新境界	mei chu xin jing jie	10
 每次抽奖都	mei ci chou jiang dou	10
 每次的都在	mei ci de dou zai	10
+没打到这儿	mei da dao zhe er	10
 美大集成灶	mei da ji cheng zao	10
 没打开似的	mei da kai shi de	10
 没大没小的	mei da mei xiao de	10
@@ -43595,6 +43778,7 @@ sort: by_weight
 美得不像话	mei de bu xiang hua	10
 美得不真实	mei de bu zhen shi	10
 煤的反应性	mei de fan ying xing	10
+美得很高级	mei de hen gao ji	10
 煤的挥发分	mei de hui fa fen	10
 煤的回收率	mei de hui shou lv	10
 美德伦理学	mei de lun li xue	10
@@ -43629,11 +43813,13 @@ sort: by_weight
 梅尔森条约	mei er sen tiao yue	10
 美发博物馆	mei fa bo wu guan	10
 没发朋友圈	mei fa peng you quan	10
+没法做的事	mei fa zuo de shi	10
 每分输出量	mei fen shu chu liang	10
 每分通气量	mei fen tong qi liang	10
 美肤螨灵霜	mei fu man ling shuang	10
 美孚润滑油	mei fu run hua you	10
 镁橄榄石瓷	mei gan lan shi ci	10
+没干人事儿	mei gan ren shi er	10
 美港关系法	mei gang guan xi fa	10
 每缸气门数	mei gang qi men shu	10
 美高梅金殿	mei gao mei jin dian	10
@@ -43642,8 +43828,10 @@ sort: by_weight
 每隔几分钟	mei ge ji fen zhong	10
 每隔几个月	mei ge ji ge yue	10
 每隔几十米	mei ge ji shi mi	10
+每个人心间	mei ge ren xin jian	10
 每隔十分钟	mei ge shi fen zhong	10
 每个玩家都	mei ge wan jia dou	10
+没给你钥匙	mei gei ni yao shi	10
 湄公河大案	mei gong he da an	10
 湄公河螺𩷶	mei gong he luo mang	10
 湄公河水系	mei gong he shui xi	10
@@ -43916,10 +44104,12 @@ sort: by_weight
 煤气化装置	mei qi hua zhuang zhi	10
 梅钦类公式	mei qin lei gong shi	10
 美髯公朱仝	mei ran gong zhu tong	10
+没人给我发	mei ren gei wo fa	10
 没人跟你抢	mei ren gen ni qiang	10
 没人认识他	mei ren ren shi ta	10
 没人认识她	mei ren ren shi ta	10
 美人私房菜	mei ren si fang cai	10
+没人要了吧	mei ren yao le ba	10
 每人一个月	mei ren yi ge yue	10
 美人鱼汪汪	mei ren yu wang wang	10
 美人鱼之恋	mei ren yu zhi lian	10
@@ -44168,6 +44358,7 @@ sort: by_weight
 没有办法去	mei you ban fa qu	10
 没有办法再	mei you ban fa zai	10
 没有丑女人	mei you chou nv ren	10
+没有错误时	mei you cuo wu shi	10
 没有方向性	mei you fang xiang xing	10
 没有回头路	mei you hui tou lu	10
 没有机会了	mei you ji hui le	10
@@ -44194,6 +44385,7 @@ sort: by_weight
 没有这个店	mei you zhe ge dian	10
 没有重量的	mei you zhong liang de	10
 没有阻扰的	mei you zu rao de	10
+没有做的事	mei you zuo de shi	10
 没羽箭张清	mei yu jian zhang qing	10
 美玉缀罗缨	mei yu zhui luo ying	10
 美元的地位	mei yuan de di wei	10
@@ -44209,6 +44401,7 @@ sort: by_weight
 梅泽堡条约	mei ze bao tiao yue	10
 美债收益率	mei zhai shou yi lv	10
 没长眼睛啊	mei zhang yan jing a	10
+没这个词语	mei zhe ge ci yu	10
 没遮拦穆弘	mei zhe lan mu hong	10
 没这么多事	mei zhe me duo shi	10
 煤直接液化	mei zhi jie ye hua	10
@@ -44485,17 +44678,13 @@ sort: by_weight
 咪咪动起来	mi mi dong qi lai	10
 迷迷糊糊的	mi mi hu hu de	10
 迷迷糊糊中	mi mi hu hu zhong	10
-咪咪见闻录	mi mi jian wen lu	10
 咪咪流浪记	mi mi liu lang ji	10
-咪咪猫儿控	mi mi mao er kong	10
-咪咪听音乐	mi mi ting yin yue	10
-咪咪小猫瓶	mi mi xiao mao ping	10
 米内葛尔岛	mi nei ge er dao	10
 米尼科伊岛	mi ni ke yi dao	10
 迷你特攻队	mi ni te gong dui	10
 迷你特工队	mi ni te gong dui	10
 迷你自存仓	mi ni zi cun cang	10
-弥诺斯文明	mi nuo si wen ming	10
+米诺斯文明	mi nuo si wen ming	10
 弥诺陶洛斯	mi nuo tao luo si	10
 米埔观鸟赛	mi pu guan niao sai	10
 眯起小眼睛	mi qi xiao yan jing	10
@@ -44844,6 +45033,7 @@ sort: by_weight
 明摆着的事	ming bai zhe de shi	10
 明报出版社	ming bao chu ban she	10
 名不见经传	ming bu jian jing zhuan	10
+明不明白吧	ming bu ming bai ba	10
 名草有主了	ming cao you zhu le	10
 明朝安远侯	ming chao an yuan hou	10
 明朝布政使	ming chao bu zheng shi	10
@@ -45286,6 +45476,7 @@ sort: by_weight
 陌上花开时	mo shang hua kai shi	10
 陌上花已开	mo shang hua yi kai	10
 陌上花又开	mo shang hua you kai	10
+抹上了一层	mo shang le yi ceng	10
 陌上人如玉	mo shang ren ru yu	10
 魔神坛斗士	mo shen tan dou shi	10
 魔神英雄坛	mo shen ying xiong tan	10
@@ -45431,6 +45622,7 @@ sort: by_weight
 牡丹花下死	mu dan hua xia si	10
 牡丹社事件	mu dan she shi jian	10
 牡丹园西里	mu dan yuan xi li	10
+牡丹园小区	mu dan yuan xiao qu	10
 慕德家一夜	mu de jia yi ye	10
 目的地酒吧	mu di di jiu ba	10
 目的和动机	mu di he dong ji	10
@@ -45671,6 +45863,7 @@ sort: by_weight
 哪个学校了	na ge xue xiao le	10
 那根拉山口	na gen la shan kou	10
 那还用说吗	na hai yong shuo ma	10
+哪还有办法	na hai you ban fa	10
 那毫无疑问	na hao wu yi wen	10
 那洪立交站	na hong li jiao zhan	10
 钠辉细岗岩	na hui xi gang yan	10
@@ -45725,10 +45918,12 @@ sort: by_weight
 那能怎么办	na neng zen me ban	10
 拿你当备胎	na ni dang bei tai	10
 拿你没办法	na ni mei ban fa	10
+那你在干吗	na ni zai gan ma	10
 那你怎么办	na ni zen me ban	10
 拿你怎么办	na ni zen me ban	10
 那年才七岁	na nian cai qi sui	10
 拿诺贝尔奖	na nuo bei er jiang	10
+那怕加上了	na pa jia shang le	10
 钠排泄分数	na pai xie fen shu	10
 拿破仑大帝	na po lun da di	10
 拿起又放下	na qi you fang xia	10
@@ -45795,6 +45990,8 @@ sort: by_weight
 那一丝忧伤	na yi si you shang	10
 那一套东西	na yi tao dong xi	10
 那一天传奇	na yi tian chuan qi	10
+那一天都行	na yi tian dou xing	10
+哪一条路走	na yi tiao lu zou	10
 哪有不湿鞋	na you bu shi xie	10
 那又能怎样	na you neng zen yang	10
 那有什么用	na you shen me yong	10
@@ -46000,6 +46197,7 @@ sort: by_weight
 男人与女人	nan ren yu nv ren	10
 男人真命苦	nan ren zhen ming ku	10
 楠萨奇条约	nan sa qi tiao yue	10
+南山田中行	nan shan tian zhong xing	10
 男神和女神	nan shen he nv shen	10
 男神执事团	nan shen zhi shi tuan	10
 男生的发型	nan sheng de fa xing	10
@@ -46310,6 +46508,7 @@ sort: by_weight
 能帮上忙的	neng bang shang mang de	10
 能不能别关	neng bu neng bie guan	10
 能不能补救	neng bu neng bu jiu	12
+能不能打败	neng bu neng da bai	10
 能不能复合	neng bu neng fu he	10
 能不能挽回	neng bu neng wan hui	10
 能沉得住气	neng chen de zhu qi	10
@@ -46469,6 +46668,7 @@ sort: by_weight
 你不是俗人	ni bu shi su ren	10
 你不用管了	ni bu yong guan le	10
 逆步自同构	ni bu zi tong gou	10
+你猜猜看呐	ni cai cai kan na	10
 你猜的没错	ni cai de mei cuo	10
 你猜你再猜	ni cai ni zai cai	10
 你猜是什么	ni cai shi shen me	10
@@ -46536,6 +46736,7 @@ sort: by_weight
 拟共形映射	ni gong xing ying she	10
 拟共形映照	ni gong xing ying zhao	10
 你管得着吗	ni guan de zhao ma	10
+你管得真宽	ni guan de zhen kuan	10
 逆光电效应	ni guang dian xiao ying	10
 倪光南院士	ni guang nan yuan shi	10
 你过段时间	ni guo duan shi jian	10
@@ -46627,6 +46828,7 @@ sort: by_weight
 你们的天父	ni men de tian fu	10
 你们的优势	ni men de you shi	10
 你们的友谊	ni men de you yi	10
+你们要真是	ni men yao zhen shi	10
 你们在哪里	ni men zai na li	10
 你们在那里	ni men zai na li	10
 拟幂零算子	ni mi ling suan zi	10
@@ -46638,6 +46840,7 @@ sort: by_weight
 你哪个区的	ni na ge qu de	10
 你那么爱她	ni na me ai ta	10
 你那么爱他	ni na me ai ta	10
+你那有没有	ni na you mei you	10
 你奶奶的熊	ni nai nai de xiong	10
 你奶奶个熊	ni nai nai ge xiong	10
 呢喃的歌声	ni nan de ge sheng	10
@@ -46720,10 +46923,12 @@ sort: by_weight
 逆双曲函数	ni shuang qu han shu	10
 逆水不行舟	ni shui bu xing zhou	10
 你说得不对	ni shuo de bu dui	10
+你说得错了	ni shuo de cuo le	10
 你说得都对	ni shuo de dou dui	10
 你说得好听	ni shuo de hao ting	10
 你说得没错	ni shuo de mei cuo	10
 你说的真对	ni shuo de zhen dui	10
+你说会娶我	ni shuo hui qu wo	10
 你说什么这	ni shuo shen me zhe	10
 你算老几啊	ni suan lao ji a	10
 你算哪根葱	ni suan na gen cong	10
@@ -46748,6 +46953,7 @@ sort: by_weight
 拟微分算子	ni wei fen suan zi	10
 你为什么哭	ni wei shen me ku	10
 尼维斯联邦	ni wei si lian bang	10
+你喂我喝吧	ni wei wo he ba	10
 你问的问题	ni wen de wen ti	10
 你我的怡宝	ni wo de yi bao	10
 你我皆凡人	ni wo jie fan ren	10
@@ -46776,6 +46982,7 @@ sort: by_weight
 拟线性双曲	ni xian xing shuang qu	10
 拟线性椭圆	ni xian xing tuo yuan	10
 你现在还小	ni xian zai hai xiao	10
+你想得美呀	ni xiang de mei ya	10
 你想得太多	ni xiang de tai duo	10
 逆向伏安法	ni xiang fu an fa	10
 逆向量迭代	ni xiang liang die dai	10
@@ -46796,11 +47003,14 @@ sort: by_weight
 你眼带笑意	ni yan dai xiao yi	10
 拟洋风建筑	ni yang feng jian zhu	10
 拟氧族元素	ni yang zu yuan su	10
+你要到那儿	ni yao dao na er	10
 你要乖乖的	ni yao guai guai de	10
+你要请我吃	ni yao qing wo chi	10
 你要忍一下	ni yao ren yi xia	12
 你要人一下	ni yao ren yi xia	10
 你要死要活	ni yao si yao huo	10
 你也不会想	ni ye bu hui xiang	10
+你也在那儿	ni ye zai na er	10
 你一定会想	ni yi ding hui xiang	10
 你一个人住	ni yi ge ren zhu	10
 你义无反顾	ni yi wu fan gu	10
@@ -47086,6 +47296,7 @@ sort: by_weight
 涅伊斯基区	nie yi si ji qu	10
 孽欲杀人夜	nie yu sha ren ye	10
 颞中动脉沟	nie zhong dong mai gou	10
+您还未登录	nin hai wei deng lu	10
 您解释一下	nin jie shi yi xia	10
 您可能喜欢	nin ke neng xi huan	10
 您如何看待	nin ru he kan dai	10
@@ -48049,7 +48260,7 @@ sort: by_weight
 赔偿的义务	pei chang de yi wu	10
 赔偿权利人	pei chang quan li ren	10
 赔偿义务人	pei chang yi wu ren	10
-配戴助听器	pei dai zhu ting qi	10
+佩戴助听器	pei dai zhu ting qi	10
 配倒是配过	pei dao shi pei guo	10
 锫的同位素	pei de tong wei su	10
 培哚普利拉	pei duo pu li la	10
@@ -48649,6 +48860,7 @@ sort: by_weight
 平城京遗址	ping cheng jing yi zhi	10
 平成狸合战	ping cheng li he zhan	10
 平川雄一朗	ping chuan xiong yi lang	10
+凭单日记账	ping dan ri ji zhang	10
 平旦温服之	ping dan wen fu zhi	10
 平等的对待	ping deng de dui dai	10
 平等的对话	ping deng de dui hua	10
@@ -48742,7 +48954,7 @@ sort: by_weight
 平静的海面	ping jing de hai mian	10
 平静地接受	ping jing de jie shou	10
 平静地离开	ping jing de li kai	10
-平静地生活	ping jing de sheng huo	10
+平静的生活	ping jing de sheng huo	10
 平静的水面	ping jing de shui mian	10
 平静地笑笑	ping jing de xiao xiao	10
 瓶颈和问题	ping jing he wen ti	10
@@ -49047,7 +49259,8 @@ sort: by_weight
 普鲁士战役	pu lu shi zhan yi	10
 普鲁特条约	pu lu te tiao yue	10
 普伦基特角	pu lun ji te jiao	10
-普罗米修斯	pu luo mi xiu si	10
+普罗米修斯	pu luo mi xiu si	12
+普罗米休斯	pu luo mi xiu si	10
 普罗塞比娥	pu luo sai bi e	10
 普罗丝定理	pu luo si ding li	10
 普罗斯定理	pu luo si ding li	10
@@ -49408,6 +49621,7 @@ sort: by_weight
 契昆根亚热	qi kun gen ya re	10
 绮拉奈特莉	qi la nai te li	10
 齐来崇拜歌	qi lai chong bai ge	10
+起来没起来	qi lai mei qi lai	10
 起了个大早	qi le ge da zao	10
 奇了个怪了	qi le ge guai le	10
 其乐无穷的	qi le wu qiong de	10
@@ -49574,6 +49788,7 @@ sort: by_weight
 骑士管理层	qi shi guan li ceng	10
 启示和帮助	qi shi he bang zhu	10
 歧视和偏见	qi shi he pian jian	10
+七十几块钱	qi shi ji kuai qian	10
 骑士俱乐部	qi shi ju le bu	10
 七十空性论	qi shi kong xing lun	10
 骑士篮球队	qi shi lan qiu dui	10
@@ -49610,18 +49825,18 @@ sort: by_weight
 起诉至法院	qi su zhi fa yuan	10
 奇索斯山脉	qi suo si shan mai	10
 其所在单位	qi suo zai dan wei	10
-其它的名称	qi ta de ming cheng	10
+其他的名称	qi ta de ming cheng	10
 其他的人物	qi ta de ren wu	10
 其他的同事	qi ta de tong shi	10
 其他肩损害	qi ta jian sun hai	10
 契塔科维奇	qi ta ke wei qi	10
-其它力作用	qi ta li zuo yong	10
-其它现金及	qi ta xian jin ji	10
+其他力作用	qi ta li zuo yong	10
+其他现金及	qi ta xian jin ji	10
 其他小语种	qi ta xiao yu zhong	10
 其他应交款	qi ta ying jiao kuan	10
-其它用户名	qi ta yong hu ming	10
 其他用户名	qi ta yong hu ming	10
-其它预收款	qi ta yu shou kuan	10
+其他用户名	qi ta yong hu ming	10
+其他预收款	qi ta yu shou kuan	10
 奇特的想象	qi te de xiang xiang	10
 奇特的一生	qi te de yi sheng	10
 气体的压强	qi ti de ya qiang	10
@@ -49879,6 +50094,7 @@ sort: by_weight
 七月和安生	qi yue he an sheng	10
 契约经济学	qi yue jing ji xue	10
 七月七日晴	qi yue qi ri qing	10
+七月十九号	qi yue shi jiu hao	10
 契约式设计	qi yue shi she ji	10
 七月与安生	qi yue yu an sheng	10
 齐云山石刻	qi yun shan shi ke	10
@@ -50984,6 +51200,7 @@ sort: by_weight
 轻薄的假象	qing bo de jia xiang	10
 轻薄的面料	qing bo de mian liao	10
 轻薄的设计	qing bo de she ji	10
+清不清楚吧	qing bu qing chu ba	10
 请不要封我	qing bu yao feng wo	10
 请不要伤害	qing bu yao shang hai	10
 请不要犹豫	qing bu yao you yu	10
@@ -52328,6 +52545,7 @@ sort: by_weight
 曲艺牡丹奖	qu yi mu dan jiang	10
 区疫情防控	qu yi qing fang kong	10
 去一探究竟	qu yi tan jiu jing	10
+取用了一些	qu yong le yi xie	10
 区有关部门	qu you guan bu men	10
 去游乐场玩	qu you le chang wan	10
 去游乐园玩	qu you le yuan wan	10
@@ -52778,6 +52996,7 @@ sort: by_weight
 确确实实是	que que shi shi shi	10
 确认安全后	que ren an quan hou	10
 确认和计量	que ren he ji liang	10
+缺少了很多	que shao le hen duo	10
 缺失安全感	que shi an quan gan	10
 却视而不见	que shi er bu jian	10
 却是一样的	que shi yi yang de	10
@@ -52842,6 +53061,7 @@ sort: by_weight
 染过的头发	ran guo de tou fa	10
 然后的然后	ran hou de ran hou	10
 然后的我们	ran hou de wo men	10
+然后想起了	ran hou xiang qi le	10
 然后在那里	ran hou zai na li	10
 然黄家所得	ran huang jia suo de	10
 染井吉野樱	ran jing ji ye ying	10
@@ -52898,6 +53118,7 @@ sort: by_weight
 让男人看了	rang nan ren kan le	10
 让你受精了	rang ni shou jing le	10
 让你笑话了	rang ni xiao hua le	10
+嚷嚷你妈逼	rang rang ni ma bi	10
 让人困扰的	rang ren kun rao de	10
 让人厌烦的	rang ren yan fan de	10
 让人着迷的	rang ren zhao mi de	10
@@ -53068,6 +53289,7 @@ sort: by_weight
 仁伯爵医院	ren bo jue yi yuan	10
 人不可貌相	ren bu ke mao xiang	10
 认不认识我	ren bu ren shi wo	10
+认不认这事	ren bu ren zhe shi	10
 人不是机器	ren bu shi ji qi	10
 忍不住大笑	ren bu zhu da xiao	10
 忍不住发火	ren bu zhu fa huo	10
@@ -53665,6 +53887,7 @@ sort: by_weight
 仍处于低位	reng chu yu di wei	10
 仍存在问题	reng cun zai wen ti	10
 仍记忆犹新	reng ji yi you xin	10
+仍旧是那样	reng jiu shi na yang	10
 仍历历在目	reng li li zai mu	10
 仍念念不忘	reng nian nian bu wang	10
 仍然坚持在	reng ran jian chi zai	10
@@ -53781,6 +54004,7 @@ sort: by_weight
 熔融高聚物	rong rong gao ju wu	10
 熔融构造岩	rong rong gou zao yan	10
 熔融匀化法	rong rong yun hua fa	10
+融入得很好	rong ru de hen hao	10
 绒舌马先蒿	rong she ma xian hao	10
 荣漱仁旧居	rong shu ren jiu ju	10
 融通念佛宗	rong tong nian fo zong	10
@@ -54122,6 +54346,7 @@ sort: by_weight
 软弱涣散村	ruan ruo huan san cun	10
 软砂岩沉积	ruan sha yan chen ji	10
 软舌螺动物	ruan she luo dong wu	10
+软式磁碟机	ruan shi ci die ji	10
 阮氏三兄弟	ruan shi san xiong di	10
 软体的比较	ruan ti de bi jiao	10
 软体动物壳	ruan ti dong wu ke	10
@@ -54815,6 +55040,7 @@ sort: by_weight
 僧来看佛面	seng lai kan fo mian	10
 莎安娜米黄	sha an na mi huang	10
 傻不愣登的	sha bu leng deng de	10
+傻不傻逼吧	sha bu sha bi ba	10
 刹车和油门	sha che he you men	10
 杀虫脒中毒	sha chong mi zhong du	10
 杀出狂人镇	sha chu kuang ren zhen	10
@@ -55203,6 +55429,7 @@ sort: by_weight
 山西省军区	shan xi sheng jun qu	10
 山西省科协	shan xi sheng ke xie	10
 陕西省科协	shan xi sheng ke xie	10
+山西省旅游	shan xi sheng lv you	10
 陕西省区长	shan xi sheng qu chang	10
 山西省人大	shan xi sheng ren da	10
 陕西省人大	shan xi sheng ren da	10
@@ -55346,6 +55573,7 @@ sort: by_weight
 尚不得而知	shang bu de er zhi	10
 上步工业区	shang bu gong ye qu	10
 上不了网了	shang bu liao wang le	10
+上不上网呀	shang bu shang wang ya	10
 商部左侍郎	shang bu zuo shi lang	10
 上场比赛中	shang chang bi sai zhong	10
 商场等场所	shang chang deng chang suo	10
@@ -56008,6 +56236,7 @@ sort: by_weight
 摄大乘论释	she da cheng lun shi	10
 舌淡苔薄白	she dan tai bao bai	10
 舍得一身剐	she de yi shen gua	10
+射得准不准	she de zhun bu zhun	10
 涉地裂事件	she di lie shi jian	10
 射电对应体	she dian dui ying ti	10
 射电干涉仪	she dian gan she yi	10
@@ -57132,6 +57361,7 @@ sort: by_weight
 升国旗仪式	sheng guo qi yi shi	10
 生还是不生	sheng hai shi bu sheng	10
 生孩子的事	sheng hai zi de shi	10
+省行政学院	sheng hang zheng xue yuan	10
 圣赫勒拿岛	sheng he le na dao	10
 省红十字会	sheng hong shi zi hui	10
 生化反应器	sheng hua fan ying qi	10
@@ -57192,6 +57422,7 @@ sort: by_weight
 生活与学习	sheng huo yu xue xi	10
 生活与宇宙	sheng huo yu yu zhou	10
 生活与哲学	sheng huo yu zhe xue	10
+生活在地狱	sheng huo zai di yu	10
 生活在那里	sheng huo zai na li	10
 生活在哪里	sheng huo zai na li	10
 生活早参考	sheng huo zao can kao	10
@@ -57537,7 +57768,6 @@ sort: by_weight
 省心又省力	sheng xin you sheng li	10
 省心又省钱	sheng xin you sheng qian	10
 盛行的当下	sheng xing di dang xia	10
-省行政学院	sheng xing zheng xue yuan	10
 省胸科医院	sheng xiong ke yi yuan	10
 生锈的铁钉	sheng xiu de tie ding	10
 生锈的小刀	sheng xiu de xiao dao	10
@@ -57670,6 +57900,7 @@ sort: by_weight
 十八味降香	shi ba wei jiang xiang	10
 十八味欧曲	shi ba wei ou qu	10
 十八线艺人	shi ba xian yi ren	10
+十八小时内	shi ba xiao shi nei	10
 失败的高歌	shi bai de gao ge	10
 失败的几率	shi bai de ji lv	10
 失败和成功	shi bai he cheng gong	10
@@ -57722,6 +57953,7 @@ sort: by_weight
 使不上劲儿	shi bu shang jin er	10
 使不上力气	shi bu shang li qi	10
 时不时出现	shi bu shi chu xian	10
+是不是很想	shi bu shi hen xiang	10
 是不是换换	shi bu shi huan huan	10
 是不是人了	shi bu shi ren le	10
 是不是傻啊	shi bu shi sha a	10
@@ -57963,6 +58195,7 @@ sort: by_weight
 十二味痹通	shi er wei bi tong	10
 十二味翼首	shi er wei yi shou	10
 十二弦吉他	shi er xian ji ta	10
+十二小时内	shi er xiao shi nei	10
 十二小时制	shi er xiao shi zhi	10
 十二星座里	shi er xing zuo li	10
 十二星座男	shi er xing zuo nan	10
@@ -57982,6 +58215,7 @@ sort: by_weight
 十二月初五	shi er yue chu wu	10
 十二月党人	shi er yue dang ren	10
 十二月二十	shi er yue er shi	10
+十二月九号	shi er yue jiu hao	10
 十二月廿八	shi er yue nian ba	10
 十二月廿二	shi er yue nian er	10
 十二月廿九	shi er yue nian jiu	10
@@ -58125,6 +58359,7 @@ sort: by_weight
 事故的起因	shi gu de qi yin	10
 事故的小孩	shi gu de xiao hai	10
 事故的原因	shi gu de yuan yin	10
+事故发生地	shi gu fa sheng di	10
 市骨科医院	shi gu ke yi yuan	10
 石鼓路小学	shi gu lu xiao xue	10
 是故如来说	shi gu ru lai shuo	10
@@ -58173,6 +58408,7 @@ sort: by_weight
 石河子地区	shi he zi di qu	10
 石河子机场	shi he zi ji chang	10
 石河子总场	shi he zi zong chang	10
+是很高级啊	shi hen gao ji a	10
 是红烧肉啊	shi hong shao rou a	10
 市红十字会	shi hong shi zi hui	10
 事后避孕药	shi hou bi yun yao	10
@@ -58654,7 +58890,7 @@ sort: by_weight
 实力的自信	shi li de zi xin	10
 势力范围内	shi li fan wei nei	10
 势力分布图	shi li fen bu tu	10
-史里芬计划	shi li fen ji hua	10
+施里芬计划	shi li fen ji hua	10
 什里夫波特	shi li fu bo te	10
 十里桂花香	shi li gui hua xiang	10
 实力和地位	shi li he di wei	10
@@ -58783,6 +59019,7 @@ sort: by_weight
 什么都不干	shi me dou bu gan	10
 什么都不问	shi me dou bu wen	10
 时美百服咛	shi mei bai fu ning	10
+是没必要了	shi mei bi yao le	10
 饰美叉丝壳	shi mei cha si ke	10
 十美分硬币	shi mei fen ying bi	10
 是每个国家	shi mei ge guo jia	10
@@ -59122,6 +59359,7 @@ sort: by_weight
 视乳头小凹	shi ru tou xiao ao	10
 视乳头肿物	shi ru tou zhong wu	10
 十三朝古都	shi san chao gu du	10
+十三次方根	shi san ci fang gen	10
 十三道大辙	shi san dao da zhe	10
 失散的亲人	shi san de qin ren	10
 十三度凶间	shi san du xiong jian	10
@@ -59131,6 +59369,7 @@ sort: by_weight
 式三棱刺刀	shi san leng ci dao	10
 十三人刺客	shi san ren ci ke	10
 是三生有幸	shi san sheng you xing	10
+十三水合物	shi san shui he wu	10
 十三味榜嘎	shi san wei bang ga	10
 十三味红花	shi san wei hong hua	10
 十三味解郁	shi san wei jie yu	10
@@ -59139,6 +59378,7 @@ sort: by_weight
 十三味菥蓂	shi san wei xi ming	10
 十三味辛夷	shi san wei xin yi	10
 十三五以来	shi san wu yi lai	10
+十三小时内	shi san xiao shi nei	10
 十三亿分贝	shi san yi fen bei	10
 十三翼之战	shi san yi zhi zhan	10
 狮色叉鼻鲀	shi se cha bi tun	10
@@ -59290,7 +59530,6 @@ sort: by_weight
 实施其专利	shi shi qi zhuan li	10
 时时勤拂拭	shi shi qin fu shi	10
 实事求是地	shi shi qiu shi de	10
-实事求是是	shi shi qiu shi shi	10
 实时全息图	shi shi quan xi tu	10
 事实上契约	shi shi shang qi yue	10
 施氏食狮史	shi shi shi shi shi	10
@@ -59349,6 +59588,7 @@ sort: by_weight
 事死如事生	shi si ru shi sheng	10
 十四是十四	shi si shi shi si	10
 十四味疏肝	shi si wei shu gan	10
+十四小时内	shi si xiao shi nei	10
 石四药集团	shi si yao ji tuan	10
 是松丰三郎	shi song feng san lang	10
 石松植物门	shi song zhi wu men	10
@@ -59721,6 +59961,7 @@ sort: by_weight
 失业保险费	shi ye bao xian fei	10
 失业保险金	shi ye bao xian jin	10
 失业保险税	shi ye bao xian shui	10
+事业部部长	shi ye bu bu zhang	10
 事业部经理	shi ye bu jing li	10
 失业补助金	shi ye bu zhu jin	10
 失业大学生	shi ye da xue sheng	10
@@ -59774,7 +60015,9 @@ sort: by_weight
 诗意地栖居	shi yi di qi ju	10
 是一定的吗	shi yi ding de ma	10
 时艺多媒体	shi yi duo mei ti	10
-十亿分之一	shi yi fen zhi yi	10
+十亿分之一	shi yi fen zhi yi	12
+十一分之一	shi yi fen zhi yi	10
+十一个时辰	shi yi ge shi chen	10
 十一宫宫头	shi yi gong gong tou	10
 拾遗和歌集	shi yi he ge ji	10
 诗意和远方	shi yi he yuan fang	10
@@ -61522,7 +61765,9 @@ sort: by_weight
 水稻种植业	shui dao zhong zhi ye	10
 睡得比狗晚	shui de bi gou wan	10
 水的比热容	shui de bi re rong	10
+睡得不好啊	shui de bu hao a	10
 睡得不踏实	shui de bu ta shi	10
+睡得很好吧	shui de hen hao ba	10
 水的立方体	shui de li fang ti	10
 水的离子积	shui de li zi ji	10
 睡的美美的	shui de mei mei de	10
@@ -61699,6 +61944,8 @@ sort: by_weight
 水手辛巴德	shui shou xin ba de	10
 水手辛伯达	shui shou xin bo da	10
 水树和佳子	shui shu he jia zi	10
+谁说得漂亮	shui shuo de piao liang	10
+谁说得漂亮	shui shuo de piao liang	10
 睡四个小时	shui si ge xiao shi	10
 水獭捕鱼法	shui ta bu yu fa	10
 水獭小宝贝	shui ta xiao bao bei	10
@@ -61723,6 +61970,7 @@ sort: by_weight
 税务等部门	shui wu deng bu men	10
 水务等部门	shui wu deng bu men	10
 税务登记号	shui wu deng ji hao	10
+税务局局长	shui wu ju ju zhang	10
 水污染防治	shui wu ran fang zhi	10
 水污染事件	shui wu ran shi jian	10
 水务署署长	shui wu shu shu zhang	10
@@ -61879,15 +62127,23 @@ sort: by_weight
 说出我世界	shuo chu wo shi jie	10
 硕大的身躯	shuo da de shen qu	10
 说倒是说过	shuo dao shi shuo guo	10
+说得不好啊	shuo de bu hao a	10
 说得很安静	shuo de hen an jing	10
+说得很棒啊	shuo de hen bang a	10
+说得很好啊	shuo de hen hao a	10
+说得很好呀	shuo de hen hao ya	10
 说得很具体	shuo de hen ju ti	10
 说得很清楚	shuo de hen qing chu	10
 说得很全面	shuo de hen quan mian	10
+说得慢点儿	shuo de man dian er	10
 说得没错啊	shuo de mei cuo a	10
 说的那些事	shuo de na xie shi	1000
 说的是人话	shuo de shi ren hua	10
 说得太对了	shuo de tai dui le	10
 说得太好了	shuo de tai hao le	10
+说得挺好啊	shuo de ting hao a	10
+说得也对啊	shuo de ye dui a	10
+说得也对呀	shuo de ye dui ya	10
 说得有道理	shuo de you dao li	10
 说短也不短	shuo duan ye bu duan	10
 说对不起我	shuo dui bu qi wo	10
@@ -62283,10 +62539,14 @@ sort: by_weight
 似是故人归	si shi gu ren gui	10
 似是故人来	si shi gu ren lai	10
 四十九日祭	si shi jiu ri ji	10
+四十六秒钟	si shi liu miao zhong	10
 四十七浪人	si shi qi lang ren	10
+四十三秒钟	si shi san miao zhong	10
 四式手榴弹	si shi shou liu dan	10
+四十四分钟	si shi si fen zhong	10
 四十五度角	si shi wu du jiao	10
 四是要强化	si shi yao qiang hua	10
+四十一秒钟	si shi yi miao zhong	10
 四式战斗机	si shi zhan dou ji	10
 四式中战车	si shi zhong zhan che	10
 似水的年华	si shui de nian hua	10
@@ -63410,6 +63670,7 @@ sort: by_weight
 台科管理所	tai ke guan li suo	10
 台客狂飨曲	tai ke kuang xiang qu	10
 台科人社院	tai ke ren she yuan	10
+太空杯系列	tai kong bei xi lie	10
 太空飞行棋	tai kong fei xing qi	10
 太空飞行器	tai kong fei xing qi	10
 太空人宾宾	tai kong ren bin bin	10
@@ -63507,6 +63768,7 @@ sort: by_weight
 台式电话机	tai shi dian hua ji	10
 台式电脑的	tai shi dian nao de	10
 台式电脑桌	tai shi dian nao zhuo	10
+台式机上面	tai shi ji shang mian	10
 台式计算机	tai shi ji suan ji	10
 泰式椒麻鸡	tai shi jiao ma ji	10
 台式卤肉饭	tai shi lu rou fan	10
@@ -63646,6 +63908,7 @@ sort: by_weight
 台州府城墙	tai zhou fu cheng qiang	10
 台州椒江区	tai zhou jiao jiang qu	10
 台州开发区	tai zhou kai fa qu	10
+台州日报社	tai zhou ri bao she	10
 台州湾新区	tai zhou wan xin qu	10
 太子灵踪塔	tai zi ling zong ta	10
 太子龙小宣	tai zi long xiao xuan	10
@@ -63989,6 +64252,7 @@ sort: by_weight
 讨论的问题	tao lun de wen ti	10
 讨论的议题	tao lun de yi ti	10
 讨论的主题	tao lun de zhu ti	10
+讨论这事儿	tao lun zhe shi er	10
 套马的汉子	tao ma de han zi	10
 逃命的机会	tao ming de ji hui	10
 桃乃木香奈	tao nai mu xiang nai	10
@@ -64024,6 +64288,7 @@ sort: by_weight
 陶艺工作室	tao yi gong zuo shi	10
 逃逸式辞职	tao yi shi ci zhi	10
 桃峪口水库	tao yu kou shui ku	10
+桃园居委会	tao yuan ju wei hui	10
 桃园市议会	tao yuan shi yi hui	10
 桃园市议员	tao yuan shi yi yuan	10
 桃源仙境图	tao yuan xian jing tu	10
@@ -64337,6 +64602,7 @@ sort: by_weight
 提议的历法	ti yi de li fa	10
 体育场北门	ti yu chang bei men	10
 体育场围网	ti yu chang wei wang	10
+体育场西门	ti yu chang xi men	10
 体育和旅游	ti yu he lv you	10
 体育和艺术	ti yu he yi shu	10
 体育和娱乐	ti yu he yu le	10
@@ -64843,6 +65109,7 @@ sort: by_weight
 天下的女人	tian xia de nv ren	10
 天下的主人	tian xia de zhu ren	10
 天下第二泉	tian xia di er quan	10
+天下第一包	tian xia di yi bao	10
 天下第一菜	tian xia di yi cai	10
 天下第一刀	tian xia di yi dao	10
 天下第一等	tian xia di yi deng	10
@@ -64939,6 +65206,8 @@ sort: by_weight
 跳出五行外	tiao chu wu xing wai	10
 跳到另一个	tiao dao ling yi ge	10
 跳倒是跳过	tiao dao shi tiao guo	10
+跳得很好啊	tiao de hen hao a	10
+跳得很好吧	tiao de hen hao ba	10
 条凳座谈会	tiao deng zuo tan hui	10
 挑逗的眼神	tiao dou de yan shen	10
 条顿堡森林	tiao dun bao sen lin	10
@@ -65149,6 +65418,7 @@ sort: by_weight
 挺不错的嘛	ting bu cuo de ma	10
 挺不错的哦	ting bu cuo de o	10
 听不太清楚	ting bu tai qing chu	10
+听不听话吧	ting bu ting hua ba	10
 停车位有限	ting che wei you xian	10
 挺出乎意料	ting chu hu yi liao	10
 厅党组书记	ting dang zu shu ji	10
@@ -65234,6 +65504,7 @@ sort: by_weight
 听一宿梵唱	ting yi xiu fan chang	10
 听颖师弹琴	ting ying shi tan qin	10
 听雨的声音	ting yu de sheng yin	10
+庭院灯系列	ting yuan deng xi lie	10
 烃源岩层系	ting yuan yan ceng xi	10
 停云馆法帖	ting yun guan fa tie	10
 听障运动会	ting zhang yun dong hui	10
@@ -65731,6 +66002,7 @@ sort: by_weight
 筒中筒结构	tong zhong tong jie gou	10
 同种型变异	tong zhong xing bian yi	10
 同轴电容器	tong zhou dian rong qi	10
+通州电影院	tong zhou dian ying yuan	10
 同州防御使	tong zhou fang yu shi	10
 同轴连接器	tong zhou lian jie qi	10
 同注分彩法	tong zhu fen cai fa	10
@@ -66181,6 +66453,7 @@ sort: by_weight
 推杯换盏间	tui bei huan zhan jian	10
 蜕变的过程	tui bian de guo cheng	10
 腿部的肌肉	tui bu de ji rou	10
+退不退让吧	tui bu tui rang ba	10
 推出的产品	tui chu de chan pin	10
 推出的车型	tui chu de che xing	10
 推出的全新	tui chu de quan xin	10
@@ -66596,6 +66869,7 @@ sort: by_weight
 玩得团团转	wan de tuan tuan zhuan	10
 玩的怎么样	wan de zen me yang	10
 玩得怎么样	wan de zen me yang	10
+玩得真好呀	wan de zhen hao ya	10
 万德庄大街	wan de zhuang da jie	10
 玩点不一样	wan dian bu yi yang	10
 玩懂手机网	wan dong shou ji wang	10
@@ -66778,6 +67052,7 @@ sort: by_weight
 完全可离集	wan quan ke li ji	10
 完全可约模	wan quan ke yue mo	10
 完全可约群	wan quan ke yue qun	10
+完全没有电	wan quan mei you dian	10
 完全平方式	wan quan ping fang shi	10
 完全四点形	wan quan si dian xing	10
 完全体须佐	wan quan ti xu zuo	10
@@ -67686,6 +67961,7 @@ sort: by_weight
 魏赛因不花	wei sai yin bu hua	10
 微三角形法	wei san jiao xing fa	10
 韦森伯效应	wei sen bo xiao ying	10
+为啥不回家	wei sha bu hui jia	10
 威沙特分布	wei sha te fen bu	10
 蔚山城之战	wei shan cheng zhi zhan	10
 蔚山广域市	wei shan guang yu shi	10
@@ -67966,6 +68242,7 @@ sort: by_weight
 鲔鱼沙西米	wei yu sha xi mi	10
 魏元帝曹奂	wei yuan di cao huan	10
 委员会步枪	wei yuan hui bu qiang	10
+委员会会议	wei yuan hui hui yi	10
 为圆心画圆	wei yuan xin hua yuan	10
 伪圆柱投影	wei yuan zhu tou ying	10
 伪圆锥投影	wei yuan zhui tou ying	10
@@ -68078,6 +68355,7 @@ sort: by_weight
 闻倒是闻过	wen dao shi wen guo	10
 问倒是问过	wen dao shi wen guo	10
 闻道有先后	wen dao you xian hou	10
+问得不好啊	wen de bu hao a	10
 吻得太逼真	wen de tai bi zhen	10
 稳定岛理论	wen ding dao li lun	10
 稳定的电场	wen ding de dian chang	10
@@ -68466,6 +68744,7 @@ sort: by_weight
 我变快乐了	wo bian kuai le le	10
 沃伯格假说	wo bo ge jia shuo	10
 我不会倒立	wo bu hui dao li	10
+我不会伤害	wo bu hui shang hai	10
 我不介意的	wo bu jie yi de	10
 我不认识他	wo bu ren shi ta	10
 我不认识她	wo bu ren shi ta	10
@@ -68501,6 +68780,8 @@ sort: by_weight
 握不住的沙	wo bu zhu de sha	10
 我才不怕呢	wo cai bu pa ne	10
 我才不要呢	wo cai bu yao ne	10
+我猜猜看呐	wo cai cai kan na	10
+我猜他不是	wo cai ta bu shi	10
 我差不多要	wo cha bu duo yao	10
 我长话短说	wo chang hua duan shuo	10
 我超级超级	wo chao ji chao ji	10
@@ -68565,6 +68846,7 @@ sort: by_weight
 我分组好分	wo fen zu hao fen	10
 卧佛昆仑僧	wo fo kun lun seng	10
 卧佛一枕眠	wo fo yi zhen mian	10
+我刚吃晚饭	wo gang chi wan fan	10
 我告诉老师	wo gao su lao shi	10
 我跟他说了	wo gen ta shuo le	10
 我跟她说了	wo gen ta shuo le	10
@@ -68574,6 +68856,7 @@ sort: by_weight
 我过段时间	wo guo duan shi jian	10
 我过几天去	wo guo ji tian qu	10
 我还没有睡	wo hai mei you shui	10
+我还没有填	wo hai mei you tian	10
 我还是不得	wo hai shi bu de	10
 我喊了一声	wo han le yi sheng	10
 我毫不后悔	wo hao bu hou hui	10
@@ -68590,6 +68873,7 @@ sort: by_weight
 我恨君生早	wo hen jun sheng zao	10
 我恨情人节	wo hen qing ren jie	10
 我很想爱他	wo hen xiang ai ta	10
+卧虎山公园	wo hu shan gong yuan	10
 我幻化成雨	wo huan hua cheng yu	10
 我回不了家	wo hui bu le jia	10
 我回到家了	wo hui dao jia le	10
@@ -68632,6 +68916,7 @@ sort: by_weight
 我渴望知识	wo ke wang zhi shi	10
 倭寇的踪迹	wo kou de zong ji	10
 我哭豺狼笑	wo ku chai lang xiao	10
+我快要下了	wo kuai yao xia le	10
 窝阔台汗国	wo kuo tai han guo	10
 我来北京了	wo lai bei jing le	10
 我浪迹天涯	wo lang ji tian ya	10
@@ -68674,7 +68959,8 @@ sort: by_weight
 我们的世纪	wo men de shi ji	10
 我们的世界	wo men de shi jie	10
 我们的誓言	wo men de shi yan	10
-我们的视野	wo men de shi ye	10
+我们的视野	wo men de shi ye	12
+我们的事业	wo men de shi ye	10
 我们的天父	wo men de tian fu	10
 我们的天主	wo men de tian zhu	10
 我们的位子	wo men de wei zi	10
@@ -68739,6 +69025,7 @@ sort: by_weight
 我弱我有理	wo ruo wo you li	10
 沃塞避孕套	wo sai bi yun tao	10
 沃森辨别箱	wo sen bian bie xiang	10
+我啥不知道	wo sha bu zhi dao	10
 涡扇发动机	wo shan fa dong ji	10
 我上我也行	wo shang wo ye xing	10
 我上幼儿园	wo shang you er yuan	10
@@ -68944,6 +69231,8 @@ sort: by_weight
 我要做厨神	wo yao zuo chu shen	10
 我也不想再	wo ye bu xiang zai	10
 我也不想在	wo ye bu xiang zai	10
+我也考不上	wo ye kao bu shang	10
+我也正想玩	wo ye zheng xiang wan	10
 我已不再是	wo yi bu zai shi	10
 我一瞪眼就	wo yi deng yan jiu	10
 我一定会来	wo yi ding hui lai	10
@@ -68964,6 +69253,7 @@ sort: by_weight
 我一直在笑	wo yi zhi zai xiao	10
 我已准备好	wo yi zhun bei hao	10
 我用心对待	wo yong xin dui dai	10
+我又不回家	wo you bu hui jia	10
 我又初恋了	wo you chu lian le	10
 我有的是钱	wo you de shi qian	10
 我有个老师	wo you ge lao shi	10
@@ -68988,6 +69278,7 @@ sort: by_weight
 我在杭州的	wo zai hang zhou de	10
 我在河这边	wo zai he zhe bian	10
 我再看看吧	wo zai kan kan ba	10
+我在看淘宝	wo zai kan tao bao	10
 我在那一角	wo zai na yi jiao	10
 窝在沙发里	wo zai sha fa li	10
 我再说一遍	wo zai shuo yi bian	10
@@ -69496,7 +69787,8 @@ sort: by_weight
 无礼的行为	wu li de xing wei	10
 物理的玄机	wu li de xuan ji	10
 无礼的言辞	wu li de yan ci	10
-无理的要求	wu li de yao qiu	10
+无理的要求	wu li de yao qiu	12
+无礼的要求	wu li de yao qiu	10
 无力的挣扎	wu li de zheng zha	10
 物理动理学	wu li dong li xue	10
 五里工业园	wu li gong ye yuan	10
@@ -69506,7 +69798,7 @@ sort: by_weight
 物理及化学	wu li ji hua xue	10
 无理搅三分	wu li jiao san fen	10
 武里南联队	wu li nan lian dui	10
-物理试验室	wu li shi yan shi	10
+物理实验室	wu li shi yan shi	10
 无厘头电影	wu li tou dian ying	10
 无厘头风格	wu li tou feng ge	10
 无厘头搞笑	wu li tou gao xiao	10
@@ -69838,12 +70130,13 @@ sort: by_weight
 五时三十分	wu shi san shi fen	10
 吴氏世科坊	wu shi shi ke fang	10
 无事实依据	wu shi shi yi ju	10
-吴式太极拳	wu shi tai ji quan	10
+吴式太极拳	wu shi tai ji quan	12
 武式太极拳	wu shi tai ji quan	10
 无实物表演	wu shi wu biao yan	10
 巫师希金斯	wu shi xi jin si	10
 无事献殷勤	wu shi xian yin qin	10
 无事小神仙	wu shi xiao shen xian	10
+五十一秒钟	wu shi yi miao zhong	10
 无事一身轻	wu shi yi shen qing	10
 无使用说明	wu shi yong shuo ming	10
 五式战斗机	wu shi zhan dou ji	10
@@ -70050,6 +70343,7 @@ sort: by_weight
 无线翡翠台	wu xian fei cui tai	10
 无限非概率	wu xian fei gai lv	10
 无限覆盖廖	wu xian fu gai liao	10
+无限革命论	wu xian ge ming lun	10
 无线个人网	wu xian ge ren wang	10
 无线和网络	wu xian he wang luo	10
 无限红移面	wu xian hong yi mian	10
@@ -70078,7 +70372,8 @@ sort: by_weight
 无限期延后	wu xian qi yan hou	10
 无线桥接器	wu xian qiao jie qi	10
 无线区域网	wu xian qu yu wang	10
-无线上网卡	wu xian shang wang ka	10
+无线上网卡	wu xian shang wang ka	12
+无限上网卡	wu xian shang wang ka	10
 无线摄像头	wu xian she xiang tou	10
 无限深势阱	wu xian shen shi jing	10
 无线生活台	wu xian sheng huo tai	10
@@ -70201,6 +70496,7 @@ sort: by_weight
 五一六政变	wu yi liu zheng bian	10
 吴一龙教授	wu yi long jiao shou	10
 五伊玛目派	wu yi ma mu pai	10
+五一七五年	wu yi qi wu nian	10
 无一人伤亡	wu yi ren shang wang	10
 五一三事件	wu yi san shi jian	10
 武夷山北站	wu yi shan bei zhan	10
@@ -70213,6 +70509,7 @@ sort: by_weight
 无意识心理	wu yi shi xin li	10
 无意识行为	wu yi shi xing wei	10
 无意识状态	wu yi shi zhuang tai	10
+五一四三年	wu yi si san nian	10
 伍宜孙书院	wu yi sun shu yuan	10
 五衣唐衣裳	wu yi tang yi shang	10
 五一体育场	wu yi ti yu chang	10
@@ -70284,6 +70581,7 @@ sort: by_weight
 五月生辰石	wu yue sheng chen shi	10
 五月十八日	wu yue shi ba ri	10
 雾月十八日	wu yue shi ba ri	10
+五月十二号	wu yue shi er hao	10
 吴越王钱镠	wu yue wang qian liu	10
 五月五日节	wu yue wu ri jie	10
 吴越武肃王	wu yue wu su wang	10
@@ -70426,23 +70724,34 @@ sort: by_weight
 西安碑林区	xi an bei lin qu	10
 西安北站站	xi an bei zhan zhan	10
 西安长安区	xi an chang an qu	10
+西安大学生	xi an da xue sheng	10
+西安的发展	xi an de fa zhan	10
 西安的美食	xi an de mei shi	10
 西安等城市	xi an deng cheng shi	10
+西安电视台	xi an dian shi tai	10
 西安高新区	xi an gao xin qu	10
 西安和咸阳	xi an he xian yang	10
+西安经开区	xi an jing kai qu	10
 西安开发区	xi an kai fa qu	10
 西安利之星	xi an li zhi xing	10
 西安莲湖区	xi an lian hu qu	10
 西安临潼区	xi an lin tong qu	10
 西安美立方	xi an mei li fang	10
 西安门大街	xi an men da jie	10
+西安女车主	xi an nv che zhu	10
 西安清真寺	xi an qing zhen si	10
 西安事变后	xi an shi bian hou	10
+西安市交通	xi an shi jiao tong	10
+西安市市场	xi an shi shi chang	10
+西安市中心	xi an shi zhong xin	10
 锡安威廉森	xi an wei lian sen	10
 西安未央区	xi an wei yang qu	10
 西安新城区	xi an xin cheng qu	10
+西安新鸿业	xi an xin hong ye	10
 西安雁塔区	xi an yan ta qu	10
+西安夜生活	xi an ye sheng huo	10
 西安易俗社	xi an yi su she	10
+西安幼儿园	xi an you er yuan	10
 喜白蚁动物	xi bai yi dong wu	10
 西班牙礼来	xi ban ya li lai	10
 细胞的代谢	xi bao de dai xie	10
@@ -70598,6 +70907,8 @@ sort: by_weight
 喜欢的人是	xi huan de ren shi	10
 喜欢的食物	xi huan de shi wu	10
 喜欢的事物	xi huan de shi wu	10
+喜欢的一本	xi huan de yi ben	12
+喜欢的译本	xi huan de yi ben	10
 喜欢菲利普	xi huan fei li pu	10
 喜欢和讨厌	xi huan he tao yan	10
 喜欢尼基施	xi huan ni ji shi	10
@@ -71057,8 +71368,10 @@ sort: by_weight
 下不来台了	xia bu lai tai le	10
 下不了狠心	xia bu liao hen xin	10
 下不去手啊	xia bu qu shou a	10
+下不下来喽	xia bu xia lai lou	10
 夏潮联合会	xia chao lian he hui	10
 夏朝青铜器	xia chao qing tong qi	10
+吓成这样儿	xia cheng zhe yang er	10
 狭翅兔儿风	xia chi tu er feng	10
 狭翅兔耳风	xia chi tu er feng	10
 狭翅羊耳蒜	xia chi yang er suan	10
@@ -71345,6 +71658,7 @@ sort: by_weight
 宪兵司令部	xian bing si ling bu	10
 宪兵特勤队	xian bing te qin dui	10
 线玻正斑岩	xian bo zheng ban yan	10
+先不要发货	xian bu yao fa huo	10
 苋菜黄连素	xian cai huang lian su	10
 现场的布置	xian chang de bu zhi	10
 现场的氛围	xian chang de fen wei	10
@@ -71964,6 +72278,7 @@ sort: by_weight
 现予以公示	xian yu yi gong shi	10
 贤愚因缘经	xian yu yin yuan jing	10
 闲云野鹤也	xian yun ye he ye	10
+现在好想看	xian zai hao xiang kan	10
 现在很火的	xian zai hen huo de	10
 现在或将来	xian zai huo jiang lai	10
 现在及未来	xian zai ji wei lai	10
@@ -72062,6 +72377,8 @@ sort: by_weight
 想不红都难	xiang bu hong dou nan	10
 想不劳而获	xiang bu lao er huo	10
 向不同方向	xiang bu tong fang xiang	10
+想不想我哇	xiang bu xiang wo wa	10
+想不想学吧	xiang bu xiang xue ba	10
 像苍蝇一样	xiang cang ying yi yang	10
 香草的天空	xiang cao de tian kong	10
 相城大道站	xiang cheng da dao zhan	10
@@ -72072,6 +72389,7 @@ sort: by_weight
 想吃就能吃	xiang chi jiu neng chi	10
 想吃口好的	xiang chi kou hao de	10
 像抽筋似的	xiang chou jin shi de	10
+相处得好啊	xiang chu de hao a	10
 像触电似的	xiang chu dian shi de	10
 像触电一样	xiang chu dian yi yang	10
 想出人头地	xiang chu ren tou di	10
@@ -72464,11 +72782,12 @@ sort: by_weight
 相声有新人	xiang sheng you xin ren	10
 箱式变电站	xiang shi bian dian zhan	10
 箱式变压器	xiang shi bian ya qi	10
+详实的史料	xiang shi de shi liao	12
 翔实的史料	xiang shi de shi liao	10
-详实的数据	xiang shi de shu ju	12
-翔实的数据	xiang shi de shu ju	10
-详实的资料	xiang shi de zi liao	12
-翔实的资料	xiang shi de zi liao	10
+翔实的数据	xiang shi de shu ju	12
+详实的数据	xiang shi de shu ju	10
+翔实的资料	xiang shi de zi liao	12
+详实的资料	xiang shi de zi liao	10
 香市动物园	xiang shi dong wu yuan	10
 向实践学习	xiang shi jian xue xi	10
 相识满天下	xiang shi man tian xia	10
@@ -73627,12 +73946,14 @@ sort: by_weight
 蟹岛度假村	xie dao du jia cun	10
 写倒是写过	xie dao shi xie guo	10
 楔的边定理	xie de bian ding li	10
+写得不好啊	xie de bu hao a	10
 写得不太好	xie de bu tai hao	10
 写的不太好	xie de bu tai hao	10
 写得非常好	xie de fei chang hao	10
 写得还不错	xie de hai bu cuo	10
 写得很好啊	xie de hen hao a	10
 写得很详细	xie de hen xiang xi	10
+写得蛮好的	xie de man hao de	10
 写得太好了	xie de tai hao le	10
 写得太烂了	xie de tai lan le	10
 写得怎么样	xie de zen me yang	10
@@ -74651,6 +74972,7 @@ sort: by_weight
 幸福的归宿	xing fu de gui su	10
 幸福的回忆	xing fu de hui yi	10
 幸福的权利	xing fu de quan li	10
+幸福的生活	xing fu de sheng huo	12
 幸福地生活	xing fu de sheng huo	10
 幸福的小鸟	xing fu de xiao niao	10
 幸福的钥匙	xing fu de yao shi	10
@@ -75536,7 +75858,10 @@ sort: by_weight
 选别采矿法	xuan bie cai kuang fa	10
 泫勃派门主	xuan bo pai men zhu	10
 宣城市政府	xuan cheng shi zheng fu	10
+宣传得不错	xuan chuan de bu cuo	10
+宣传得不好	xuan chuan de bu hao	10
 宣传的方式	xuan chuan de fang shi	10
+宣传得很好	xuan chuan de hen hao	10
 宣传的噱头	xuan chuan de xue tou	10
 宣传和培训	xuan chuan he pei xun	10
 宣传和普及	xuan chuan he pu ji	10
@@ -75697,6 +76022,7 @@ sort: by_weight
 旋转光闸法	xuan zhuan guang zha fa	10
 旋转晶体法	xuan zhuan jing ti fa	10
 旋转木马的	xuan zhuan mu ma de	10
+旋转起重机	xuan zhuan qi zhong ji	10
 旋转组合锁	xuan zhuan zu he suo	10
 选装修公司	xuan zhuang xiu gong si	10
 宣宗行乐图	xuan zong xing le tu	10
@@ -76492,8 +76818,10 @@ sort: by_weight
 岩岛兵工厂	yan dao bing gong chang	10
 咽到肚子里	yan dao du zi li	10
 岩岛市地理	yan dao shi di li	10
+演得不好看	yan de bu hao kan	10
 演得非常好	yan de fei chang hao	10
 演得很到位	yan de hen dao wei	10
+演得很好啊	yan de hen hao a	10
 延德里舍克	yan de li she ke	10
 盐的摄入量	yan de she ru liang	10
 演得特别好	yan de te bie hao	10
@@ -77207,6 +77535,9 @@ sort: by_weight
 杨达坡条约	yang da po tiao yue	10
 氧代丙二腈	yang dai bing er jing	10
 氧代震颤素	yang dai zhen chan su	10
+养得很好啊	yang de hen hao a	10
+养得很好吧	yang de hen hao ba	10
+养得很好呀	yang de hen hao ya	10
 氧的同位素	yang de tong wei su	10
 洋地黄毒甙	yang di huang du dai	10
 洋地黄毒苷	yang di huang du gan	10
@@ -77455,6 +77786,7 @@ sort: by_weight
 药不能停啊	yao bu neng ting a	10
 要不要把他	yao bu yao ba ta	12
 要不要把它	yao bu yao ba ta	10
+要不要把我	yao bu yao ba wo	10
 要不要去呢	yao bu yao qu ne	10
 药材比量法	yao cai bi liang fa	10
 遥测地震仪	yao ce di zhen yi	10
@@ -77683,6 +78015,7 @@ sort: by_weight
 也不见得就	ye bu jian de jiu	10
 夜不可一世	ye bu ke yi shi	10
 也不便宜呀	ye bu pian yi ya	10
+也不是没数	ye bu shi mei shu	10
 也不在话下	ye bu zai hua xia	10
 野草莓学运	ye cao mei xue yun	10
 也差不多啊	ye cha bu duo a	10
@@ -78107,8 +78440,10 @@ sort: by_weight
 癔病性震颤	yi bing xing zhen chan	10
 宜博电竞馆	yi bo dian jing guan	10
 异剥橄榄岩	yi bo gan lan yan	10
+一拨接一拨	yi bo jie yi bo	12
 一波接一波	yi bo jie yi bo	10
 易卜拉希马	yi bo la xi ma	10
+一波又一波	yi bo you yi bo	10
 一步步地走	yi bu bu de zou	10
 一步不停歇	yi bu bu ting xie	10
 一步的距离	yi bu de ju li	10
@@ -78133,7 +78468,8 @@ sort: by_weight
 一步一脚印	yi bu yi jiao yin	10
 亦步亦趋地	yi bu yi qu de	10
 一步一生莲	yi bu yi sheng lian	10
-一步又一步	yi bu you yi bu	10
+一步又一步	yi bu you yi bu	12
+一部又一部	yi bu you yi bu	10
 已不再年轻	yi bu zai nian qing	10
 已不在人世	yi bu zai ren shi	10
 亦不知所终	yi bu zhi suo zhong	10
@@ -78278,7 +78614,8 @@ sort: by_weight
 胰岛素受体	yi dao su shou ti	10
 移到文件尾	yi dao wen jian wei	10
 一道选择题	yi dao xuan ze ti	10
-一道又一道	yi dao you yi dao	10
+一道又一道	yi dao you yi dao	12
+一刀又一刀	yi dao you yi dao	10
 宜得利家居	yi de li jia ju	10
 懿德太子墓	yi de tai zi mu	10
 一等潜水舰	yi deng qian shui jian	10
@@ -78312,6 +78649,7 @@ sort: by_weight
 一点一点画	yi dian yi dian hua	10
 一定的程度	yi ding de cheng du	10
 一定的湿度	yi ding de shi du	10
+一定会懂得	yi ding hui dong de	10
 一定会火的	yi ding hui huo de	10
 乙丁己辛癸	yi ding ji xin gui	10
 易定节度使	yi ding jie du shi	10
@@ -78444,6 +78782,7 @@ sort: by_weight
 一个假名字	yi ge jia ming zi	10
 一个接一个	yi ge jie yi ge	10
 一个劲儿地	yi ge jin er de	10
+一个老人儿	yi ge lao ren er	10
 一个女孩的	yi ge nv hai de	10
 一个女孩呀	yi ge nv hai ya	10
 一个人待着	yi ge ren dai zhe	10
@@ -78508,6 +78847,7 @@ sort: by_weight
 亦黑迭儿丁	yi hei die er ding	10
 伊红染色剂	yi hong ran se ji	10
 以厚德载物	yi hou de zai wu	10
+一候水始冰	yi hou shui shi bing	10
 医护工作者	yi hu gong zuo zhe	10
 依葫芦画瓢	yi hu lu hua piao	10
 医护人员们	yi hu ren yuan men	10
@@ -78620,6 +78960,8 @@ sort: by_weight
 意见陈述书	yi jian chen shu shu	10
 一简对多繁	yi jian dui duo fan	10
 一剑浣春秋	yi jian huan chun qiu	10
+一件件小事	yi jian jian xiao shi	12
+已渐渐消失	yi jian jian xiao shi	10
 一剑落九雁	yi jian luo jiu yan	10
 一见你就笑	yi jian ni jiu xiao	10
 亿健跑步机	yi jian pao bu ji	10
@@ -78727,6 +79069,7 @@ sort: by_weight
 一颗无花果	yi ke wu hua guo	10
 一颗西红柿	yi ke xi hong shi	10
 一颗小心心	yi ke xiao xin xin	10
+一颗小星星	yi ke xiao xing xing	12
 一颗小行星	yi ke xiao xing xing	10
 一颗永流传	yi ke yong liu chuan	10
 一颗原子弹	yi ke yuan zi dan	10
@@ -78817,6 +79160,7 @@ sort: by_weight
 一篓油水饺	yi lou you shui jiao	10
 亦鲁吐咪师	yi lu tu mi shi	10
 一路玩到挂	yi lu wan dao gua	10
+一路走好呗	yi lu zou hao bei	10
 异卵双胞胎	yi luan shuang bao tai	10
 遗落的回忆	yi luo de hui yi	10
 伊洛前列素	yi luo qian lie su	10
@@ -78895,7 +79239,8 @@ sort: by_weight
 一片小绿叶	yi pian xiao lv ye	10
 一片新天地	yi pian xin tian di	10
 一片艳阳天	yi pian yan yang tian	10
-一片又一片	yi pian you yi pian	10
+一片又一片	yi pian you yi pian	12
+一篇又一篇	yi pian you yi pian	10
 一品天下站	yi pin tian xia zhan	10
 一颦一笑都	yi pin yi xiao dou	10
 一颦一笑间	yi pin yi xiao jian	10
@@ -78973,13 +79318,14 @@ sort: by_weight
 一切世间天	yi qie shi jian tian	10
 一切事物中	yi qie shi wu zhong	10
 一切唯心造	yi qie wei xin zao	10
+一切向前看	yi qie xiang qian kan	12
 一切向钱看	yi qie xiang qian kan	10
 一切种子识	yi qie zhong zi shi	10
 疫情爆发时	yi qing bao fa shi	10
 以青春之名	yi qing chun zhi ming	10
 以青春之我	yi qing chun zhi wo	10
 以清淡为主	yi qing dan wei zhu	10
-疫情的爆发	yi qing de bao fa	10
+疫情的暴发	yi qing de bao fa	10
 疫情的冲击	yi qing de chong ji	10
 疫情的出现	yi qing de chu xian	10
 疫情的发生	yi qing de fa sheng	10
@@ -79283,7 +79629,8 @@ sort: by_weight
 疑似爆炸物	yi si bao zha wu	10
 一丝不苟地	yi si bu gou de	10
 疑似感染者	yi si gan ran zhe	10
-依斯坎达尔	yi si kan da er	10
+伊斯坎达尔	yi si kan da er	10
+伊斯坎德尔	yi si kan de er	10
 以斯拉控股	yi si la kong gu	10
 以私人身份	yi si ren shen fen	10
 伊斯坦布尔	yi si tan bu er	10
@@ -79309,6 +79656,7 @@ sort: by_weight
 遗体捐献者	yi ti juan xian zhe	10
 异体皮制备	yi ti pi zhi bei	10
 一天比一天	yi tian bi yi tian	10
+一天都不放	yi tian dou bu fang	10
 一田二主制	yi tian er zhu zhi	10
 一天零一夜	yi tian ling yi ye	10
 以天体系统	yi tian ti xi tong	10
@@ -79388,6 +79736,7 @@ sort: by_weight
 亿万喵星人	yi wan miao xing ren	10
 一碗牛肉面	yi wan niu rou mian	10
 一碗热干面	yi wan re gan mian	10
+一万人民币	yi wan ren min bi	10
 一碗水端平	yi wan shui duan ping	10
 一万田尚登	yi wan tian shang deng	10
 亿万未婚夫	yi wan wei hun fu	10
@@ -79468,6 +79817,7 @@ sort: by_weight
 一物克一物	yi wu ke yi wu	10
 亦无老死尽	yi wu lao si jin	10
 一屋老友记	yi wu lao you ji	10
+一五六三年	yi wu liu san nian	10
 义务伦理学	yi wu lun li xue	10
 已无能为力	yi wu neng wei li	10
 异无腔动物	yi wu qiang dong wu	10
@@ -79629,6 +79979,7 @@ sort: by_weight
 一样的老师	yi yang de lao shi	10
 异样的目光	yi yang de mu guang	10
 异样的情愫	yi yang de qing su	10
+一样的声音	yi yang de sheng yin	12
 异样的声音	yi yang de sheng yin	10
 异样的眼神	yi yang de yan shen	10
 益阳高新区	yi yang gao xin qu	10
@@ -79663,6 +80014,7 @@ sort: by_weight
 一一告诉你	yi yi gao su ni	10
 一一平坦环	yi yi ping tan huan	10
 一亿七千万	yi yi qi qian wan	10
+一一七一年	yi yi qi yi nian	10
 薏苡仁米仁	yi yi ren mi ren	10
 以一人之力	yi yi ren zhi li	10
 一亿三千万	yi yi san qian wan	10
@@ -79812,6 +80164,7 @@ sort: by_weight
 已知的问题	yi zhi de wen ti	10
 益智的游戏	yi zhi de you xi	10
 以制度管人	yi zhi du guan ren	10
+一直对你讲	yi zhi dui ni jiang	10
 一只耳朵出	yi zhi er duo chu	10
 一只耳朵进	yi zhi er duo jin	10
 一只高中生	yi zhi gao zhong sheng	10
@@ -80529,7 +80882,7 @@ sort: by_weight
 硬件与软件	ying jian yu ruan jian	10
 盈江设治局	ying jiang she zhi ju	10
 迎角传感器	ying jiao chuan gan qi	10
-应缴增值税	ying jiao zeng zhi shui	10
+应交增值税	ying jiao zeng zhi shui	10
 应届本科生	ying jie ben ke sheng	10
 应届毕业生	ying jie bi ye sheng	10
 应届大学生	ying jie da xue sheng	10
@@ -80787,6 +81140,7 @@ sort: by_weight
 应用技术型	ying yong ji shu xing	10
 应用间跳转	ying yong jian tiao zhuan	10
 应用式学习	ying yong shi xue xi	10
+应用数学系	ying yong shu xue xi	10
 应用性飞行	ying yong xing fei xing	10
 应用型高校	ying yong xing gao xiao	10
 应用研究院	ying yong yan jiu yuan	10
@@ -80865,6 +81219,7 @@ sort: by_weight
 用大脑思维	yong da nao si wei	10
 用倒是用过	yong dao shi yong guo	10
 用的武器是	yong de wu qi shi	10
+用得有点多	yong de you dian duo	10
 用第一人称	yong di yi ren cheng	10
 永定门东街	yong ding men dong jie	10
 永定门外站	yong ding men wai zhan	10
@@ -81031,7 +81386,7 @@ sort: by_weight
 用石灰处理	yong shi hui chu li	10
 用实际行动	yong shi ji xing dong	10
 用实力说话	yong shi li shuo hua	10
-用她的话说	yong ta de hua shuo	10
+用他的话说	yong ta de hua shuo	10
 用泰山压顶	yong tai shan ya ding	10
 甬台温高速	yong tai wen gao su	10
 永停滴定法	yong ting di ding fa	10
@@ -81287,6 +81642,7 @@ sort: by_weight
 有很大的提	you hen da de ti	10
 有很大几率	you hen da ji lv	10
 有很多人学	you hen duo ren xue	10
+有很多事儿	you hen duo shi er	10
 右后外侧支	you hou wai ce zhi	10
 右后叶子板	you hou ye zi ban	10
 有话对你说	you hua dui ni shuo	10
@@ -81501,10 +81857,16 @@ sort: by_weight
 有没有办法	you mei you ban fa	12
 又没有办法	you mei you ban fa	10
 有没有胆子	you mei you dan zi	10
+有没有鬼啊	you mei you gui a	10
+有没有见到	you mei you jian dao	10
+有没有劲儿	you mei you jin er	10
 又没有能力	you mei you neng li	10
+有没有钱呀	you mei you qian ya	10
 有没有时间	you mei you shi jian	10
 又没有时间	you mei you shi jian	10
 有没有想我	you mei you xiang wo	10
+有没有效啊	you mei you xiao a	10
+有没有新意	you mei you xin yi	10
 又没有勇气	you mei you yong qi	10
 油门当刹车	you men dang sha che	10
 油门和刹车	you men he sha che	10
@@ -81554,6 +81916,7 @@ sort: by_weight
 游内山灯塔	you nei shan deng ta	10
 右内射维数	you nei she wei shu	10
 有内味儿了	you nei wei er le	10
+又能见面了	you neng jian mian le	10
 有你才幸福	you ni cai xing fu	10
 油腻的东西	you ni de dong xi	10
 油腻的感觉	you ni de gan jue	10
@@ -81625,6 +81988,7 @@ sort: by_weight
 诱人的香气	you ren de xiang qi	10
 诱人的香味	you ren de xiang wei	10
 诱人的元宝	you ren de yuan bao	10
+有人会来搞	you ren hui lai gao	10
 有人竟然说	you ren jing ran shuo	10
 有人喜欢蓝	you ren xi huan lan	10
 游刃有余地	you ren you yu de	10
@@ -81784,6 +82148,7 @@ sort: by_weight
 由我说了算	you wo shuo le suan	10
 油雾过滤器	you wu guo lv qi	10
 右武候将军	you wu hou jiang jun	10
+有无可能是	you wu ke neng shi	10
 有乌鲁木齐	you wu lu mu qi	10
 油污清洁剂	you wu qing jie ji	10
 油污清洗剂	you wu qing xi ji	10
@@ -81941,6 +82306,7 @@ sort: by_weight
 优秀的同事	you xiu de tong shi	10
 优秀的艺人	you xiu de yi ren	10
 优秀的战士	you xiu de zhan shi	10
+又修改过了	you xiu gai guo le	10
 优秀教师奖	you xiu jiao shi jiang	10
 优秀剧目奖	you xiu ju mu jiang	10
 优秀员工奖	you xiu yuan gong jiang	10
@@ -82117,6 +82483,7 @@ sort: by_weight
 右张量乘积	you zhang liang cheng ji	10
 有爪动物门	you zhao dong wu men	10
 有这份心意	you zhe fen xin yi	10
+有这个词语	you zhe ge ci yu	10
 釉鹧鸪斑碗	you zhe gu ban wan	10
 由着性子来	you zhe xing zi lai	10
 有针对性地	you zhen dui xing de	10
@@ -82709,6 +83076,7 @@ sort: by_weight
 预算的执行	yu suan de zhi xing	10
 预算外支出	yu suan wai zhi chu	10
 与他的兄弟	yu ta de xiong di	10
+与他在一起	yu ta zai yi qi	12
 与她在一起	yu ta zai yi qi	10
 鱼塘承包商	yu tang cheng bao shang	10
 御堂关白记	yu tang guan bai ji	10
@@ -82791,6 +83159,8 @@ sort: by_weight
 玉溪市政府	yu xi shi zheng fu	10
 玉昔帖木儿	yu xi tie mu er	10
 雨淅淅沥沥	yu xi xi li li	10
+雨下得大吗	yu xia de da ma	10
+雨下得大呀	yu xia de da ya	10
 雨下得更大	yu xia de geng da	10
 雨下得很大	yu xia de hen da	10
 余下的日子	yu xia de ri zi	10
@@ -83068,7 +83438,8 @@ sort: by_weight
 远大的目标	yuan da de mu biao	10
 远大的前程	yuan da de qian cheng	10
 远大的志向	yuan da de zhi xiang	10
-袁大头银元	yuan da tou yin yuan	10
+袁大头银元	yuan da tou yin yuan	12
+袁大头银圆	yuan da tou yin yuan	10
 元旦和春节	yuan dan he chun jie	10
 原党委书记	yuan dang wei shu ji	10
 院党委书记	yuan dang wei shu ji	10
@@ -83692,6 +84063,7 @@ sort: by_weight
 跃上新台阶	yue shang xin tai jie	10
 月收入过万	yue shou ru guo wan	10
 约束和限制	yue shu he xian zhi	10
+约束性保护	yue shu xing bao hu	10
 约束至酒醒	yue shu zhi jiu xing	10
 约四分之一	yue si fen zhi yi	10
 约斯塔函数	yue si ta han shu	10
@@ -83907,6 +84279,7 @@ sort: by_weight
 云醉月微眠	yun zui yue wei mian	10
 匝道收费站	za dao shou fei zhan	10
 扎个丸子头	za ge wan zi tou	10
+咋还有这个	za hai you zhe ge	10
 杂贺铃木氏	za he ling mu shi	10
 杂裾垂髾服	za ju chui shao fu	10
 杂块花岗岩	za kuai hua gang yan	10
@@ -83937,6 +84310,8 @@ sort: by_weight
 在不好意思	zai bu hao yi si	10
 在不经意间	zai bu jing yi jian	10
 在不了解你	zai bu liao jie ni	10
+在不在乎啊	zai bu zai hu a	10
+在不在乎吧	zai bu zai hu ba	10
 在常规赛中	zai chang gui sai zhong	10
 再唱国际歌	zai chang guo ji ge	10
 在长征路上	zai chang zheng lu shang	10
@@ -83958,6 +84333,7 @@ sort: by_weight
 在大自然中	zai da zi ran zhong	10
 再贷款利率	zai dai kuan li lv	10
 载得有情人	zai de you qing ren	10
+再等等他吧	zai deng deng ta ba	10
 再等一百年	zai deng yi bai nian	10
 再等一会儿	zai deng yi hui er	10
 在第二部中	zai di er bu zhong	10
@@ -83991,6 +84367,7 @@ sort: by_weight
 再告诉你们	zai gao su ni men	10
 在高兴之余	zai gao xing zhi yu	10
 栽个大跟头	zai ge da gen tou	10
+再跟我说啊	zai gen wo shuo a	10
 再顾倾人国	zai gu qing ren guo	10
 再观察观察	zai guan cha guan cha	10
 再观望一下	zai guan wang yi xia	10
@@ -84047,6 +84424,7 @@ sort: by_weight
 再举个例子	zai ju ge li zi	10
 在卡儿童数	zai ka er tong shu	10
 在开始菜单	zai kai shi cai dan	10
+在看电视啊	zai kan dian shi a	10
 在看电视的	zai kan dian shi de	10
 再看你一眼	zai kan ni yi yan	10
 再看我一眼	zai kan wo yi yan	10
@@ -84158,6 +84536,7 @@ sort: by_weight
 在市府广场	zai shi fu guang chang	10
 再世红梅记	zai shi hong mei ji	10
 在石家庄的	zai shi jia zhuang de	10
+再使劲点儿	zai shi jin dian er	10
 在失落之地	zai shi luo zhi di	10
 在世人面前	zai shi ren mian qian	10
 再输出贸易	zai shu chu mao yi	10
@@ -84185,6 +84564,7 @@ sort: by_weight
 在团队竞技	zai tuan dui jing ji	10
 在外的国人	zai wai de guo ren	10
 在外观上的	zai wai guan shang de	10
+再玩儿手机	zai wan er shou ji	10
 再完美不过	zai wan mei bu guo	10
 再玩一会儿	zai wan yi hui er	10
 在网上搜的	zai wang shang sou de	10
@@ -84502,6 +84882,7 @@ sort: by_weight
 怎么实现的	zen me shi xian de	10
 怎么忘了她	zen me wang le ta	10
 怎么泄露的	zen me xie lou de	10
+怎么也不听	zen me ye bu ting	10
 怎么这么高	zen me zhe me gao	10
 怎么这样呢	zen me zhe yang ne	10
 赠澳大熊猫	zeng ao da xiong mao	10
@@ -84800,6 +85181,7 @@ sort: by_weight
 战友歌舞团	zhan you ge wu tuan	10
 战友文工团	zhan you wen gong tuan	10
 站在风口上	zhan zai feng kou shang	10
+站在海面上	zhan zai hai mian shang	10
 展展与罗罗	zhan zhan yu luo luo	10
 战争爆发时	zhan zheng bao fa shi	10
 战争的爆发	zhan zheng de bao fa	10
@@ -85022,8 +85404,10 @@ sort: by_weight
 张献忠沉银	zhang xian zhong chen yin	10
 张献忠起义	zhang xian zhong qi yi	10
 张献忠屠蜀	zhang xian zhong tu shu	10
+长相非常地	zhang xiang fei chang de	10
 长相和气质	zhang xiang he qi zhi	10
 长相和身材	zhang xiang he shen cai	10
+长相十分地	zhang xiang shi fen de	10
 张小泉剪刀	zhang xiao quan jian dao	10
 张小生包子	zhang xiao sheng bao zi	10
 掌心的温度	zhang xin de wen du	10
@@ -85236,6 +85620,7 @@ sort: by_weight
 朝朝不见日	zhao zhao bu jian ri	10
 照沼欢莉莎	zhao zhao huan li sha	10
 照照镜子吧	zhao zhao jing zi ba	10
+照这么发展	zhao zhe me fa zhan	10
 赵志华事件	zhao zhi hua shi jian	10
 赵忠祥老师	zhao zhong xiang lao shi	10
 找专业人士	zhao zhuan ye ren shi	10
@@ -85289,6 +85674,9 @@ sort: by_weight
 褶合光谱法	zhe he guang pu fa	10
 折合人民币	zhe he ren min bi	10
 哲合忍耶派	zhe he ren ye pai	10
+这会应该是	zhe hui ying gai shi	12
+这回应该是	zhe hui ying gai shi	10
+这回应该是	zhe hui ying gai shi	10
 这基本都是	zhe ji ben dou shi	10
 哲基尔与我	zhe ji er yu wo	10
 褶颊虫亚目	zhe jia chong ya mu	10
@@ -85401,6 +85789,7 @@ sort: by_weight
 这样的真相	zhe yang de zhen xiang	10
 这样科学吗	zhe yang ke xue ma	10
 这样子的啊	zhe yang zi de a	10
+这样最好吧	zhe yang zui hao ba	10
 这一切的事	zhe yi qie de shi	10
 这一天天的	zhe yi tian tian de	10
 褶英二长岩	zhe ying er chang yan	10
@@ -85463,12 +85852,14 @@ sort: by_weight
 振荡监测网	zhen dang jian ce wang	10
 振荡晶体管	zhen dang jing ti guan	10
 镇党委书记	zhen dang wei shu ji	10
+真的不咋的	zhen de bu za de	10
 真的存在么	zhen de cun zai me	10
 真的好像啊	zhen de hao xiang a	10
 真的好想赢	zhen de hao xiang ying	10
 真的很大力	zhen de hen da li	10
 真的很想他	zhen de hen xiang ta	10
 真的很想她	zhen de hen xiang ta	10
+真的很想我	zhen de hen xiang wo	10
 真的假不了	zhen de jia bu liao	10
 真的假斯丁	zhen de jia si ding	10
 真的没事吗	zhen de mei shi ma	10
@@ -85728,6 +86119,7 @@ sort: by_weight
 真相的探求	zhen xiang de tan qiu	10
 真相的引力	zhen xiang de yin li	10
 真相就一个	zhen xiang jiu yi ge	10
+真想明白了	zhen xiang ming bai le	10
 真相是什么	zhen xiang shi shen me	10
 真相探寻者	zhen xiang tan xun zhe	10
 真相挖掘者	zhen xiang wa jue zhe	10
@@ -86440,7 +86832,10 @@ sort: by_weight
 止步十六强	zhi bu shi liu qiang	10
 止步于此了	zhi bu yu ci le	10
 知不知道啊	zhi bu zhi dao a	10
+知不知道啦	zhi bu zhi dao la	10
 知不知道呢	zhi bu zhi dao ne	10
+知不知道哦	zhi bu zhi dao o	10
+知不知道呀	zhi bu zhi dao ya	10
 肢残人协会	zhi can ren xie hui	10
 支参赛队伍	zhi can sai dui wu	10
 执策而临之	zhi ce er lin zhi	10
@@ -86471,6 +86866,7 @@ sort: by_weight
 职称评审权	zhi cheng ping shen quan	10
 志诚张主管	zhi cheng zhang zhu guan	10
 支持巴沙尔	zhi chi ba sha er	10
+支持得很好	zhi chi de hen hao	10
 知耻而后勇	zhi chi er hou yong	10
 支持和协作	zhi chi he xie zuo	10
 支持和援助	zhi chi he yuan zhu	10
@@ -86533,6 +86929,7 @@ sort: by_weight
 知道就晚了	zhi dao jiu wan le	10
 知道了真相	zhi dao le zhen xiang	10
 直到那一天	zhi dao na yi tian	10
+知道你不愿	zhi dao ni bu yuan	10
 直到你出现	zhi dao ni chu xian	10
 知道你会来	zhi dao ni hui lai	10
 直到前几天	zhi dao qian ji tian	10
@@ -86637,6 +87034,7 @@ sort: by_weight
 支付宝锦鲤	zhi fu bao jin li	10
 支付宝实名	zhi fu bao shi ming	10
 支付宝提现	zhi fu bao ti xian	10
+支付宝余额	zhi fu bao yu e	10
 致富奔小康	zhi fu ben xiao kang	10
 致富带头人	zhi fu dai tou ren	10
 致富的道路	zhi fu de dao lu	10
@@ -86797,6 +87195,7 @@ sort: by_weight
 支井河大桥	zhi jing he da qiao	10
 直径是多少	zhi jing shi duo shao	10
 置酒高殿上	zhi jiu gao dian shang	10
+只觉得自己	zhi jue de zi ji	10
 知觉恒常性	zhi jue heng chang xing	10
 知觉心理学	zhi jue xin li xue	10
 知觉选择性	zhi jue xuan ze xing	10
@@ -87468,7 +87867,7 @@ sort: by_weight
 职业指导师	zhi ye zhi dao shi	10
 执业中药师	zhi ye zhong yao shi	10
 执业中医师	zhi ye zhong yi shi	10
-职业资格证	zhi ye zi ge zheng	10
+职业资格证	zhi ye zi ge zheng	12
 执业资格证	zhi ye zi ge zheng	10
 质疑和谩骂	zhi yi he man ma	10
 致一人死亡	zhi yi ren si wang	10
@@ -87605,6 +88004,7 @@ sort: by_weight
 质子旋磁比	zhi zi xuan ci bi	10
 质子重离子	zhi zi zhong li zi	10
 只走花路吧	zhi zou hua lu ba	10
+只走下坡路	zhi zou xia po lu	10
 知足凯基介	zhi zu kai ji jie	10
 知足者常乐	zhi zu zhe chang le	10
 致最爱的你	zhi zui ai de ni	10
@@ -87627,6 +88027,7 @@ sort: by_weight
 钟表制造商	zhong biao zhi zao shang	10
 钟表制造者	zhong biao zhi zao zhe	10
 钟不敲不响	zhong bu qiao bu xiang	10
+重不重要吗	zhong bu zhong yao ma	10
 重不重要呢	zhong bu zhong yao ne	10
 仲裁裁决书	zhong cai cai jue shu	10
 仲裁当事人	zhong cai dang shi ren	10
@@ -87894,7 +88295,8 @@ sort: by_weight
 重力作用下	zhong li zuo yong xia	10
 重链可变区	zhong lian ke bian qu	10
 重量和尺寸	zhong liang he chi cun	10
-重量级拳王	zhong liang ji quan wang	10
+重量级拳王	zhong liang ji quan wang	12
+中量级拳王	zhong liang ji quan wang	10
 重量级人物	zhong liang ji ren wu	10
 忠烈侠义传	zhong lie xia yi zhuan	10
 忠烈杨家将	zhong lie yang jia jiang	10
@@ -88067,6 +88469,7 @@ sort: by_weight
 中小型房企	zhong xiao xing fang qi	10
 中小学德育	zhong xiao xue de yu	10
 中小学教辅	zhong xiao xue jiao fu	10
+中小学教师	zhong xiao xue jiao shi	12
 中小学教室	zhong xiao xue jiao shi	10
 中小学老师	zhong xiao xue lao shi	10
 中小学停课	zhong xiao xue ting ke	10
@@ -88117,6 +88520,7 @@ sort: by_weight
 重型榴弹炮	zhong xing liu dan pao	10
 众星捧月般	zhong xing peng yue ban	10
 重型商用车	zhong xing shang yong che	10
+中型拖拉机	zhong xing tuo la ji	12
 重型拖拉机	zhong xing tuo la ji	10
 中星微电子	zhong xing wei dian zi	10
 中兴微电子	zhong xing wei dian zi	10
@@ -88181,8 +88585,10 @@ sort: by_weight
 重要的两点	zhong yao de liang dian	10
 重要的任务	zhong yao de ren wu	10
 重要的人物	zhong yao de ren wu	10
+重要的人证	zhong yao de ren zheng	10
 重要的事件	zhong yao de shi jian	10
 重要的是人	zhong yao de shi ren	10
+重要的事实	zhong yao de shi shi	10
 重要的事物	zhong yao de shi wu	10
 重要的一课	zhong yao de yi ke	10
 重要的一员	zhong yao de yi yuan	10
@@ -88491,6 +88897,7 @@ sort: by_weight
 注册测绘师	zhu ce ce hui shi	10
 注册成商标	zhu ce cheng shang biao	10
 注册登记地	zhu ce deng ji di	10
+注册登记号	zhu ce deng ji hao	10
 注册个小号	zhu ce ge xiao hao	10
 注册和登录	zhu ce he deng lu	10
 注册结构师	zhu ce jie gou shi	10
@@ -88543,6 +88950,8 @@ sort: by_weight
 诸翟关帝庙	zhu di guan di miao	10
 茱迪科士打	zhu di ke shi da	10
 筑地鱼市场	zhu di yu shi chang	10
+注定不会再	zhu ding bu hui zai	10
+主动打上去	zhu dong da shang qu	10
 主动的联系	zhu dong de lian xi	10
 主动的女人	zhu dong de nv ren	10
 主动的女生	zhu dong de nv sheng	10
@@ -89869,6 +90278,7 @@ sort: by_weight
 孜然小羊腿	zi ran xiao yang tui	10
 自然选择号	zi ran xuan ze hao	10
 自然选择说	zi ran xuan ze shuo	10
+自然遗产地	zi ran yi chan di	10
 自然音和弦	zi ran yin he xian	10
 自然音体系	zi ran yin ti xi	10
 自然又好看	zi ran you hao kan	10
@@ -90012,6 +90422,7 @@ sort: by_weight
 自行车车架	zi xing che che jia	10
 自行车脚踏	zi xing che jiao ta	10
 自行车竞技	zi xing che jing ji	10
+自行车赛事	zi xing che sai shi	10
 自行车上笑	zi xing che shang xiao	10
 自行车协会	zi xing che xie hui	10
 自行车坐垫	zi xing che zuo dian	10
@@ -90406,6 +90817,7 @@ sort: by_weight
 走到那一步	zou dao na yi bu	10
 走到最后呢	zou dao zui hou ne	10
 走得比较近	zou de bi jiao jin	10
+走得很快啊	zou de hen kuai a	10
 走的那一天	zou de na yi tian	10
 走得太匆忙	zou de tai cong mang	10
 走丢的孩子	zou diu de hai zi	10
@@ -90440,6 +90852,7 @@ sort: by_weight
 走马观花式	zou ma guan hua shi	10
 走马楼简牍	zou ma lou jian du	10
 走马行酒礼	zou ma xing jiu li	10
+走没走到呀	zou mei zou dao ya	10
 走亲访友时	zou qin fang you shi	10
 走群众路线	zou qun zhong lu xian	10
 走上不归路	zou shang bu gui lu	10
@@ -90597,6 +91010,7 @@ sort: by_weight
 最卑贱不过	zui bei jian bu guo	10
 最不解的是	zui bu jie de shi	10
 最不屑一顾	zui bu xie yi gu	10
+最不值得买	zui bu zhi de mai	10
 最惨的一次	zui can de yi ci	10
 嘴侧线形核	zui ce xian xing he	10
 最差的一部	zui cha de yi bu	10
@@ -90686,6 +91100,7 @@ sort: by_weight
 最厚的地方	zui hou de di fang	10
 最后的格格	zui hou de ge ge	10
 最后的归宿	zui hou de gui su	10
+最后的皇帝	zui hou de huang di	12
 最后的皇弟	zui hou de huang di	10
 最后的计时	zui hou de ji shi	10
 最后的教父	zui hou de jiao fu	10
@@ -90946,6 +91361,7 @@ sort: by_weight
 做得还不够	zuo de hai bu gou	10
 做得很不错	zuo de hen bu cuo	10
 做得很出色	zuo de hen chu se	10
+做得很大啊	zuo de hen da a	10
 做得很漂亮	zuo de hen piao liang	10
 做的那些事	zuo de na xie shi	1000
 做得太过分	zuo de tai guo fen	10
@@ -91026,6 +91442,7 @@ sort: by_weight
 做了个手势	zuo le ge shou shi	10
 做了哪些事	zuo le na xie shi	1000
 做了什么孽	zuo le shen me nie	10
+做了一点儿	zuo le yi dian er	10
 坐了一会儿	zuo le yi hui er	10
 做力量训练	zuo li liang xun lian	10
 昨怜破袄寒	zuo lian po ao han	10
@@ -91531,7 +91948,8 @@ sort: by_weight
 爱上狐狸的熊	ai shang hu li de xiong	10
 爱上她的理由	ai shang ta de li you	10
 爱上一匹野马	ai shang yi pi ye ma	10
-爱上有妇之夫	ai shang you fu zhi fu	10
+爱上有妇之夫	ai shang you fu zhi fu	12
+爱上有夫之妇	ai shang you fu zhi fu	10
 爱生活的艺术	ai sheng huo de yi shu	10
 爱时代少年团	ai shi dai shao nian tuan	10
 爱是点点滴滴	ai shi dian dian di di	10
@@ -92313,7 +92731,7 @@ sort: by_weight
 百万电子伏特	bai wan dian zi fu te	10
 百万朵玫瑰花	bai wan duo mei gui hua	10
 百万夺命奇案	bai wan duo ming qi an	10
-百万美圆宝贝	bai wan mei yuan bao bei	10
+百万美元宝贝	bai wan mei yuan bao bei	10
 百旺家苑小区	bai wang jia yuan xiao qu	10
 白吻斑纹海豚	bai wen ban wen hai tun	10
 百闻不如一见	bai wen bu ru yi jian	10
@@ -92464,7 +92882,8 @@ sort: by_weight
 办理不动产证	ban li bu dong chan zheng	10
 办理残疾人证	ban li can ji ren zheng	10
 办理乘机手续	ban li cheng ji shou xu	10
-办理登机手续	ban li deng ji shou xu	10
+办理登机手续	ban li deng ji shou xu	12
+办理登记手续	ban li deng ji shou xu	10
 半立方抛物线	ban li fang pao wu xian	10
 办理进出口权	ban li jin chu kou quan	10
 办理军机事务	ban li jun ji shi wu	10
@@ -94388,7 +94807,7 @@ sort: by_weight
 布胡二氏反应	bu hu er shi fan ying	10
 布胡二氏试验	bu hu er shi shi yan	10
 不花钱也能玩	bu hua qian ye neng wan	10
-不怀好意的笑	bu huai hao yi de xiao	10
+不怀好意地笑	bu huai hao yi de xiao	10
 补换领驾驶证	bu huan ling jia shi zheng	10
 不会拐弯抹角	bu hui guai wan mo jiao	10
 不会患得患失	bu hui huan de huan shi	10
@@ -95057,6 +95476,7 @@ sort: by_weight
 不一样的声音	bu yi yang de sheng yin	10
 不一样的时间	bu yi yang de shi jian	10
 不一样的视角	bu yi yang de shi jiao	10
+不一样的世界	bu yi yang de shi jie	12
 不一样的视界	bu yi yang de shi jie	10
 不一样的视觉	bu yi yang de shi jue	10
 不一样的事情	bu yi yang de shi qing	10
@@ -95786,7 +96206,7 @@ sort: by_weight
 长期存活患者	chang qi cun huo huan zhe	10
 长崎蜂蜜蛋糕	chang qi feng mi dan gao	10
 长期股票期权	chang qi gu piao qi quan	10
-长期借款其它	chang qi jie kuan qi ta	10
+长期借款其他	chang qi jie kuan qi ta	10
 长期竞争优势	chang qi jing zheng you shi	10
 长期久坐不动	chang qi jiu zuo bu dong	10
 长期居留许可	chang qi ju liu xu ke	10
@@ -98047,7 +98467,8 @@ sort: by_weight
 大卡通数据库	da ka tong shu ju ku	10
 打开的一瞬间	da kai de yi shun jian	10
 打开发动机盖	da kai fa dong ji gai	10
-大开方便之门	da kai fang bian zhi men	10
+大开方便之门	da kai fang bian zhi men	12
+打开方便之门	da kai fang bian zhi men	10
 打开高德地图	da kai gao de di tu	10
 打开另一扇窗	da kai ling yi shan chuang	10
 大课间的时候	da ke jian de shi hou	10
@@ -98775,6 +99196,7 @@ sort: by_weight
 到底能走多远	dao di neng zou duo yuan	10
 到敌人后方去	dao di ren hou fang qu	10
 到底是好是坏	dao di shi hao shi huai	10
+到底是什么事	dao di shi shen me shi	10
 到底要不要刷	dao di yao bu yao shua	10
 到底有完没完	dao di you wan mei wan	10
 到底长什么样	dao di zhang shen me yang	10
@@ -100314,6 +100736,7 @@ sort: by_weight
 洞穴巨魔腰带	dong xue ju mo yao dai	10
 洞穴仆人战士	dong xue pu ren zhan shi	10
 东野圭吾小说	dong ye gui wu xiao shuo	10
+东一句西一句	dong yi ju xi yi ju	10
 东医寿世保元	dong yi shou shi bao yuan	10
 东医四象新篇	dong yi si xiang xin pian	10
 东英金融集团	dong ying jin rong ji tuan	10
@@ -101466,8 +101889,14 @@ sort: by_weight
 发射体发射极	fa she ti fa she ji	10
 发生爆炸事件	fa sheng bao zha shi jian	10
 发生不可抗力	fa sheng bu ke kang li	10
+发生的一件事	fa sheng de yi jian shi	10
 发生激烈争执	fa sheng ji lie zheng zhi	10
+发生了很多事	fa sheng le hen duo shi	10
+发生了什么事	fa sheng le shen me shi	10
+发生了一些事	fa sheng le yi xie shi	10
 发生枪击事件	fa sheng qiang ji shi jian	10
+发生什么事儿	fa sheng shen me shi er	10
+发生什么事了	fa sheng shen me shi le	10
 发生突发事件	fa sheng tu fa shi jian	10
 发生质的变化	fa sheng zhi de bian hua	10
 法式龙虾浓汤	fa shi long xia nong tang	10
@@ -101517,6 +101946,9 @@ sort: by_weight
 法院执行案件	fa yuan zhi xing an jian	10
 发在朋友圈里	fa zai peng you quan li	10
 发展党员的事	fa zhan dang yuan de shi	10
+发展得非常好	fa zhan de fei chang hao	10
+发展得太快了	fa zhan de tai kuai le	10
+发展得这么好	fa zhan de zhe me hao	10
 发展第一要务	fa zhan di yi yao wu	10
 发展电子商务	fa zhan dian zi shang wu	10
 发展规划编制	fa zhan gui hua bian zhi	10
@@ -102108,6 +102540,7 @@ sort: by_weight
 非瓣膜性房颤	fei ban mo xing fang chan	10
 非本海葵亚目	fei ben hai kui ya mu	10
 非本昭垛层错	fei ben zhao duo ceng cuo	10
+非必要不出省	fei bi yao bu chu sheng	10
 费边社会主义	fei bian she hui zhu yi	10
 非变应性哮喘	fei bian ying xing xiao chuan	10
 匪兵甲乙丙丁	fei bing jia yi bing ding	10
@@ -102122,6 +102555,29 @@ sort: by_weight
 非参与优先股	fei can yu you xian gu	10
 非常棒的事情	fei chang bang de shi qing	10
 非常不可思议	fei chang bu ke si yi	10
+非常地不方便	fei chang de bu fang bian	10
+非常地不甘心	fei chang de bu gan xin	10
+非常地不容易	fei chang de bu rong yi	10
+非常地不舒服	fei chang de bu shu fu	10
+非常地好用啊	fei chang de hao yong a	10
+非常地接地气	fei chang de jie di qi	10
+非常地人性化	fei chang de ren xing hua	10
+非常地吸引人	fei chang de xi yin ren	10
+非常地显气质	fei chang de xian qi zhi	10
+非常地显身材	fei chang de xian shen cai	10
+非常地小清新	fei chang de xiao qing xin	10
+非常地有才华	fei chang de you cai hua	10
+非常地有个性	fei chang de you ge xing	10
+非常地有活力	fei chang de you huo li	10
+非常地有看点	fei chang de you kan dian	10
+非常地有礼貌	fei chang de you li mao	10
+非常地有魅力	fei chang de you mei li	10
+非常地有气场	fei chang de you qi chang	10
+非常地有气质	fei chang de you qi zhi	10
+非常地有实力	fei chang de you shi li	10
+非常地有特点	fei chang de you te dian	10
+非常地有特色	fei chang de you te se	10
+非常地有意思	fei chang de you yi si	10
 非常高的标准	fei chang gao de biao zhun	10
 非常高的地位	fei chang gao de di wei	10
 非常高的分数	fei chang gao de fen shu	10
@@ -102329,6 +102785,10 @@ sort: by_weight
 非拉丁裔白人	fei la ding yi bai ren	10
 菲拉格慕公司	fei la ge mu gong si	10
 非拉妥珠单抗	fei la tuo zhu dan kang	10
+费了不少功夫	fei le bu shao gong fu	10
+费了好大的劲	fei le hao da de jin	10
+费了很大的劲	fei le hen da de jin	10
+费了很多心思	fei le hen duo xin si	10
 非累积优先股	fei lei ji you xian gu	10
 翡冷翠的一夜	fei leng cui de yi ye	10
 腓力奥古斯都	fei li ao gu si du	10
@@ -103521,6 +103981,7 @@ sort: by_weight
 钙测定试剂盒	gai ce ding shi ji he	10
 钙长铬透辉岩	gai chang ge tou hui yan	10
 该承担的责任	gai cheng dan de ze ren	10
+改大还是改小	gai da hai shi gai xiao	10
 改得面目全非	gai de mian mu quan fei	10
 钙等微量元素	gai deng wei liang yuan su	10
 钙等营养物质	gai deng ying yang wu zhi	10
@@ -104033,7 +104494,7 @@ sort: by_weight
 高精度的定位	gao jing du de ding wei	10
 高居世界第一	gao ju shi jie di yi	10
 高聚物溶液论	gao ju wu rong ye lun	10
-高开叉的设计	gao kai cha de she ji	10
+高开衩的设计	gao kai cha de she ji	10
 高考成绩优异	gao kao cheng ji you yi	10
 高考的公平性	gao kao de gong ping xing	10
 高考的重要性	gao kao de zhong yao xing	10
@@ -104600,7 +105061,7 @@ sort: by_weight
 个人消费支出	ge ren xiao fei zhi chu	10
 个人心得体会	ge ren xin de ti hui	10
 个人信息收集	ge ren xin xi shou ji	10
-个人信息泄漏	ge ren xin xi xie lou	10
+个人信息泄露	ge ren xin xi xie lou	10
 个人信息主体	ge ren xin xi zhu ti	10
 个人英雄主义	ge ren ying xiong zhu yi	10
 各人有各人的	ge ren you ge ren de	10
@@ -105805,6 +106266,7 @@ sort: by_weight
 怪盗与名侦探	guai dao yu ming zhen tan	10
 怪怪怪的妻子	guai guai guai de qi zi	10
 乖乖束手就擒	guai guai shu shou jiu qin	10
+怪你过分美丽	guai ni guo fen mei li	12
 怪你过份美丽	guai ni guo fen mei li	10
 怪鸟传说之谜	guai niao chuan shuo zhi mi	10
 怪人二十面相	guai ren er shi mian xiang	10
@@ -105940,7 +106402,7 @@ sort: by_weight
 关于胶原蛋白	guan yu jiao yuan dan bai	10
 关于那方面的	guan yu na fang mian de	10
 关于社会主义	guan yu she hui zhu yi	10
-关于它的故事	guan yu ta de gu shi	10
+关于他的故事	guan yu ta de gu shi	10
 关于他的事迹	guan yu ta de shi ji	10
 馆长成吉思汗	guan zhang cheng ji si han	10
 冠忠巴士集团	guan zhong ba shi ji tuan	10
@@ -108199,7 +108661,7 @@ sort: by_weight
 很自然的事情	hen zi ran de shi qing	10
 亨阿二氏贫血	heng a er shi pin xue	10
 亨奥二氏试验	heng ao er shi shi yan	10
-横板过关游戏	heng ban guo guan you xi	10
+横版过关游戏	heng ban guo guan you xi	10
 横板珊瑚亚纲	heng ban shan hu ya gang	10
 横斑直口非鲫	heng ban zhi kou fei ji	10
 恒常所得假说	heng chang suo de jia shuo	10
@@ -111368,6 +111830,7 @@ sort: by_weight
 简并型半导体	jian bing xing ban dao ti	10
 见不得光的事	jian bu de guang de shi	10
 坚不可摧的心	jian bu ke cui de xin	10
+检测报告显示	jian ce bao gao xian shi	12
 监测报告显示	jian ce bao gao xian shi	10
 监测潮气容积	jian ce chao qi rong ji	10
 监测点位设置	jian ce dian wei she zhi	10
@@ -111376,6 +111839,7 @@ sort: by_weight
 监测网点建设	jian ce wang dian jian she	10
 检测限敏感度	jian ce xian min gan du	10
 检测仪器厂家	jian ce yi qi chang jia	10
+检测仪器设备	jian ce yi qi she bei	12
 监测仪器设备	jian ce yi qi she bei	10
 监测预报预警	jian ce yu bao yu jing	10
 监测预警机制	jian ce yu jing ji zhi	10
@@ -112029,7 +112493,7 @@ sort: by_weight
 交流心得体会	jiao liu xin de ti hui	10
 交流学习心得	jiao liu xue xi xin de	10
 交流异步电机	jiao liu yi bu dian ji	10
-交纳社会保险	jiao na she hui bao xian	10
+缴纳社会保险	jiao na she hui bao xian	10
 缴纳五险一金	jiao na wu xian yi jin	10
 角平分线定理	jiao ping fen xian ding li	10
 脚气脚汗脚臭	jiao qi jiao han jiao chou	10
@@ -112124,7 +112588,8 @@ sort: by_weight
 矫形外科医生	jiao xing wai ke yi sheng	10
 侥幸心理作祟	jiao xing xin li zuo sui	10
 教学实践活动	jiao xue shi jian huo dong	10
-教学质量监测	jiao xue zhi liang jian ce	10
+教学质量监测	jiao xue zhi liang jian ce	12
+教学质量检测	jiao xue zhi liang jian ce	10
 焦亚德尔科莱	jiao ya de er ke lai	10
 交易的安全性	jiao yi de an quan xing	10
 交易的一部分	jiao yi de yi bu fen	10
@@ -112388,6 +112853,7 @@ sort: by_weight
 节目精彩纷呈	jie mu jing cai fen cheng	10
 节目开播以来	jie mu kai bo yi lai	10
 捷姆尼科夫区	jie mu ni ke fu qu	10
+节目已经播出	jie mu yi jing bo chu	12
 节目一经播出	jie mu yi jing bo chu	10
 接纳未成年人	jie na wei cheng nian ren	10
 节能环保锅炉	jie neng huan bao guo lu	10
@@ -114310,7 +114776,7 @@ sort: by_weight
 开展调查核实	kai zhan diao cha he shi	10
 开展督导检查	kai zhan du dao jian cha	10
 开展法律援助	kai zhan fa lv yuan zhu	10
-开展法制教育	kai zhan fa zhi jiao yu	10
+开展法治教育	kai zhan fa zhi jiao yu	10
 开展反腐倡廉	kai zhan fan fu chang lian	10
 开展互利合作	kai zhan hu li he zuo	10
 开展环境整治	kai zhan huan jing zheng zhi	10
@@ -115622,7 +116088,7 @@ sort: by_weight
 来自东土大唐	lai zi dong tu da tang	10
 来自邯郸的张	lai zi han dan de zhang	10
 来自山川湖海	lai zi shan chuan hu hai	10
-来自猩猩的你	lai zi xing xing de ni	10
+来自星星的你	lai zi xing xing de ni	10
 来自星星的他	lai zi xing xing de ta	10
 蓝白细吻海豚	lan bai xi wen hai tun	10
 蓝堡国际中心	lan bao guo ji zhong xin	10
@@ -116242,7 +116708,8 @@ sort: by_weight
 历史性的一刻	li shi xing de yi ke	10
 历史性的一幕	li shi xing de yi mu	10
 历史性的一天	li shi xing de yi tian	10
-历史性的一页	li shi xing de yi ye	10
+历史性的一页	li shi xing de yi ye	12
+历史性的一夜	li shi xing de yi ye	10
 力士型运输机	li shi xing yun shu ji	10
 历史修正主义	li shi xiu zheng zhu yi	10
 历史虚无主义	li shi xu wu zhu yi	10
@@ -116668,7 +117135,7 @@ sort: by_weight
 亮菌甲素冻干	liang jun jia su dong gan	10
 两颗心的距离	liang ke xin de ju li	10
 两劳释放人员	liang lao shi fang ren yuan	10
-靓丽的成绩单	liang li de cheng ji dan	10
+亮丽的成绩单	liang li de cheng ji dan	10
 亮丽的风景线	liang li de feng jing xian	10
 亮亮丽君夫妇	liang liang li jun fu fu	10
 两面煎至金黄	liang mian jian zhi jin huang	10
@@ -118574,7 +119041,7 @@ sort: by_weight
 没鱼雷的艇长	mei yu lei de ting zhang	10
 煤与瓦斯突出	mei yu wa si tu chu	10
 美源伯根公司	mei yuan bo gen gong si	10
-美元对人民币	mei yuan dui ren min bi	10
+美元兑人民币	mei yuan dui ren min bi	10
 美越军事关系	mei yue jun shi guan xi	10
 没长大的孩子	mei zhang da de hai zi	10
 昧着良心说话	mei zhe liang xin shuo hua	10
@@ -120268,7 +120735,7 @@ sort: by_weight
 纽结不稳定性	niu jie bu wen ding xing	10
 牛津杀人定律	niu jin sha ren ding lv	10
 牛津通识读本	niu jin tong shi du ben	10
-牛津英语辞典	niu jin ying yu ci dian	10
+牛津英语词典	niu jin ying yu ci dian	10
 纽可门蒸汽机	niu ke men zheng qi ji	10
 钮扣和蝴蝶结	niu kou he hu die jie	10
 钮扣型扩音器	niu kou xing kuo yin qi	10
@@ -121564,16 +122031,16 @@ sort: by_weight
 其他班子成员	qi ta ban zi cheng yuan	10
 其他编程语言	qi ta bian cheng yu yan	10
 其他扁平苔癣	qi ta bian ping tai xuan	10
-其它不当行为	qi ta bu dang xing wei	10
+其他不当行为	qi ta bu dang xing wei	10
 其他不可抗力	qi ta bu ke kang li	10
 其他产力异常	qi ta chan li yi chang	10
-其它长期负债	qi ta chang qi fu zhai	10
-其它长期投资	qi ta chang qi tou zi	10
+其他长期负债	qi ta chang qi fu zhai	10
+其他长期投资	qi ta chang qi tou zi	10
 其他单胎顺产	qi ta dan tai shun chan	10
-其它递延负债	qi ta di yan fu zhai	10
-其它递延资产	qi ta di yan zi chan	10
+其他递延负债	qi ta di yan fu zhai	10
+其他递延资产	qi ta di yan zi chan	10
 其他多胎妊娠	qi ta duo tai ren shen	10
-其它个人信息	qi ta ge ren xin xi	10
+其他个人信息	qi ta ge ren xin xi	10
 其他化学物质	qi ta hua xue wu zhi	10
 其他检测仪器	qi ta jian ce yi qi	10
 其他检验试验	qi ta jian yan shi yan	10
@@ -121583,29 +122050,29 @@ sort: by_weight
 其他商服用地	qi ta shang fu yong di	10
 其他生育问题	qi ta sheng yu wen ti	10
 其他胎儿失血	qi ta tai er shi xue	10
-其它条件不变	qi ta tiao jian bu bian	10
+其他条件不变	qi ta tiao jian bu bian	10
 其他突发事件	qi ta tu fa shi jian	10
-其它推销费用	qi ta tui xiao fei yong	10
-其它无形资产	qi ta wu xing zi chan	10
+其他推销费用	qi ta tui xiao fei yong	10
+其他无形资产	qi ta wu xing zi chan	10
 其他形式诺卡	qi ta xing shi nuo ka	10
 其他行政处罚	qi ta xing zheng chu fa	10
 其他严重情节	qi ta yan zhong qing jie	10
 其他业务支出	qi ta ye wu zhi chu	10
 其他医护人员	qi ta yi hu ren yuan	10
 其他一级资本	qi ta yi ji zi ben	10
-其它应付费用	qi ta ying fu fei yong	10
-其它营业成本	qi ta ying ye cheng ben	10
-其它营业收入	qi ta ying ye shou ru	10
-其它用途的阀	qi ta yong tu de fa	10
+其他应付费用	qi ta ying fu fei yong	10
+其他营业成本	qi ta ying ye cheng ben	10
+其他营业收入	qi ta ying ye shou ru	10
+其他用途的阀	qi ta yong tu de fa	10
 其他有害物质	qi ta you hai wu zhi	10
 其他有价证券	qi ta you jia zheng quan	10
 其他债权投资	qi ta zhai quan tou zi	10
 其他职能部门	qi ta zhi neng bu men	10
 其他智能家居	qi ta zhi neng jia ju	10
 其他智能手机	qi ta zhi neng shou ji	10
-其它制造费用	qi ta zhi zao fei yong	10
+其他制造费用	qi ta zhi zao fei yong	10
 其他专业人士	qi ta zhuan ye ren shi	10
-其它资本公积	qi ta zi ben gong ji	10
+其他资本公积	qi ta zi ben gong ji	10
 其他资本公积	qi ta zi ben gong ji	10
 气态漂白气化	qi tai piao bai qi hua	10
 气体纯化装置	qi ti chun hua zhuang zhi	10
@@ -123274,7 +123741,8 @@ sort: by_weight
 全身大汗淋漓	quan shen da han lin li	10
 全身过敏反应	quan shen guo min fan ying	10
 全身偏侧萎缩	quan shen pian ce wei suo	10
-全身心地投入	quan shen xin de tou ru	10
+全身心地投入	quan shen xin de tou ru	12
+全身心的投入	quan shen xin de tou ru	10
 全身性挤压伤	quan shen xing ji ya shang	10
 全省第一方阵	quan sheng di yi fang zhen	10
 全食超市公司	quan shi chao shi gong si	10
@@ -123877,6 +124345,7 @@ sort: by_weight
 人们足不出户	ren men zu bu chu hu	10
 人免疫球蛋白	ren mian yi qiu dan bai	10
 人民保护部队	ren min bao hu bu dui	10
+人民币存款约	ren min bi cun kuan yue	10
 人民币的贬值	ren min bi de bian zhi	10
 人民币的汇率	ren min bi de hui lv	10
 人民币的升值	ren min bi de sheng zhi	10
@@ -124214,7 +124683,7 @@ sort: by_weight
 荣县大佛石窟	rong xian da fo shi ku	10
 荣虚则血不足	rong xu ze xue bu zu	10
 溶血蚀斑试验	rong xue shi ban shi yan	10
-溶血型链球菌	rong xue xing lian qiu jun	10
+溶血性链球菌	rong xue xing lian qiu jun	10
 熔岩表壳构造	rong yan biao ke gou zao	10
 熔岩空洞构造	rong yan kong dong gou zao	10
 熔岩上的冰块	rong yan shang de bing kuai	10
@@ -125082,6 +125551,7 @@ sort: by_weight
 山西文史资料	shan xi wen shi zi liao	10
 山西武备学堂	shan xi wu bei xue tang	10
 陕西西咸新区	shan xi xi xian xin qu	10
+山西新闻联播	shan xi xin wen lian bo	12
 陕西新闻联播	shan xi xin wen lian bo	10
 陕西行政区划	shan xi xing zheng qu hua	10
 陕西学前师范	shan xi xue qian shi fan	10
@@ -125097,7 +125567,6 @@ sort: by_weight
 山西中路梆子	shan xi zhong lu bang zi	10
 陕西中新浐灞	shan xi zhong xin chan ba	10
 陕西重型汽车	shan xi zhong xing qi che	10
-陕西中医学院	shan xi zhong yi xue yuan	10
 闪瞎我的狗眼	shan xia wo de gou yan	10
 山形盖顶纸盒	shan xing gai ding zhi he	10
 善衍生物科技	shan yan sheng wu ke ji	10
@@ -125748,7 +126217,7 @@ sort: by_weight
 身份证号查询	shen fen zheng hao cha xun	10
 身份证或护照	shen fen zheng huo hu zhao	10
 身份证件号码	shen fen zheng jian hao ma	10
-身分证明文件	shen fen zheng ming wen jian	10
+身份证明文件	shen fen zheng ming wen jian	10
 神风怪盗贞德	shen feng guai dao zhen de	10
 神风型驱逐舰	shen feng xing qu zhu jian	10
 神风终极战士	shen feng zhong ji zhan shi	10
@@ -125899,7 +126368,7 @@ sort: by_weight
 肾上腺下动脉	shen shang xian xia dong mai	10
 肾上腺中动脉	shen shang xian zhong dong mai	10
 肾上腺轴激素	shen shang xian zhou ji su	10
-婶婶的脑海里	shen shen de nao hai li	10
+深深的脑海里	shen shen de nao hai li	10
 审慎监管制度	shen shen jian guan zhi du	10
 审慎经营规则	shen shen jing ying gui ze	10
 审慎投资规则	shen shen tou zi gui ze	10
@@ -127249,7 +127718,8 @@ sort: by_weight
 士乃国际机场	shi nai guo ji ji chang	10
 室内传导阻滞	shi nei chuan dao zu zhi	10
 市内公共交通	shi nei gong gong jiao tong	10
-室内环境监测	shi nei huan jing jian ce	10
+室内环境监测	shi nei huan jing jian ce	12
+室内环境检测	shi nei huan jing jian ce	10
 室内环境净化	shi nei huan jing jing hua	10
 室内给水系统	shi nei ji shui xi tong	10
 室内空气净化	shi nei kong qi jing hua	10
@@ -127750,7 +128220,9 @@ sort: by_weight
 适用法律法规	shi yong fa lv fa gui	10
 适用法律问题	shi yong fa lv wen ti	10
 适用法律正确	shi yong fa lv zheng que	10
+使用范围更广	shi yong fan wei geng guang	12
 适用范围更广	shi yong fan wei geng guang	10
+使用范围广泛	shi yong fan wei guang fan	12
 适用范围广泛	shi yong fan wei guang fan	10
 适用范围较广	shi yong fan wei jiao guang	10
 实用工具页面	shi yong gong ju ye mian	10
@@ -129216,7 +129688,6 @@ sort: by_weight
 斯特段侄匠眺	si te duan zhi jiang tiao	10
 斯特拉瑟主义	si te la se zhu yi	10
 斯特劳哈尔数	si te lao ha er shu	10
-思特里克兰德	si te li ke lan de	10
 斯特龙博利岛	si te long bo li dao	10
 斯特鲁普效应	si te lu pu xiao ying	10
 斯特鲁维家族	si te lu wei jia zu	10
@@ -130877,7 +131348,7 @@ sort: by_weight
 廷达罗斯猎犬	ting da luo si lie quan	10
 停到地下车库	ting dao di xia che ku	10
 听到砰的一声	ting dao peng de yi sheng	10
-听到她的声音	ting dao ta de sheng yin	10
+听到他的声音	ting dao ta de sheng yin	10
 听到一声巨响	ting dao yi sheng ju xiang	10
 听到一些风声	ting dao yi xie feng sheng	10
 听得不太清楚	ting de bu tai qing chu	10
@@ -131841,7 +132312,7 @@ sort: by_weight
 完全积性函数	wan quan ji xing han shu	10
 完全加性测度	wan quan jia xing ce duo	10
 完全加性集族	wan quan jia xing ji zu	10
-完全竟争市场	wan quan jing zheng shi chang	10
+完全竞争市场	wan quan jing zheng shi chang	10
 完全可微分的	wan quan ke wei fen de	10
 完全可微函数	wan quan ke wei han shu	10
 完全控制不住	wan quan kong zhi bu zhu	10
@@ -132680,7 +133151,6 @@ sort: by_weight
 稳定流形定理	wen ding liu xing ding li	10
 稳定社会秩序	wen ding she hui zhi xu	10
 稳定土拌和机	wen ding tu ban huo ji	10
-稳定性心绞痛	wen ding xing xin jiao tong	10
 稳定盐反应炉	wen ding yan fan ying lu	10
 温都尔汗机场	wen dou er han ji chang	10
 温度计保护管	wen du ji bao hu guan	10
@@ -133820,9 +134290,14 @@ sort: by_weight
 喜爱的女演员	xi ai de nv yan yuan	10
 西安半坡遗址	xi an ban po yi zhi	10
 西安报话大楼	xi an bao hua da lou	10
+西安财经大学	xi an cai jing da xue	10
 西安大清真寺	xi an da qing zhen si	10
 西安大唐电信	xi an da tang dian xin	10
+西安大兴崇德	xi an da xing chong de	10
+西安大兴医院	xi an da xing yi yuan	12
+西安大型医院	xi an da xing yi yuan	10
 西安地质学院	xi an di zhi xue yuan	10
+西安妇科医院	xi an fu ke yi yuan	10
 西安高速公路	xi an gao su gong lu	10
 西安高新一中	xi an gao xin yi zhong	10
 锡安国家公园	xi an guo jia gong yuan	10
@@ -133832,6 +134307,7 @@ sort: by_weight
 西安绿地中心	xi an lv di zhong xin	10
 西安绿谷制药	xi an lv gu zhi yao	10
 西安旅游景点	xi an lv you jing dian	10
+西安年最中国	xi an nian zui zhong guo	10
 西安清真大寺	xi an qing zhen da si	10
 西安绕城高速	xi an rao cheng gao su	10
 锡安社会主义	xi an she hui zhu yi	10
@@ -133854,6 +134330,8 @@ sort: by_weight
 西安邮电大学	xi an you dian da xue	10
 西安邮电学院	xi an you dian xue yuan	10
 西安中国画院	xi an zhong guo hua yuan	10
+西安中际医院	xi an zhong ji yi yuan	10
+西安注册公司	xi an zhu ce gong si	10
 锡安主义运动	xi an zhu yi yun dong	10
 西班牙葛兰素	xi ban ya ge lan su	10
 西班牙基立福	xi ban ya ji li fu	10
@@ -134503,13 +134981,13 @@ sort: by_weight
 酰基载体蛋白	xian ji zai ti dan bai	10
 酰基转移酶类	xian ji zhuan yi mei lei	10
 限价商品住房	xian jia shang pin zhu fang	10
-仙剑奇侠传二	xian jian qi xia zhuan er	104
-仙剑奇侠传六	xian jian qi xia zhuan liu	101
+仙剑奇侠传二	xian jian qi xia zhuan er	14
+仙剑奇侠传六	xian jian qi xia zhuan liu	11
 仙剑奇侠传七	xian jian qi xia zhuan qi	10
-仙剑奇侠传三	xian jian qi xia zhuan san	106
-仙剑奇侠传四	xian jian qi xia zhuan si	103
-仙剑奇侠传五	xian jian qi xia zhuan wu	102
-仙剑奇侠传一	xian jian qi xia zhuan yi	105
+仙剑奇侠传三	xian jian qi xia zhuan san	16
+仙剑奇侠传四	xian jian qi xia zhuan si	13
+仙剑奇侠传五	xian jian qi xia zhuan wu	12
+仙剑奇侠传一	xian jian qi xia zhuan yi	15
 仙剑奇侠传中	xian jian qi xia zhuan zhong	10
 先进出版公司	xian jin chu ban gong si	10
 先进单位称号	xian jin dan wei cheng hao	10
@@ -135116,7 +135594,7 @@ sort: by_weight
 向下取整函数	xiang xia qu zheng han shu	10
 乡下人的悲歌	xiang xia ren de bei ge	10
 向下跳空缺口	xiang xia tiao kong que kou	10
-想像的共同体	xiang xiang de gong tong ti	10
+想象的共同体	xiang xiang de gong tong ti	10
 想想都流口水	xiang xiang dou liu kou shui	10
 想象中的美好	xiang xiang zhong de mei hao	10
 想象中的模样	xiang xiang zhong de mu yang	10
@@ -135197,7 +135675,6 @@ sort: by_weight
 象征主义作家	xiang zheng zhu yi zuo jia	10
 想知道的更多	xiang zhi dao de geng duo	10
 相转移催化剂	xiang zhuan yi cui hua ji	10
-香宗我部亲泰	xiang zong wo bu qin tai	10
 相左的价值观	xiang zuo de jia zhi guan	10
 向左还是向右	xiang zuo hai shi xiang you	10
 向左滑动查看	xiang zuo hua dong cha kan	10
@@ -136227,7 +136704,7 @@ sort: by_weight
 星爆防空导弹	xing bao fang kong dao dan	10
 性别重置疗法	xing bie chong zhi liao fa	10
 性别和性身份	xing bie he xing shen fen	10
-性别刻版印象	xing bie ke ban yin xiang	10
+性别刻板印象	xing bie ke ban yin xiang	10
 性别平等主义	xing bie ping deng zhu yi	10
 性别歧视主义	xing bie qi shi zhu yi	10
 性别特征形成	xing bie te zheng xing cheng	10
@@ -136935,6 +137412,7 @@ sort: by_weight
 学生心理健康	xue sheng xin li jian kang	10
 学生学业水平	xue sheng xue ye shui ping	10
 学生自治组织	xue sheng zi zhi zu zhi	10
+学生自主管理	xue sheng zi zhu guan li	12
 学生资助管理	xue sheng zi zhu guan li	10
 学生资助计划	xue sheng zi zhu ji hua	10
 学生资助政策	xue sheng zi zhu zheng ce	10
@@ -138612,6 +139090,7 @@ sort: by_weight
 一家商务酒店	yi jia shang wu jiu dian	10
 一价铊化合物	yi jia ta hua he wu	10
 宜家天津商场	yi jia tian jin shang chang	10
+一加一等于二	yi jia yi deng yu er	12
 壹加壹等于贰	yi jia yi deng yu er	10
 意甲尤文图斯	yi jia you wen tu si	10
 意甲职业联盟	yi jia zhi ye lian meng	10
@@ -138640,7 +139119,8 @@ sort: by_weight
 一介凡夫俗子	yi jie fan fu su zi	10
 一阶反转曲线	yi jie fan zhuan qu xian	10
 以结婚为前提	yi jie hun wei qian ti	10
-以解燃眉之急	yi jie ran mei zhi ji	10
+以解燃眉之急	yi jie ran mei zhi ji	12
+一解燃眉之急	yi jie ran mei zhi ji	10
 一阶算术系统	yi jie suan shu xi tong	10
 一阶谓词逻辑	yi jie wei ci luo ji	10
 一阶谓词演算	yi jie wei ci yan suan	10
@@ -138854,7 +139334,7 @@ sort: by_weight
 一切都在变好	yi qie dou zai bian hao	10
 一切风平浪静	yi qie feng ping lang jing	10
 一切还来得及	yi qie hai lai de ji	10
-疫情爆发以来	yi qing bao fa yi lai	10
+疫情暴发以来	yi qing bao fa yi lai	10
 以青春的名义	yi qing chun de ming yi	10
 疫情发生以来	yi qing fa sheng yi lai	10
 疫情防控形势	yi qing fang kong xing shi	10
@@ -139736,7 +140216,7 @@ sort: by_weight
 应付短期票券	ying fu duan qi piao quan	10
 英夫利西单抗	ying fu li xi dan kang	10
 英夫利昔单抗	ying fu li xi dan kang	10
-应付税捐其它	ying fu shui juan qi ta	10
+应付税捐其他	ying fu shui juan qi ta	10
 应付突发事件	ying fu tu fa shi jian	10
 应付债券溢价	ying fu zhai quan yi jia	10
 应付债券折价	ying fu zhai quan zhe jia	10
@@ -140454,6 +140934,7 @@ sort: by_weight
 有什么心事吗	you shen me xin shi ma	10
 有什么益处呢	you shen me yi chu ne	10
 有什么意义吗	you shen me yi yi ma	10
+有什么优势吗	you shen me you shi ma	10
 有什么资格说	you shen me zi ge shuo	10
 又申之以揽茝	you shen zhi yi lan chai	10
 优胜劣汰机制	you sheng lie tai ji zhi	10
@@ -141032,7 +141513,7 @@ sort: by_weight
 鱼一样的感觉	yu yi yang de gan jue	10
 语音活性检测	yu yin huo xing jian ce	10
 语音通话功能	yu yin tong hua gong neng	10
-预应力钢铰线	yu ying li gang jiao xian	10
+预应力钢绞线	yu ying li gang jiao xian	10
 欲有求于我也	yu you qiu yu wo ye	10
 余幼时即嗜学	yu you shi ji shi xue	10
 育有一儿一女	yu you yi er yi nv	10
@@ -141587,7 +142068,7 @@ sort: by_weight
 杂交有限元法	za jiao you xian yuan fa	10
 杂色口孵非鲫	za se kou fu fei ji	10
 杂色曲霉毒素	za se qu mei du su	10
-杂项负债其它	za xiang fu zhai qi ta	10
+杂项负债其他	za xiang fu zhai qi ta	10
 杂项固定资产	za xiang gu ding zi chan	10
 杂质冲击强度	za zhi chong ji qiang du	10
 杂志封面人物	za zhi feng mian ren wu	10
@@ -141939,7 +142420,7 @@ sort: by_weight
 赠梁任父同年	zeng liang ren fu tong nian	10
 曾沛慈演唱会	zeng pei ci yan chang hui	10
 增强党性观念	zeng qiang dang xing guan nian	10
-增强法制观念	zeng qiang fa zhi guan nian	10
+增强法治观念	zeng qiang fa zhi guan nian	10
 增强核心功能	zeng qiang he xin gong neng	10
 增强纪律意识	zeng qiang ji lv yi shi	10
 增强机体免疫	zeng qiang ji ti mian yi	10
@@ -142149,6 +142630,7 @@ sort: by_weight
 掌骨指骨骨折	zhang gu zhi gu gu zhe	10
 彰国军节度使	zhang guo jun jie du shi	10
 张含韵的粉丝	zhang han yun de fen si	10
+账户中的余额	zhang hu zhong de yu e	10
 张花高速公路	zhang hua gao su gong lu	10
 彰化基督医院	zhang hua ji du yi yuan	10
 彰化师范大学	zhang hua shi fan da xue	10
@@ -142349,8 +142831,10 @@ sort: by_weight
 这个长方体的	zhe ge chang fang ti de	10
 这个大家庭里	zhe ge da jia ting li	10
 这个人是吃货	zhe ge ren shi chi huo	10
+这个事成不了	zhe ge shi cheng bu liao	10
 这个是僵尸吗	zhe ge shi jiang shi ma	10
 这个世界上最	zhe ge shi jie shang zui	10
+这个事我看成	zhe ge shi wo kan cheng	10
 这个有前途吗	zhe ge you qian tu ma	10
 这个月的工资	zhe ge yue de gong zi	10
 折光率测定法	zhe guang lv ce ding fa	10
@@ -143111,7 +143595,7 @@ sort: by_weight
 制定实施方案	zhi ding shi shi fang an	10
 制定实施细则	zhi ding shi shi xi ze	10
 制定新规则时	zhi ding xin gui ze shi	10
-制订学习计划	zhi ding xue xi ji hua	10
+制定学习计划	zhi ding xue xi ji hua	10
 制定整治方案	zhi ding zheng zhi fang an	10
 制动距离延长	zhi dong ju li yan chang	10
 制动装置型式	zhi dong zhuang zhi xing shi	10
@@ -143842,7 +144326,9 @@ sort: by_weight
 纸业有限公司	zhi ye you xian gong si	10
 执业证书编号	zhi ye zheng shu bian hao	10
 执业助理医师	zhi ye zhu li yi shi	10
+职业资格考试	zhi ye zi ge kao shi	12
 执业资格考试	zhi ye zi ge kao shi	10
+职业资格证书	zhi ye zi ge zheng shu	12
 执业资格证书	zhi ye zi ge zheng shu	10
 执业资格注册	zhi ye zi ge zhu ce	10
 质一般的飞跃	zhi yi ban de fei yue	10
@@ -145083,7 +145569,7 @@ sort: by_weight
 主要旅游景点	zhu yao lv you jing dian	10
 主要生理功能	zhu yao sheng li gong neng	10
 主要水污染物	zhu yao shui wu ran wu	10
-主要外型尺寸	zhu yao wai xing chi cun	12
+主要外形尺寸	zhu yao wai xing chi cun	12
 主要违法事实	zhu yao wei fa shi shi	10
 猪也能飞起来	zhu ye neng fei qi lai	10
 铸业有限公司	zhu ye you xian gong si	10
@@ -146437,12 +146923,12 @@ sort: by_weight
 做不喜欢的事	zuo bu xi huan de shi	10
 左侧半身硬瘫	zuo ce ban shen ying tan	10
 做成一件事情	zuo cheng yi jian shi qing	10
-做出处罚决定	zuo chu chu fa jue ding	10
+作出处罚决定	zuo chu chu fa jue ding	10
 作出更大贡献	zuo chu geng da gong xian	10
 作出积极努力	zuo chu ji ji nu li	10
 做出来的美食	zuo chu lai de mei shi	10
-做出行政处罚	zuo chu xing zheng chu fa	10
-做出重要指示	zuo chu zhong yao zhi shi	10
+作出行政处罚	zuo chu xing zheng chu fa	10
+作出重要指示	zuo chu zhong yao zhi shi	10
 做大做强做优	zuo da zuo qiang zuo you	10
 做大做优做强	zuo da zuo you zuo qiang	10
 左殆周期函数	zuo dai zhou qi han shu	10
@@ -149512,6 +149998,8 @@ sort: by_weight
 肠道厌氧菌感染	chang dao yan yang jun gan ran	10
 唱到阳关第四声	chang dao yang guan di si sheng	10
 常得出家修净戒	chang de chu jia xiu jing jie	10
+长得非常地可爱	chang de fei chang de ke ai	10
+长得非常地帅气	chang de fei chang de shuai qi	10
 长德经济开发区	chang de jing ji kai fa qu	10
 常得君王带笑看	chang de jun wang dai xiao kan	10
 常德桃花源机场	chang de tao hua yuan ji chang	10
@@ -151062,7 +151550,7 @@ sort: by_weight
 带侧向口的弯头	dai ce xiang kou de wan tou	10
 带长铗之陆离兮	dai chang jia zhi lu li xi	10
 带长剑兮挟秦弓	dai chang jian xi xie qin gong	10
-待处理财产损益	dai chu li cai chan sun yi	10
+待处理财产损溢	dai chu li cai chan sun yi	10
 带导流孔型闸阀	dai dao liu kong xing zha fa	12
 待抵扣进项税额	dai di kou jin xiang shui e	10
 带蒂组织移植物	dai di zu zhi yi zhi wu	10
@@ -152259,7 +152747,7 @@ sort: by_weight
 都有自己的想法	dou you zi ji de xiang fa	10
 都有自己的一套	dou you zi ji de yi tao	10
 都缘顽福前生造	dou yuan wan fu qian sheng zao	10
-斗战圣佛孙悟空	dou zhan sheng fo sun wu kong	10
+斗战胜佛孙悟空	dou zhan sheng fo sun wu kong	10
 都知爱慕此生才	dou zhi ai mu ci sheng cai	10
 斗智斗勇的故事	dou zhi dou yong de gu shi	10
 都只为风月情浓	dou zhi wei feng yue qing nong	10
@@ -156041,7 +156529,7 @@ sort: by_weight
 狐式装甲侦察车	hu shi zhuang jia zhen cha che	10
 胡桃里音乐酒馆	hu tao li yin yue jiu guan	10
 胡为抑郁老吾身	hu wei yi yu lao wu shen	10
-呼吸道合包病毒	hu xi dao he bao bing du	10
+呼吸道合胞病毒	hu xi dao he bao bing du	10
 呼吸道霉菌感染	hu xi dao mei jun gan ran	10
 呼吸机辅助呼吸	hu xi ji fu zhu hu xi	10
 呼吸肌功能测定	hu xi ji gong neng ce ding	10
@@ -156974,7 +157462,7 @@ sort: by_weight
 科森察血红蛋白	ke sen cha xue hong dan bai	10
 髁上髌上接受腔	ke shang bin shang jie shou qiang	10
 科斯二氏血型系	ke si er shi xue xing xi	10
-咳嗽变异型哮喘	ke sou bian yi xing xiao chuan	10
+咳嗽变异性哮喘	ke sou bian yi xing xiao chuan	10
 柯替氏器螺旋器	ke ti shi qi luo xuan qi	10
 可调整式翻修柄	ke tiao zheng shi fan xiu bing	10
 科托布血红蛋白	ke tuo bu xue hong dan bai	10
@@ -157004,6 +157492,7 @@ sort: by_weight
 克扬二氏活检匙	ke yang er shi huo jian shi	10
 可以向法院起诉	ke yi xiang fa yuan qi su	10
 可以在下面评论	ke yi zai xia mian ping lun	10
+可与人言无二三	ke yu ren yan wu er san	10
 可摘义齿修复学	ke zhai yi chi xiu fu xue	10
 咳止痰化病自痊	ke zhi tan hua bing zi quan	10
 龈沟液取样纸条	ken gou ye qu yang zhi tiao	10
@@ -158478,6 +158967,7 @@ sort: by_weight
 人免疫缺陷病毒	ren mian yi que xian bing du	10
 人民北路二段北	ren min bei lu er duan bei	10
 人民北路一段号	ren min bei lu yi duan hao	10
+人民币存款余额	ren min bi cun kuan yu e	12
 人民城市人民建	ren min cheng shi ren min jian	10
 人民城市为人民	ren min cheng shi wei ren min	10
 人民大会堂宾馆	ren min da hui tang bin guan	10
@@ -158691,6 +159181,8 @@ sort: by_weight
 善化寺大雄宝殿	shan hua si da xiong bao dian	10
 山南西道节度使	shan nan xi dao jie du shi	10
 膳食碳水化合物	shan shi tan shui hua he wu	10
+山西中医药大学	shan xi zhong yi yao da xue	12
+陕西中医药大学	shan xi zhong yi yao da xue	10
 单县卫生防疫部	shan xian wei sheng fang yi bu	10
 商标在先使用权	shang biao zai xian shi yong quan	10
 上二十三味为末	shang er shi san wei wei mo	10
@@ -159512,10 +160004,19 @@ sort: by_weight
 西安城北客运站	xi an cheng bei ke yun zhan	10
 西安城南客运站	xi an cheng nan ke yun zhan	10
 西安电影制片厂	xi an dian ying zhi pian chang	10
+西安广播电视台	xi an guang bo dian shi tai	10
 西安红旗机械厂	xi an hong qi ji xie chang	10
 西安力邦制药有	xi an li bang zhi yao you	10
 西安生殖保健院	xi an sheng zhi bao jian yuan	10
+西安市第九医院	xi an shi di jiu yi yuan	10
+西安市第三医院	xi an shi di san yi yuan	10
+西安市第四医院	xi an shi di si yi yuan	10
+西安市第五医院	xi an shi di wu yi yuan	10
+西安市第一医院	xi an shi di yi yi yuan	10
+西安市儿童医院	xi an shi er tong yi yuan	10
 西安市公园南路	xi an shi gong yuan nan lu	10
+西安市人民政府	xi an shi ren min zheng fu	10
+西安市中医医院	xi an shi zhong yi yi yuan	10
 西安外国语大学	xi an wai guo yu da xue	10
 西安一四一医院	xi an yi si yi yi yuan	10
 西安正大制药有	xi an zheng da zhi yao you	10
@@ -160444,6 +160945,8 @@ sort: by_weight
 远水解不了近渴	yuan shui jie bu liao jin ke	10
 远水救不得近火	yuan shui jiu bu de jin huo	10
 远水救不了近火	yuan shui jiu bu liao jin huo	10
+愿天堂没有病痛	yuan tian tang mei you bing tong	10
+愿天堂没有痛苦	yuan tian tang mei you tong ku	10
 原位多器官灌注	yuan wei duo qi guan guan zhu	10
 原位旁胰腺移植	yuan wei pang yi xian yi zhi	10
 远心性环状红斑	yuan xin xing huan zhuang hong ban	10
@@ -160471,9 +160974,13 @@ sort: by_weight
 云梦泽智慧平台	yun meng ze zhi hui ping tai	10
 孕早期产前诊断	yun zao qi chan qian zhen duan	10
 扎紧织密防护网	za jin zhi mi fang hu wang	10
+砸了自己的招牌	za le zi ji de zhao pai	10
 杂疗方第二十三	za liao fang di er shi san	10
+再不疯狂就老了	zai bu feng kuang jiu lao le	10
+再差还能差到哪	zai cha hai neng cha dao na	10
 再加附子更扶阳	zai jia fu zi geng fu yang	10
 在看不见的地方	zai kan bu jian de di fang	10
+在哪儿见过似的	zai na er jian guo shi de	10
 在那遥远的地方	zai na yao yuan de di fang	10
 再生不良性贫血	zai sheng bu liang xing pin xue	10
 再生在机甲帝国	zai sheng zai ji jia di guo	10
@@ -160498,6 +161005,7 @@ sort: by_weight
 则思知足以自戒	ze si zhi zu yi zi jie	10
 泽泻白术与二苓	ze xie bai zhu yu er ling	10
 泽泻蒸饼糊丸服	ze xie zheng bing hu wan fu	10
+怎么不关你的事	zen me bu guan ni de shi	10
 怎能对你弟兄说	zen neng dui ni di xiong shuo	10
 增加冠脉血流量	zeng jia guan mai xue liu liang	10
 增加药物稳定性	zeng jia yao wu wen ding xing	10
@@ -160516,12 +161024,21 @@ sort: by_weight
 站着说话不腰疼	zhan zhe shuo hua bu yao teng	10
 掌板创伤性破裂	zhang ban chuang shang xing po lie	10
 张伯伦莫顿假说	zhang bo lun mo dun jia shuo	10
+长得一点都不像	zhang de yi dian dou bu xiang	10
 张翼德怒鞭督邮	zhang yi de nu bian du you	10
 找个安静的地方	zhao ge an jing de di fang	10
 找个没人的地方	zhao ge mei ren de di fang	10
+招商银行研究院	zhao shang yin hang yan jiu yuan	10
+朝闻道夕死可矣	zhao wen dao xi si ke yi	10
 兆誉隆祛风止痛	zhao yu long qu feng zhi tong	10
 赵州陀罗尼经幢	zhao zhou tuo luo ni jing chuang	10
+这便是其中一项	zhe bian shi qi zhong yi xiang	10
 遮风挡雨的地方	zhe feng dang yu de di fang	10
+这个事成不了了	zhe ge shi cheng bu liao le	10
+这个事儿成不了	zhe ge shi er cheng bu liao	10
+这个事儿我看成	zhe ge shi er wo kan cheng	10
+这会应该是醒了	zhe hui ying gai shi xing le	12
+这回应该是行了	zhe hui ying gai shi xing le	10
 这可如何是好啊	zhe ke ru he shi hao a	10
 这么低级的错误	zhe me di ji de cuo wu	10
 这山望着那山高	zhe shan wang zhe na shan gao	10
@@ -160578,6 +161095,8 @@ sort: by_weight
 蒸之如斗米饭久	zheng zhi ru dou mi fan jiu	10
 正中颌关系异常	zheng zhong he guan xi yi chang	10
 支持性心理治疗	zhi chi xing xin li zhi liao	10
+知错了还是不改	zhi cuo le hai shi bu gai	10
+知错了就是不改	zhi cuo le jiu shi bu gai	10
 制戴活动矫正器	zhi dai huo dong jiao zheng qi	10
 脂蛋白代谢紊乱	zhi dan bai dai xie wen luan	10
 值得关注的地方	zhi de guan zhu de di fang	10
@@ -160728,6 +161247,9 @@ sort: by_weight
 中型专项作业车	zhong xing zhuan xiang zuo ye che	10
 中央处理器模型	zhong yang chu li qi mo xing	10
 中央企业交易团	zhong yang qi ye jiao yi tuan	10
+重要的历史任务	zhong yao de li shi ren wu	12
+重要的历史人物	zhong yao de li shi ren wu	10
+重要的事说三遍	zhong yao de shi shuo san bian	10
 中药喷雾美容机	zhong yao pen wu mei rong ji	10
 中药热奄包治疗	zhong yao re yan bao zhi liao	10
 中药丸用塑料瓶	zhong yao wan yong su liao ping	10
@@ -160740,6 +161262,7 @@ sort: by_weight
 中医科学性争论	zhong yi ke xue xing zheng lun	10
 中医药健康旅游	zhong yi yao jian kang lv you	10
 中医药健康文化	zhong yi yao jian kang wen hua	10
+终于松了一口气	zhong yu song le yi kou qi	10
 中原花木博览园	zhong yuan hua mu bo lan yuan	10
 中越自卫反击战	zhong yue zi wei fan ji zhan	10
 中着丝粒染色体	zhong zhe si li ran se ti	10
@@ -160989,6 +161512,7 @@ sort: by_weight
 紫花无距凤仙花	zi hua wu ju feng xian hua	10
 紫皇天乙真庆宫	zi huang tian yi zhen qing gong	10
 自己的房间走去	zi ji de fang jian zou qu	10
+自己的事自己做	zi ji de shi zi ji zuo	10
 自己动手做试验	zi ji dong shou zuo shi yan	10
 自己对自己负责	zi ji dui zi ji fu ze	10
 自激多谐振荡器	zi ji duo xie zhen dang qi	10
@@ -161124,6 +161648,7 @@ sort: by_weight
 综合自然地理学	zong he zi ran di li xue	10
 宗教性人工流产	zong jiao xing ren gong liu chan	10
 总统候选人辩论	zong tong hou xuan ren bian lun	10
+总有刁民想害朕	zong you diao min xiang hai zhen	10
 走向婚姻的殿堂	zou xiang hun yin de dian tang	10
 走向世界的中国	zou xiang shi jie de zhong guo	10
 走向幸福的国家	zou xiang xing fu de guo jia	10
@@ -161155,8 +161680,12 @@ sort: by_weight
 最大自主通气量	zui da zi zhu tong qi liang	10
 最低装量检查法	zui di zhuang liang jian cha fa	10
 罪犯改造心理学	zui fan gai zao xin li xue	10
+最后的一丝犹豫	zui hou de yi si you yu	10
+最后悔的一件事	zui hou hui de yi jian shi	10
 最后寄主终寄主	zui hou ji zhu zhong ji zhu	10
 最佳呼气末正压	zui jia hu qi mo zheng ya	10
+最开心的一件事	zui kai xin de yi jian shi	10
+最难忘的一件事	zui nan wang de yi jian shi	10
 最吸引人的地方	zui xi yin ren de di fang	10
 最小平曲线半径	zui xiao ping qu xian ban jing	10
 最小熵产生定理	zui xiao shang chan sheng ding li	10
@@ -161172,6 +161701,7 @@ sort: by_weight
 坐骨肛门窝脂体	zuo gu gang men wo zhi ti	10
 左后束传导阻滞	zuo hou shu chuan dao zu zhi	10
 左胫腓骨正侧位	zuo jing fei gu zheng ce wei	10
+做了不该做的事	zuo le bu gai zuo de shi	10
 做人不要太嚣张	zuo ren bu yao tai xiao zhang	10
 左上颌牙槽嵴区	zuo shang he ya cao ji qu	10
 左束支传导阻滞	zuo shu zhi chuan dao zu zhi	10
@@ -161611,6 +162141,7 @@ sort: by_weight
 无所不知无所不能	wu suo bu zhi wu suo bu neng	10
 物以类聚人以群分	wu yi lei ju ren yi qun fen	10
 无源之水无本之木	wu yuan zhi shui wu ben zhi mu	10
+西安市人民检察院	xi an shi ren min jian cha yuan	10
 西昌卫星发射中心	xi chang wei xing fa she zhong xin	10
 嬉笑怒骂皆成文章	xi xiao nu ma jie cheng wen zhang	10
 下笔千言离题万里	xia bi qian yan li ti wan li	10
@@ -161720,6 +162251,7 @@ sort: by_weight
 走过路过不要错过	zou guo lu guo bu yao cuo guo	10
 嘴巴给我放干净点	zui ba gei wo fang gan jing dian	10
 最低工业米百分值	zui di gong ye mi bai fen zhi	10
+嘴上没个把门儿的	zui shang mei ge ba men er de	10
 八路军总司令部旧址	ba lu jun zong si ling bu jiu zhi	10
 白头翁加甘草阿胶汤	bai tou weng jia gan cao e jiao tang	10
 搬起石头砸自己的脚	ban qi shi tou za zi ji de jiao	10
