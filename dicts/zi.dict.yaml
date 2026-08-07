@@ -12216,8 +12216,8 @@ sort: by_weight
 寒	han	3878
 函	han	2314
 汗	han	2198
-涵	han	704
-喊	han	668
+喊	han	704
+涵	han	668
 罕	han	656
 撼	han	622
 旱	han	611
@@ -33409,7 +33409,6 @@ sort: by_weight
 痑	shi	1
 碩	shi	1
 秲	shi	1
-笹	shi	1
 箷	shi	1
 篩	shi	1
 蒔	shi	1
@@ -35990,6 +35989,7 @@ sort: by_weight
 籊	ti	3
 鮷	ti	3
 嚔	ti	3
+笹	ti	1
 揥	ti	1
 嗁	ti	1
 鬀	ti	1
@@ -36889,10 +36889,10 @@ sort: by_weight
 𫟏	tu	1
 团	tuan	19264
 湍	tuan	2007
-団	tuan	1789
-團	tuan	1610
+抟	tuan	1610
 疃	tuan	1302
-抟	tuan	800
+團	tuan	800
+団	tuan	489
 彖	tuan	356
 漙	tuan	324
 猯	tuan	288
@@ -38862,10 +38862,6 @@ sort: by_weight
 徙	xi	543
 蟋	xi	535
 栖	xi	525
-腊	xi	517
-卤	xi	509
-洒	xi	499
-猎	xi	482
 烯	xi	466
 兮	xi	447
 禧	xi	431
@@ -38910,11 +38906,15 @@ sort: by_weight
 郄	xi	53
 忾	xi	51
 歙	xi	51
+卤	xi	49
 鳃	xi	47
 谿	xi	37
 舾	xi	35
 屃	xi	31
+洒	xi	19
+腊	xi	17
 鼷	xi	13
+猎	xi	12
 傒	xi	10
 嶲	xi	9
 觿	xi	1
@@ -43139,8 +43139,6 @@ sort: by_weight
 舀	yao	571
 乐	yao	509
 侥	yao	500
-疟	yao	499
-么	yao	489
 约	yao	487
 瑶	yao	468
 曜	yao	459
@@ -43159,6 +43157,7 @@ sort: by_weight
 洮	yao	294
 窕	yao	293
 铫	yao	291
+么	yao	289
 垚	yao	282
 崾	yao	265
 轺	yao	262
@@ -43210,6 +43209,7 @@ sort: by_weight
 鷂	yao	67
 嶢	yao	62
 餆	yao	55
+疟	yao	49
 暚	yao	48
 覞	yao	48
 狕	yao	48

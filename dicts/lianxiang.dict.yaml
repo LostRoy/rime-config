@@ -11257,6 +11257,7 @@ sort: by_weight
 代数组合学	dai shu zu he xue	10
 代特莫尔德	dai te mo er de	10
 代替考试罪	dai ti kao shi zui	10
+代天主位者	dai tian zhu wei zhe	10
 带通滤波器	dai tong lv bo qi	10
 代托纳比奇	dai tuo na bi qi	10
 代王城遗址	dai wang cheng yi zhi	10
@@ -20983,6 +20984,7 @@ sort: by_weight
 搞不清楚的	gao bu qing chu de	10
 搞不清楚了	gao bu qing chu le	10
 搞不下去了	gao bu xia qu le	10
+高产似母猪	gao chan si mu zhu	10
 高昌回鹘国	gao chang hui hu guo	10
 高场原种场	gao chang yuan zhong chang	10
 高超的厨艺	gao chao de chu yi	10
@@ -26158,6 +26160,7 @@ sort: by_weight
 河北唐山的	he bei tang shan de	10
 河北体育馆	he bei ti yu guan	10
 河北外国语	he bei wai guo yu	10
+河北信德社	he bei xin de she	10
 河北医科大	he bei yi ke da	10
 河北医学院	he bei yi xue yuan	10
 河北游击军	he bei you ji jun	10
@@ -51197,6 +51200,7 @@ sort: by_weight
 秦陵兵马俑	qin ling bing ma yong	10
 秦陵博物院	qin ling bo wu yuan	10
 秦岭淮河线	qin ling huai he xian	10
+秦陇复汉军	qin long fu han jun	10
 秦律十八种	qin lv shi ba zhong	10
 勤美达国际	qin mei da guo ji	10
 勤美绿园道	qin mei lv yuan dao	10
@@ -65451,6 +65455,7 @@ sort: by_weight
 铁力瓦尔地	tie li wa er di	10
 铁力瓦尔迪	tie li wa er di	10
 铁链女事件	tie lian nv shi jian	10
+铁良下江南	tie liang xia jiang nan	10
 铁路大通道	tie lu da tong dao	10
 铁路和公路	tie lu he gong lu	10
 铁路周游票	tie lu zhou you piao	10
@@ -82520,6 +82525,8 @@ sort: by_weight
 优异的质量	you yi de zhi liang	10
 有一定几率	you yi ding ji lv	10
 有一对翅膀	you yi dui chi bang	10
+有一个人是	you yi ge ren shi	12
+有一个认识	you yi ge ren shi	10
 有一个世界	you yi ge shi jie	10
 又一个世界	you yi ge shi jie	10
 又一个十年	you yi ge shi nian	10
@@ -98629,7 +98636,6 @@ sort: by_weight
 大孔径穿流板	da kong jing chuan liu ban	10
 大孔吸附树脂	da kong xi fu shu zhi	10
 大口大口地吃	da kou da kou de chi	10
-大口大口的吃	da kou da kou de chi	10
 大口径截止阀	da kou jing jie zhi fa	12
 大口径止回阀	da kou jing zhi hui fa	12
 达库尼亚鸟类	da ku ni ya niao lei	10
@@ -130478,6 +130484,7 @@ sort: by_weight
 抬头的一瞬间	tai tou de yi shun jian	10
 台湾成功大学	tai wan cheng gong da xue	10
 台湾传统食品	tai wan chuan tong shi pin	10
+台湾积体电路	tai wan ji ti dian lu	10
 台湾交通大学	tai wan jiao tong da xue	10
 台湾清华大学	tai wan qing hua da xue	10
 台西基督教会	tai xi ji du jiao hui	10
@@ -131567,7 +131574,6 @@ sort: by_weight
 通识教育课程	tong shi jiao yu ke cheng	10
 通识教育学院	tong shi jiao yu xue yuan	10
 同时履行抗辩	tong shi lv xing kang bian	10
-同是天涯沦落	tong shi tian ya lun luo	10
 通水试验记录	tong shui shi yan ji lu	10
 同素环化合物	tong su huan hua he wu	10
 通俗易懂的话	tong su yi dong de hua	10
@@ -139045,6 +139051,7 @@ sort: by_weight
 一个五十多岁	yi ge wu shi duo sui	10
 一个无所畏惧	yi ge wu suo wei ju	10
 一个圆的面积	yi ge yuan de mian ji	10
+一根筋两头堵	yi gen jin liang tou du	10
 以更低的价格	yi geng di de jia ge	10
 以更高的站位	yi geng gao de zhan wei	10
 以公开促公正	yi gong kai cu gong zheng	10
@@ -139356,7 +139363,7 @@ sort: by_weight
 以平常心对待	yi ping chang xin dui dai	10
 以平常心看待	yi ping chang xin kan dai	10
 以平和的心态	yi ping he de xin tai	10
-一抔之土未干	yi pu zhi tu wei gan	10
+一抔之土未干	yi pou zhi tu wei gan	10
 一起吃喝玩乐	yi qi chi he wan le	10
 一起吃晚餐吗	yi qi chi wan can ma	10
 一汽大众宝来	yi qi da zhong bao lai	10
@@ -140421,7 +140428,6 @@ sort: by_weight
 英属香港水灾	ying shu xiang gang shui zai	10
 英属香港议会	ying shu xiang gang yi hui	10
 英属新几内亚	ying shu xin ji nei ya	10
-应似飞鸿踏雪	ying si fei hong ta xue	10
 营松高速公路	ying song gao su gong lu	10
 罂粟秆浓缩物	ying su gan nong suo wu	10
 罂粟果提取物	ying su guo ti qu wu	10
@@ -142638,8 +142644,8 @@ sort: by_weight
 站在世界之巅	zhan zai shi jie zhi dian	10
 站在十字路口	zhan zai shi zi lu kou	10
 站在同一立场	zhan zai tong yi li chang	10
+站在同一战线	zhan zai tong yi zhan xian	10
 站在同一阵线	zhan zai tong yi zhen xian	10
-站在同一战线	zhan zai tong yi zhen ying	10
 站在宇宙之巅	zhan zai yu zhou zhi dian	10
 站在原地不动	zhan zai yuan di bu dong	10
 站着一动不动	zhan zhe yi dong bu dong	10
@@ -157988,8 +157994,6 @@ sort: by_weight
 买卖不成仁义在	mai mai bu cheng ren yi zai	10
 麦氏交替单胞菌	mai shi jiao ti dan bao jun	10
 脉数虚者为肺痿	mai shu xu zhe wei fei wei	10
-满城尽戴黄金甲	man cheng jin dai huang jin jia	10
-满城尽带黄金甲	man cheng jin dai huang jin jia	10
 漫画准则管理局	man hua zhun ze guan li ju	10
 曼齐刻尔特战役	man qi ke er te zhan yi	10
 芒塞尔颜色立体	mang sai er yan se li ti	10
