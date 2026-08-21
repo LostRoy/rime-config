@@ -8057,6 +8057,7 @@ sort: by_weight
 隊	dui	430
 対	dui	409
 镦	dui	370
+㨃	dui	361
 頧	dui	351
 兌	dui	271
 鐜	dui	216
@@ -8075,7 +8076,6 @@ sort: by_weight
 痽	dui	23
 譵	dui	23
 濧	dui	23
-㨃	dui	1
 瀩	dui	1
 㳔	dui	1
 譈	dui	1
@@ -33629,11 +33629,11 @@ sort: by_weight
 綬	shou	164
 涭	shou	160
 垨	shou	159
+扌	shou	7
 㥅	shou	1
 𠈅	shou	1
 𣒻	shou	1
 嘼	shou	1
-扌	shou	1
 敊	shou	1
 醻	shou	1
 龵	shou	1
@@ -37735,6 +37735,9 @@ sort: by_weight
 微	wei	9971
 维	wei	5132
 围	wei	4875
+尾	wei	4776
+胃	wei	3765
+喂	wei	2719
 威	wei	938
 危	wei	924
 谓	wei	911
@@ -37742,13 +37745,10 @@ sort: by_weight
 委	wei	864
 卫	wei	820
 违	wei	779
-尾	wei	776
 伟	wei	775
-胃	wei	765
 伪	wei	764
 魏	wei	754
 慰	wei	754
-喂	wei	719
 薇	wei	709
 畏	wei	690
 纬	wei	682

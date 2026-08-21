@@ -9,7 +9,6 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
-能	neng
 阿巴科群岛	a ba ke qun dao	10
 阿贝比长仪	a bei bi chang yi	10
 阿贝不变量	a bei bu bian liang	10
@@ -24651,6 +24650,7 @@ sort: by_weight
 国产的骄傲	guo chan de jiao ao	10
 国产化程度	guo chan hua cheng du	10
 国产或进口	guo chan huo jin kou	10
+国产凌凌漆	guo chan ling ling qi	10
 国产写真机	guo chan xie zhen ji	10
 国朝登科录	guo chao deng ke lu	10
 国朝科榜录	guo chao ke bang lu	10
@@ -26341,6 +26341,7 @@ sort: by_weight
 喝了个精光	he le ge jing guang	10
 喝了一点酒	he le yi dian jiu	10
 和冷门专业	he leng men zhuan ye	10
+河狸变身记	he li bian shen ji	10
 合理冲撞区	he li chong zhuang qu	10
 合力的冲量	he li de chong liang	10
 合力的大小	he li de da xiao	10
@@ -32935,7 +32936,7 @@ sort: by_weight
 讲爱的地方	jiang ai de di fang	10
 江岸区法院	jiang an qu fa yuan	10
 奖颁奖典礼	jiang ban jiang dian li	10
-降半旗致哀	jiang ban qi zhi ai	10
+降半旗志哀	jiang ban qi zhi ai	10
 江北大石坝	jiang bei da shi ba	10
 江北福音堂	jiang bei fu yin tang	10
 江北观音桥	jiang bei guan yin qiao	10
@@ -50271,7 +50272,6 @@ sort: by_weight
 前臂旋后肌	qian bi xuan hou ji	10
 浅薄的回忆	qian bo de hui yi	10
 前波莫瑞州	qian bo mo rui zhou	10
-钱不是万能	qian bu shi wan neng	10
 钱不是问题	qian bu shi wen ti	10
 钱不是我的	qian bu shi wo de	10
 前财政部长	qian cai zheng bu zhang	10
@@ -58284,6 +58284,7 @@ sort: by_weight
 是非非是我	shi fei fei shi wo	10
 嗜肺军团菌	shi fei jun tuan jun	10
 市肺科医院	shi fei ke yi yuan	10
+是非终日有	shi fei zhong ri you	10
 是分不开的	shi fen bu kai de	10
 十分的把握	shi fen de ba wo	10
 十分贴心地	shi fen tie xin de	10
@@ -60145,6 +60146,8 @@ sort: by_weight
 实用的技能	shi yong de ji neng	10
 使用的技术	shi yong de ji shu	10
 实用的技术	shi yong de ji shu	10
+实用的建议	shi yong de jian yi	12
+使用的建议	shi yong de jian yi	10
 实用的角度	shi yong de jiao du	10
 实用的课程	shi yong de ke cheng	10
 实用的空间	shi yong de kong jian	10
@@ -63499,6 +63502,7 @@ sort: by_weight
 他人的关系	ta ren de guan xi	10
 他人的力量	ta ren de li liang	10
 他人的痛苦	ta ren de tong ku	10
+他人的笑柄	ta ren de xiao bing	10
 他人即地狱	ta ren ji di yu	10
 他人亦已歌	ta ren yi yi ge	10
 踏入社会后	ta ru she hui hou	10
@@ -71401,7 +71405,7 @@ sort: by_weight
 下半连续性	xia ban lian xu xing	10
 下半年是八	xia ban nian shi ba	10
 下半年以来	xia ban nian yi lai	10
-下半旗致哀	xia ban qi zhi ai	10
+下半旗志哀	xia ban qi zhi ai	10
 下半月小叶	xia ban yue xiao ye	10
 下贝格基兴	xia bei ge ji xing	10
 下标和上标	xia biao he shang biao	10
@@ -74536,6 +74540,7 @@ sort: by_weight
 新能源货车	xin neng yuan huo che	10
 新能源轿车	xin neng yuan jiao che	10
 新能源牌照	xin neng yuan pai zhao	10
+新能源汽车	xin neng yuan qi che	10
 新能源消纳	xin neng yuan xiao na	10
 新年的脚步	xin nian de jiao bu	10
 新年的开始	xin nian de kai shi	10
@@ -76133,7 +76138,6 @@ sort: by_weight
 血海歌剧团	xue hai ge ju tuan	10
 血红蛋白马	xue hong dan bai ma	10
 血红蛋白尿	xue hong dan bai niao	10
-血红旦白尿	xue hong dan bai niao	10
 血红的眼睛	xue hong de yan jing	10
 血红溅白纱	xue hong jian bai sha	10
 血红扇头蜱	xue hong shan tou pi	10
@@ -81822,7 +81826,7 @@ sort: by_weight
 有利尿作用	you li niao zuo yong	10
 幼里披底斯	you li pi di si	10
 有理谱密度	you li pu mi du	10
-游离牵引勾	you li qian yin gou	10
+游离牵引钩	you li qian yin gou	10
 有利润可图	you li run ke tu	10
 有理筛选法	you li shai xuan fa	10
 有理说不清	you li shuo bu qing	10
@@ -89940,6 +89944,7 @@ sort: by_weight
 资产的配置	zi chan de pei zhi	10
 资产的收益	zi chan de shou yi	10
 资产抵押债	zi chan di ya zhai	10
+资产负债表	zi chan fu zhai biao	10
 资产和负债	zi chan he fu zhai	10
 资产及负债	zi chan ji fu zhai	10
 自产农产品	zi chan nong chan pin	10
@@ -90392,6 +90397,7 @@ sort: by_weight
 姿势要正确	zi shi yao zheng que	10
 自适应路由	zi shi ying lu you	10
 自适应网格	zi shi ying wang ge	10
+自适应巡航	zi shi ying xun hang	10
 自受激振动	zi shou ji zhen dong	10
 资寿解语汤	zi shou jie yu tang	10
 紫苏变玄岩	zi su bian xuan yan	10
@@ -97326,6 +97332,7 @@ sort: by_weight
 抽象客体理论	chou xiang ke ti li lun	10
 抽象维纳空间	chou xiang wei na kong jian	10
 臭氧损耗潜势	chou yang sun hao qian shi	10
+愁一愁白了头	chou yi chou bai le tou	10
 抽油杆悬挂器	chou you gan xuan gua qi	12
 抽油烟机清洗	chou you yan ji qing xi	10
 出埃及记章节	chu ai ji ji zhang jie	10
@@ -106952,7 +106959,6 @@ sort: by_weight
 国产大型客机	guo chan da xing ke ji	10
 国产单机游戏	guo chan dan ji you xi	10
 国产凯迪拉克	guo chan kai di la ke	10
-国产凌凌漆中	guo chan ling ling qi zhong	10
 国产旗舰手机	guo chan qi jian shou ji	10
 国产燃气轮机	guo chan ran qi lun ji	10
 国产实业集团	guo chan shi ye ji tuan	10
@@ -106969,10 +106975,6 @@ sort: by_weight
 国道三号甲线	guo dao san hao jia xian	10
 国道一号甲线	guo dao yi hao jia xian	10
 郭德堡变奏曲	guo de bao bian zou qu	10
-郭德纲的儿子	guo de gang de er zi	10
-郭德纲的徒弟	guo de gang de tu di	10
-郭德纲的相声	guo de gang de xiang sheng	10
-郭德纲和于谦	guo de gang he yu qian	10
 裹得严严实实	guo de yan yan shi shi	10
 过得有滋有味	guo de you zi you wei	10
 郭店楚墓竹简	guo dian chu mu zhu jian	10
@@ -110404,7 +110406,6 @@ sort: by_weight
 活在我们心中	huo zai wo men xin zhong	10
 火灾隐患整治	huo zai yin huan zheng zhi	10
 活在这个世界	huo zai zhe ge shi jie	10
-活在自己世界	huo zai zi ji shi jie	10
 活着才有输出	huo zhe cai you shu chu	10
 活着才有希望	huo zhe cai you xi wang	10
 活着都不容易	huo zhe dou bu rong yi	10
@@ -111156,6 +111157,7 @@ sort: by_weight
 吉祥航空公司	ji xiang hang kong gong si	10
 急相球蛋白类	ji xiang qiu dan bai lei	10
 吉祥如意平安	ji xiang ru yi ping an	10
+击响中文之韵	ji xiang zhong wen zhi yun	10
 极小概率事件	ji xiao gai lv shi jian	10
 极小化极大解	ji xiao hua ji da jie	10
 极小极大策略	ji xiao ji da ce lve	10
@@ -131172,7 +131174,7 @@ sort: by_weight
 条纹沙漠蜈蚣	tiao wen sha mo wu gong	10
 条纹霞正长岩	tiao wen xia zheng zhang yan	10
 条纹辛普逊鳉	tiao wen xin pu xun jiang	10
-条纹异型蝎鿳	tiao wen yi xing xie 鿳	10
+条纹异型蝎鿳	tiao wen yi xing xie tuo	10
 条纹震旦光介	tiao wen zhen dan guang jie	10
 跳舞的鱿鱼桑	tiao wu de you yu sang	10
 调戏良家妇女	tiao xi liang jia fu nv	10
@@ -131380,6 +131382,7 @@ sort: by_weight
 铜陵长江大桥	tong ling chang jiang da qiao	10
 通灵男孩诺曼	tong ling nan hai nuo man	10
 统领千军万马	tong ling qian jun wan ma	10
+统领天下兵马	tong ling tian xia bing ma	10
 铜陵有色金属	tong ling you se jin shu	10
 桐庐瑶琳仙境	tong lu yao lin xian jing	10
 同伦等价空间	tong lun deng jia kong jian	10
@@ -135980,6 +135983,7 @@ sort: by_weight
 小一点的孩子	xiao yi dian de hai zi	10
 效益降工资降	xiao yi jiang gong zi jiang	10
 小医师大玩偶	xiao yi shi da wan ou	10
+笑一笑十年少	xiao yi xiao shi nian shao	10
 效益增工资增	xiao yi zeng gong zi zeng	10
 萧翼赚兰亭图	xiao yi zhuan lan ting tu	10
 效应面优化法	xiao ying mian you hua fa	10
@@ -140512,7 +140516,6 @@ sort: by_weight
 永远吹冲锋号	yong yuan chui chong feng hao	10
 永远等待着你	yong yuan deng dai zhe ni	10
 永远繁荣昌盛	yong yuan fan rong chang sheng	10
-永远怀念家驹	yong yuan huai nian jia ju	10
 永远没有终点	yong yuan mei you zhong dian	10
 永远也忘不掉	yong yuan ye wang bu diao	10
 永远也长不大	yong yuan ye zhang bu da	10
@@ -147986,9 +147989,6 @@ sort: by_weight
 包科尼沙尔卡尼	bao ke ni sha er ka ni	10
 包科尼圣基拉伊	bao ke ni sheng ji la yi	10
 包括但不局限于	bao kuo dan bu ju xian yu	10
-包括新能源汽车	bao kuo xin neng yuan qi che	10
-包括资产负债表	bao kuo zi chan fu zhai biao	10
-包括自适应巡航	bao kuo zi shi ying xun hang	10
 保拉埃斯皮诺萨	bao la ai si pi nuo sa	10
 保利海上五月花	bao li hai shang wu yue hua	10
 保利世贸博览馆	bao li shi mao bo lan guan	10
@@ -149505,7 +149505,7 @@ sort: by_weight
 不自量力地还手	bu zi liang li di huan shou	10
 不自限其昏与庸	bu zi xian qi hun yu yong	10
 不足为外人道也	bu zu wei wai ren dao ye	10
-不做死就不会死	bu zuo si jiu bu hui si	10
+不作死就不会死	bu zuo si jiu bu hui si	10
 擦出爱情的火花	ca chu ai qing de huo hua	10
 擦出怎样的火花	ca chu zen yang de huo hua	10
 擦肩而过的路人	ca jian er guo de lu ren	10
@@ -153834,6 +153834,7 @@ sort: by_weight
 非选择性阻滞剂	fei xuan ze xing zu zhi ji	10
 费雪二氏黏度计	fei xue er shi nian du ji	10
 费雪交换方程式	fei xue jiao huan fang cheng shi	10
+飞雪连天射白鹿	fei xue lian tian she bai lu	10
 非血栓性肺栓塞	fei xue shuan xing fei shuan se	10
 非压缩半尾花介	fei ya suo ban wei hua jie	10
 肺炎克雷伯氏菌	fei yan ke lei bo shi jun	10
@@ -153964,6 +153965,7 @@ sort: by_weight
 分析科学研究所	fen xi ke xue yan jiu suo	10
 分析马克思主义	fen xi ma ke si zhu yi	10
 分析性心理治疗	fen xi xing xin li zhi liao	10
+分享是一种美德	fen xiang shi yi zhong mei de	10
 分享自己的故事	fen xiang zi ji de gu shi	10
 分享自己的日常	fen xiang zi ji de ri chang	10
 分享自己的生活	fen xiang zi ji de sheng huo	10
@@ -154362,6 +154364,7 @@ sort: by_weight
 芙蓉宛转在中洲	fu rong wan zhuan zai zhong zhou	10
 副溶血弧菌培养	fu rong xue hu jun pei yang	10
 副乳腺囊性增生	fu ru xian nang xing zeng sheng	10
+釜山国际电影节	fu shan guo ji dian ying jie	10
 辐射安全许可证	fu she an quan xu ke zheng	10
 辐射补偿电离室	fu she bu chang dian li shi	10
 辐射放射性核素	fu she fang she xing he su	10
@@ -156543,6 +156546,7 @@ sort: by_weight
 藿香正气腹皮苏	huo xiang zheng qi fu pi su	10
 和药汁煎取八合	huo yao zhi jian qu ba he	10
 火影之宁次传说	huo ying zhi ning ci chuan shuo	10
+活在自己的世界	huo zai zi ji de shi jie	10
 基巴波三氏技术	ji ba bo san shi ji shu	10
 基本的犯罪构成	ji ben de fan zui gou cheng	10
 基本对称多项式	ji ben dui chen duo xiang shi	10
@@ -156963,6 +156967,7 @@ sort: by_weight
 揭示问题有深度	jie shi wen ti you shen du	10
 接受法律的制裁	jie shou fa lv de zhi cai	10
 接受腔辅助拉带	jie shou qiang fu zhu la dai	10
+结下了不解之缘	jie xia le bu jie zhi yuan	10
 解一元二次方程	jie yi yuan er ci fang cheng	10
 节肢脊椎动物环	jie zhi ji zhui dong wu huan	10
 接种率抽样调查	jie zhong lv chou yang diao cha	10
@@ -157744,6 +157749,7 @@ sort: by_weight
 罗红霉素细粒剂	luo hong mei su xi li ji	10
 瘰疬性皮肤结核	luo li xing pi fu jie he	10
 罗马盛衰原因论	luo ma sheng shuai yuan yin lun	10
+罗曼蒂克消亡史	luo man di ke xiao wang shi	10
 洛斯基尔德条约	luo si ji er de tiao yue	10
 螺纹型导热系数	luo wen xing dao re xi shu	10
 螺旋埋弧焊钢管	luo xuan mai hu han gang guan	10
@@ -159111,6 +159117,7 @@ sort: by_weight
 肾动脉血栓形成	shen dong mai xue shuan xing cheng	10
 肾动脉支架系统	shen dong mai zhi jia xi tong	10
 深和细上下功夫	shen he xi shang xia gong fu	10
+深厚的文化底蕴	shen hou de wen hua di yun	10
 审计理论与实务	shen ji li lun yu shi wu	10
 伸肌上下支持带	shen ji shang xia zhi chi dai	10
 参苓白术扁豆陈	shen ling bai zhu bian dou chen	10
@@ -159596,6 +159603,7 @@ sort: by_weight
 天体粒子物理学	tian ti li zi wu li xue	10
 天体生物物理学	tian ti sheng wu wu li xue	10
 天下乌鸦一般黑	tian xia wu ya yi ban hei	10
+天下有溺犹己溺	tian xia you ni you ji ni	10
 条顿堡森林战役	tiao dun bao sen lin zhan yi	10
 条件反射的泛化	tiao jian fan she de fan hua	10
 条件因果关系说	tiao jian yin guo guan xi shuo	10
@@ -160124,11 +160132,13 @@ sort: by_weight
 小青龙加石膏汤	xiao qing long jia shi gao tang	10
 小青龙汤亦主之	xiao qing long tang yi zhu zhi	10
 小青龙汤最有功	xiao qing long tang zui you gong	10
+消失得无影无踪	xiao shi de wu ying wu zong	10
 小施尔康婴幼儿	xiao shi er kang ying you er	10
 消石矾石散主之	xiao shi fan shi san zhu zhi	10
 消食和胃效堪夸	xiao shi he wei xiao kan kua	10
 小时尿蛋白定量	xiao shi niao dan bai ding liang	10
 小鼠成纤维细胞	xiao shu cheng xian wei xi bao	10
+笑书神侠倚碧鸳	xiao shu shen xia yi bi yuan	10
 小腿多发性骨折	xiao tui duo fa xing gu zhe	10
 肖维涅舍弃判据	xiao wei nie she qi pan ju	10
 小心驶得万年船	xiao xin shi de wan nian chuan	10
@@ -160806,6 +160816,7 @@ sort: by_weight
 有受持读诵此经	you shou chi du song ci jing	10
 右束支传导阻滞	you shu zhi chuan dao zu zhi	10
 有丝分裂不分离	you si fen lie bu fen li	10
+有所为有所不为	you suo wei you suo bu wei	10
 右下颌牙槽嵴区	you xia he ya cao ji qu	10
 有限改变量定理	you xian gai bian liang ding li	10
 有限群表示理论	you xian qun biao shi li lun	10
