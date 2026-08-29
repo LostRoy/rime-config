@@ -22412,36 +22412,7 @@ sort: by_weight
 更坏的消息	geng huai de xiao xi	10
 更换或修复	geng huan huo xiu fu	10
 更激动人心	geng ji dong ren xin	10
-更加的安全	geng jia de an quan	10
-更加的成熟	geng jia de cheng shu	10
-更加的方便	geng jia de fang bian	10
-更加的好看	geng jia de hao kan	10
-更加的健康	geng jia de jian kang	10
-更加的精致	geng jia de jing zhi	10
-更加的可爱	geng jia de ke ai	10
-更加的了解	geng jia de liao jie	10
-更加的美丽	geng jia de mei li	10
-更加的迷人	geng jia de mi ren	10
-更加的年轻	geng jia de nian qing	10
-更加的努力	geng jia de nu li	10
-更加的漂亮	geng jia de piao liang	10
-更加的期待	geng jia de qi dai	10
-更加的容易	geng jia de rong yi	10
-更加的适合	geng jia de shi he	10
-更加的时髦	geng jia de shi mao	10
-更加的时尚	geng jia de shi shang	10
-更加的舒服	geng jia de shu fu	10
-更加的舒适	geng jia de shu shi	10
-更加的帅气	geng jia de shuai qi	10
 更佳的体验	geng jia de ti yan	10
-更加的突出	geng jia de tu chu	10
-更加的凸显	geng jia de tu xian	10
-更加的喜欢	geng jia de xi huan	10
-更加的性感	geng jia de xing gan	10
-更加的优雅	geng jia de you ya	10
-更加的真实	geng jia de zhen shi	10
-更加的注重	geng jia de zhu zhong	10
-更加的自信	geng jia de zi xin	10
 更加地方便	geng jia di fang bian	10
 更加地精致	geng jia di jing zhi	10
 更加坚定地	geng jia jian ding de	10
@@ -22453,7 +22424,6 @@ sort: by_weight
 更接近真实	geng jie jin zhen shi	10
 更近的距离	geng jin de ju li	10
 更近了一步	geng jin le yi bu	10
-更进了一步	geng jin le yi bu	10
 更进一杯酒	geng jin yi bei jiu	10
 更进一步地	geng jin yi bu de	10
 更精微细节	geng jing wei xi jie	10
@@ -22593,7 +22563,6 @@ sort: by_weight
 汞等重金属	gong deng zhong jin shu	10
 供弟弟上学	gong di di shang xue	10
 工地试验室	gong di shi yan shi	10
-工地实验室	gong di shi yan shi	10
 供电可靠率	gong dian ke kao lv	10
 共点力平衡	gong dian li ping heng	10
 宫殿式建筑	gong dian shi jian zhu	10
@@ -36191,7 +36160,6 @@ sort: by_weight
 旧扎戈拉州	jiu zha ge la zhou	10
 九寨千古情	jiu zhai qian gu qing	10
 九章算术注	jiu zhang suan shu zhu	10
-救赵挥金锤	jiu zhao hui jin chui	10
 就这么办吧	jiu zhe me ban ba	10
 就这么呆着	jiu zhe me dai zhe	10
 就这么着吧	jiu zhe me zhao ba	10
@@ -40964,6 +40932,8 @@ sort: by_weight
 量累积曲线	liang lei ji qu xian	10
 亮丽的风景	liang li de feng jing	10
 靓丽的美女	liang li de mei nv	10
+靓丽的名片	liang li de ming pian	10
+亮丽的名片	liang li de ming pian	10
 靓丽的容貌	liang li de rong mao	10
 靓丽的容颜	liang li de rong yan	10
 亮丽的色彩	liang li de se cai	10
@@ -73280,6 +73250,7 @@ sort: by_weight
 小规模纳税	xiao gui mo na shui	10
 小规模试验	xiao gui mo shi yan	10
 小归纳维数	xiao gui na wei shu	10
+小鬼坐龙庭	xiao gui zuo long ting	40
 小果盾翅藤	xiao guo dun chi teng	10
 效果更好哦	xiao guo geng hao o	10
 效果更佳哦	xiao guo geng jia o	10
@@ -89449,6 +89420,8 @@ sort: by_weight
 猪主动脉瓣	zhu zhu dong mai ban	10
 主转动惯量	zhu zhuan dong guan liang	10
 逐桩坐标表	zhu zhuang zuo biao biao	10
+柱子比较多	zhu zi bi jiao duo	12
+竹子比较多	zhu zi bi jiao duo	10
 诸子均分制	zhu zi jun fen zhi	10
 著作权案件	zhu zuo quan an jian	10
 著作权权属	zhu zuo quan quan shu	10
@@ -100482,7 +100455,6 @@ sort: by_weight
 调查核实情况	diao cha he shi qing kuang	10
 调查收集证据	diao cha shou ji zheng ju	10
 吊车升举容量	diao che sheng ju rong liang	10
-调的五度循环	diao de wu du xun huan	10
 调度指挥中心	diao du zhi hui zhong xin	10
 吊钩式抛丸机	diao gou shi pao wan ji	10
 调虎离山之计	diao hu li shan zhi ji	10
@@ -102479,7 +102451,9 @@ sort: by_weight
 放他一条生路	fang ta yi tiao sheng lu	10
 方太抽油烟机	fang tai chou you yan ji	10
 仿碳纤维饰板	fang tan xian wei shi ban	10
+方特东方神画	fang te dong fang shen hua	10
 方特欢乐世界	fang te huan le shi jie	10
+方特梦幻王国	fang te meng huan wang guo	10
 方天画戟就是	fang tian hua ji jiu shi	10
 方田均税条约	fang tian jun shui tiao yue	10
 防伪查询系统	fang wei cha xun xi tong	10
@@ -131142,6 +131116,7 @@ sort: by_weight
 条窗钩翅天蛾	tiao chuang gou chi tian e	10
 条大路通阴间	tiao da lu tong yin jian	10
 挑大学选专业	tiao da xue xuan zhuan ye	10
+调的五度循环	tiao de wu du xun huan	10
 条顿骑士团国	tiao dun qi shi tuan guo	10
 条痕状混合岩	tiao hen zhuang hun he yan	10
 条件接收系统	tiao jian jie shou xi tong	10
@@ -146583,7 +146558,6 @@ sort: by_weight
 嘴里念念有词	zui li nian nian you ci	10
 最凉不过人心	zui liang bu guo ren xin	10
 最亮的一颗星	zui liang de yi ke xing	10
-最靓嘅猪腩肉	zui liang kai zhu nan rou	10
 最亮眼的地方	zui liang yan de di fang	10
 最流行的发型	zui liu xing de fa xing	10
 最流行的歌曲	zui liu xing de ge qu	10
@@ -153521,7 +153495,6 @@ sort: by_weight
 防锁死刹车系统	fang suo si sha che xi tong	10
 方太水槽洗碗机	fang tai shui cao xi wan ji	10
 方特欢乐世界站	fang te huan le shi jie zhan	10
-方特梦幻王国东	fang te meng huan wang guo dong	10
 方位高度显示器	fang wei gao du xian shi qi	10
 防卫省情报本部	fang wei sheng qing bao ben bu	10
 防卫医科大学校	fang wei yi ke da xue xiao	10
